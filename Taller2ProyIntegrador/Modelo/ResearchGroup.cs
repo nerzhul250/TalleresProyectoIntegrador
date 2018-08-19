@@ -75,12 +75,12 @@ namespace Modelo
 
             int nlat = Int32.Parse(l);
             int nlo = Int32.Parse(lo);
-            double a = (Double)r.Next(nlat, 200 + nlat) / 10000.0;
-            double b = (Double)r.Next(nlo, 200 + nlo) / 10000.0;
+            double a = (Double)r.Next(nlat, 1000 + nlat) / 100000.0;
+            double b = (Double)r.Next(nlo, 1000 + nlo) / 100000.0;
 
 
-            double dlat = Math.Abs(lat) - (nlat / 10000.0) + a;
-            double dlo = Math.Abs(lng) - (nlo / 10000.0) + b;
+            double dlat = Math.Abs(lat) - (nlat / 100000.0) + a;
+            double dlo = Math.Abs(lng) - (nlo / 100000.0) + b;
             if (lat < 0)
             {
                 dlat = dlat * (-1.0);
