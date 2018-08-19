@@ -33,7 +33,6 @@
             this.tabRegister = new System.Windows.Forms.TabPage();
             this.mapControl1 = new Taller2ProyIntegrador.MapControl();
             this.mapOptionsControl1 = new Taller2ProyIntegrador.MapOptionsControl();
-            this.tabRegister = new System.Windows.Forms.TabPage();
             this.updateNewControl1 = new Taller2ProyIntegrador.UpdateNewControl();
             this.tabControl1.SuspendLayout();
             this.tabControlMap.SuspendLayout();
