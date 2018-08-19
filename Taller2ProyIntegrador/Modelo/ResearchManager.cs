@@ -119,7 +119,7 @@ namespace Modelo
 
                     GMapControl gmap = new GMapControl();
                     gmap.MapProvider = GMap.NET.MapProviders.GoogleMapProvider.Instance;
-                    GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerAndCache;
+                    GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
                     gmap.SetPositionByKeywords(cn);
 
                     double lat = gmap.Position.Lat;
