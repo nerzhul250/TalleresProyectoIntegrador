@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using GMap;
 using GMap.NET.WindowsForms;
+using System.Diagnostics;
 
 namespace Modelo
 {
@@ -119,11 +120,12 @@ namespace Modelo
                     GMapControl gmap = new GMapControl();
                     gmap.MapProvider = GMap.NET.MapProviders.GoogleMapProvider.Instance;
                     GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerAndCache;
-                    gmap.SetPositionByKeywords(cn + ", " + sn);
+                    gmap.SetPositionByKeywords(cn);
 
                     double lat = gmap.Position.Lat;
                     double lng = gmap.Position.Lng;
-
+                    Debug.WriteLine(lat + ", " + lng + ": " + cn + ", " + sn);
+                    
 
                     retorno = RegisterResearchGroup(grCode, Convert.ToDateTime(Date), grName, daneCode, genResAre, spResArea, categ, cn, sn, rn, lat, lng);
                 }
