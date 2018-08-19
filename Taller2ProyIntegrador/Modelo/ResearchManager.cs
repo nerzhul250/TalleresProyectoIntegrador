@@ -23,12 +23,13 @@ namespace Modelo
         public ResearchManager()
         {
             researchGroups = new ListSerialisable<ResearchGroup>();
+            statistics = new Statistic();
             randomGenerator = new Random();
             LoadResearchGroup();
 
         }
 
-        public bool RegisterResearchGroup (string grCode, string Date, string grName, string daneCode, string genResAre, string spResAre,
+        public bool RegisterResearchGroup (string grCode, DateTime Date, string grName, string daneCode, string genResAre, string spResAre,
             string categ, string cn, string sn, string rn)
         {
             bool retorno = false;
@@ -39,7 +40,7 @@ namespace Modelo
             {
                 try
                 {
-                    ResearchGroup gr = new ResearchGroup(grCode, Convert.ToDateTime(Date), grName, daneCode, genResAre, spResAre, categ, randomGenerator);
+                    ResearchGroup gr = new ResearchGroup(grCode, Date, grName, daneCode, genResAre, spResAre, categ, randomGenerator);
                     gr.inicializateLocation(cn, rn, sn);
                     researchGroups.Add(gr);
                     retorno = true;
@@ -55,7 +56,7 @@ namespace Modelo
         }
 
 
-        public bool RegisterResearchGroup(string grCode, string Date, string grName, string daneCode, string genResAre, string spResAre,
+        public bool RegisterResearchGroup(string grCode, DateTime Date, string grName, string daneCode, string genResAre, string spResAre,
            string categ, string cn, string sn, string rn, double lat, double lng)
         {
             bool retorno = false;
@@ -66,7 +67,7 @@ namespace Modelo
             {
                 try
                 {
-                    ResearchGroup gr = new ResearchGroup(grCode, Convert.ToDateTime(Date), grName, daneCode, genResAre, spResAre, categ, randomGenerator);
+                    ResearchGroup gr = new ResearchGroup(grCode, Date, grName, daneCode, genResAre, spResAre, categ, randomGenerator);
                     gr.inicializateLocation(cn, rn, sn, lat, lng);
                     researchGroups.Add(gr);
                     retorno = true;
@@ -123,12 +124,12 @@ namespace Modelo
                     double lat = gmap.Position.Lat;
                     double lng = gmap.Position.Lng;
 
-                    retorno = RegisterResearchGroup(grCode, Date, grName, daneCode, genResAre, spResArea, categ, cn, sn, rn, lat, lng);
+                    retorno = RegisterResearchGroup(grCode, Convert.ToDateTime(Date), grName, daneCode, genResAre, spResArea, categ, cn, sn, rn, lat, lng);
                 }
 
                 if (retorno)
                 {
-                    str = new FileStream(SERIALISABLE_PATH, FileMode.Create, FileAccess.Read, FileShare.None);
+                    str = new FileStream(SERIALISABLE_PATH, FileMode.Create, FileAccess.Write, FileShare.None);
                     formateador.Serialize(str, researchGroups);
                 }
                 fileStream.Close();
@@ -262,6 +263,15 @@ namespace Modelo
             return refreshed;
         }
 
+        public void SaveGroups()
+        {
+            BinaryFormatter formateador = new BinaryFormatter();
+
+            Stream str = new FileStream(SERIALISABLE_PATH, FileMode.Create, FileAccess.Write, FileShare.None);
+            formateador.Serialize(str, researchGroups);
+
+            str.Close();
+        }
 
 
 
