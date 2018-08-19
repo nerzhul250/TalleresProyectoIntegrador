@@ -11,7 +11,7 @@ using GMap.NET.WindowsForms;
 namespace Modelo
 {
 
-    class ResearchManager
+    public class ResearchManager
     {
         public const string SERIALISABLE_PATH = "../../../docs/ResearchGroups";
         public const string TXT_PATH = "../../../docs/txtInvestigacion.txt";
@@ -123,6 +123,7 @@ namespace Modelo
 
                     double lat = gmap.Position.Lat;
                     double lng = gmap.Position.Lng;
+
 
                     retorno = RegisterResearchGroup(grCode, Convert.ToDateTime(Date), grName, daneCode, genResAre, spResArea, categ, cn, sn, rn, lat, lng);
                 }

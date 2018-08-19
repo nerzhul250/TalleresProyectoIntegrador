@@ -7,11 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Modelo;
 
 namespace Taller2ProyIntegrador
 {
     public partial class Form1 : Form
     {
+
+        public ResearchManager Manager { get; set; }
+
         private GMap.NET.WindowsForms.GMapControl map;
         public Form1()
         {
@@ -34,7 +38,7 @@ namespace Taller2ProyIntegrador
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            Manager = new ResearchManager();
         }
     }
 }
