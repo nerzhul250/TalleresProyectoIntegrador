@@ -22,13 +22,18 @@ namespace Modelo
         private String generalResearchArea;
         private String specificResearchArea;
         private String category;
+        private Location location;
+        private Random randomGenerator;
 
+
+ 
         public string GroupCode { get => groupCode; set => groupCode = value; }
         public DateTime DateFounded { get => dateFounded; set => dateFounded = value; }
         public string GroupName { get => groupName; set => groupName = value; }
         public string DaneCode { get => daneCode; set => daneCode = value; }
         public string GeneralResearchArea { get => generalResearchArea; set => generalResearchArea = value; }
         public string SpecificResearchArea { get => specificResearchArea; set => specificResearchArea = value; }
+        internal Location Location { get => location; set => location = value; }
         // can throws Exception
         public string Category {
             get { return category; }
@@ -46,8 +51,10 @@ namespace Modelo
                     
                         }  }
 
+
+
         // can throws Exception
-        public ResearchGroup(String groupCode,DateTime dateFounded,String groupName,String daneCode,String generalResearchArea,String specificResearchArea,String category)
+        public ResearchGroup(String groupCode,DateTime dateFounded,String groupName,String daneCode,String generalResearchArea,String specificResearchArea,String category, Random randGenerator)
         {
             GroupCode = groupCode;
             DateFounded = dateFounded;
@@ -56,6 +63,12 @@ namespace Modelo
             GeneralResearchArea = generalResearchArea;
             SpecificResearchArea = specificResearchArea;
             Category = category;
+            randomGenerator = randGenerator;
+        }
+
+        public void inicializateLocation(String city, String region, String state, double cityLat, double cityLng)
+        {
+            //TODO 
         }
 
         /**
