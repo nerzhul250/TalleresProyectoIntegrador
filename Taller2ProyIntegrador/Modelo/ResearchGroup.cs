@@ -41,7 +41,7 @@ namespace Modelo
                 }
                 else
                 {
-                    throw new Exception("Categoría no válida");
+                    throw new Exception("Invalid Category");
                 }
                     
                         }  }

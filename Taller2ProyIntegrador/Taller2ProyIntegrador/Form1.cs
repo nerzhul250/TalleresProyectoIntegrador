@@ -16,5 +16,10 @@ namespace Taller2ProyIntegrador
         {
             InitializeComponent();
         }
+
+        private void gMapControl1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
