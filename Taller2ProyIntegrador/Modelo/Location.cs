@@ -22,6 +22,12 @@ namespace Modelo
             Latitude = lat;
             Longitude = longi;
         }
+        public Location(String city, String state, String region)
+        {
+            CityName = city;
+            StateName = state;
+            RegionName = region;
+        }
 
         public string CityName { get => cityName; set => cityName = value; }
         public string StateName { get => stateName; set => stateName = value; }

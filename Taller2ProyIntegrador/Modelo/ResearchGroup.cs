@@ -66,9 +66,61 @@ namespace Modelo
             randomGenerator = randGenerator;
         }
 
+        private double[] generateRandomCoordinates(Random r, double lat, double lng)
+        {
+            String l = lat.ToString();
+            String lo = lng.ToString();
+            l = l.Substring(l.Length - 4);
+            lo = lo.Substring(lo.Length - 4);
+
+            int nlat = Int32.Parse(l);
+            int nlo = Int32.Parse(lo);
+            double a = (Double)r.Next(nlat, 200 + nlat) / 10000.0;
+            double b = (Double)r.Next(nlo, 200 + nlo) / 10000.0;
+
+
+            double dlat = Math.Abs(lat) - (nlat / 10000.0) + a;
+            double dlo = Math.Abs(lng) - (nlo / 10000.0) + b;
+            if (lat < 0)
+            {
+                dlat = dlat * (-1.0);
+            }
+            if (lng < 0)
+            {
+                dlo = dlo * (-1.0);
+            }
+            double[] retorno = new double[2];
+            retorno[0] = dlat;
+            retorno[1] = dlo;
+            return retorno;
+        }
+
         public void inicializateLocation(String city, String region, String state, double cityLat, double cityLng)
         {
-            //TODO 
+            double[] coordinates = generateRandomCoordinates(randomGenerator, cityLat, cityLng);
+            location = new Location(city, state, region, coordinates[0], coordinates[1]);
+        }
+
+        public void inicializateLocation(double groupLat,double groupLng,String city, String region, String state)
+        {
+            location = location = new Location(city, state, region, groupLat, groupLng);
+        }
+        public void inicializateLocation(String city, String region, String state)
+        {
+            location = location = new Location(city, state, region, 0, 0);
+        }
+        //can throws exception
+        public void generateAndSetRandomCoordinates(double cityLat, double cityLng)
+        {
+            double[] coordinates = generateRandomCoordinates(randomGenerator, cityLat, cityLng);
+            try
+            {
+                location.Latitude = coordinates[0];
+                location.Longitude = coordinates[1];
+            }catch(Exception e)
+            {
+                throw new Exception("No location exists");
+            }
         }
 
         /**
