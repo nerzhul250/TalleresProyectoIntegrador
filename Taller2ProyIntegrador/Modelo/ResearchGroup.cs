@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Modelo
 {
+    [Serializable]
     class ResearchGroup
     {
         public const String CAT_A1="A1";
