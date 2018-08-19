@@ -63,7 +63,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0010261	Grupo de Investigación en Relacion
 Convocatoria 781 de 2017	1/01/2017	COL0128074	COLINNOVACION	1/01/2011	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	6
 Convocatoria 781 de 2017	1/01/2017	COL0053133	Grupo de Investigación en  Biotecnologia Agroambiente y Salud-MICROBIOTA	1/09/2005	Bucaramanga	Santander	Colombia	Centro Oriente	68001	1F	Ciencias biológicas	Ciencias naturales	B	3	12
 Convocatoria 781 de 2017	1/01/2017	COL0075435	Grupo de Investigación y Desarrollo en Aplicaciones Satelitales para el estudio de la Dinámica de la Tierra - ASEDT	1/04/2008	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	9
-Convocatoria 781 de 2017	1/01/2017	COL0052341	Neurocognición	1/06/2006	Montería	Córdoba	Colombia	Caribe	23001	5A	Psicología	Ciencias sociales	C	2	11
+Convocatoria 781 de 2017	1/01/2017	COL0052341	Neurocognición	1/06/2006	Monteria	Córdoba	Colombia	Caribe	23001	5A	Psicología	Ciencias sociales	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0007533	Grupo Materiales Compuestos	1/08/1984	Cali	Valle del Cauca	Colombia	Pacífico	76001	2E	Ingeniería de los materiales	Ingeniería y tecnología	A1	5	33
 Convocatoria 781 de 2017	1/01/2017	COL0018179	FITOTECNIA TROPICAL	1/01/2000	Medellín	Antioquia	Colombia	Eje Cafetero	5001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0021129	Pedagogía Urbana y Ambiental	1/08/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	A	4	22
@@ -73,7 +73,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0071875	Grupo de Investigación en Diversid
 Convocatoria 781 de 2017	1/01/2017	COL0014028	MEDI-CIENCIAS RESEARCH GROUP	1/07/1996	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	Reconocido	0	21
 Convocatoria 781 de 2017	1/01/2017	COL0078811	BIOALIMENTOS	1/08/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	10
 Convocatoria 781 de 2017	1/01/2017	COL0030854	Reproducción y Mejoramiento en Animales Tropicales REMEAT	1/02/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	4C	Ciencias veterinarias	Ciencias agrícolas	B	3	22
-Convocatoria 781 de 2017	1/01/2017	COL0010609	Grupo de Investigación y Desarrollo en Electrónica y Telecomunicaciones (GIDET)	1/05/2000	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	17
+Convocatoria 781 de 2017	1/01/2017	COL0010609	Grupo de Investigación y Desarrollo en Electrónica y Telecomunicaciones (GIDET)	1/05/2000	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	17
 Convocatoria 781 de 2017	1/01/2017	COL0004792	Etnología y Lingüistica Amazónicas	1/01/1996	Leticia	Amazonas	Colombia	Centro Sur	91001	5I	Otras ciencias sociales	Ciencias sociales	A	4	21
 Convocatoria 781 de 2017	1/01/2017	COL0006714	Genética Molecular	1/01/1997	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	A	4	20
 Convocatoria 781 de 2017	1/01/2017	COL0032554	Perspectivas del cuidado	1/10/2005	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	12
@@ -85,7 +85,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0010799	Grupo de Optica y Tratamiento de S
 Convocatoria 781 de 2017	1/01/2017	COL0007874	Grupo de Coloides	1/11/1999	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1D	Ciencias químicas	Ciencias naturales	A1	5	18
 Convocatoria 781 de 2017	1/01/2017	COL0112922	Grupo de Investigación en Salud Pública, Educación y Profesionalismo (S.E.P.)	1/01/2010	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	7
 Convocatoria 781 de 2017	1/01/2017	COL0010539	Grupo de Investigación sobre Desarrollo Regional y Ordenamiento Territorial	1/01/1993	Bucaramanga	Santander	Colombia	Centro Oriente	68001	5B	Economía y negocios	Ciencias sociales	B	3	24
-Convocatoria 781 de 2017	1/01/2017	COL0143016	Grupo de Investigacion y Desarrollo en Microelectronica Aplicada	1/05/2013	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	4
+Convocatoria 781 de 2017	1/01/2017	COL0143016	Grupo de Investigacion y Desarrollo en Microelectronica Aplicada	1/05/2013	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0023107	Propiedades Ópticas de Materiales	1/06/2002	Manizales	Caldas	Colombia	Eje Cafetero	17001	1C	Ciencias físicas	Ciencias naturales	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0159061	GEORIESGO	1/04/2012	Cali	Valle del Cauca	Colombia	Pacífico	76001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0003712	Grupo de Investigación en Música y Formación Musical (GRIM)	1/06/2005	Cali	Valle del Cauca	Colombia	Pacífico	76001	6D	Arte	Humanidades	C	2	12
@@ -161,7 +161,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0074634	Biología Evolutiva de Vertebrados	
 Convocatoria 781 de 2017	1/01/2017	COL0052762	Ergonomía, producto y significado- GEPS	1/08/2005	Bucaramanga	Santander	Colombia	Centro Oriente	68001	5I	Otras ciencias sociales	Ciencias sociales	B	3	12
 Convocatoria 781 de 2017	1/01/2017	COL0151223	TRANSFORMACIÓN EDUCATIVA Y SOCIAL  - TES	1/01/2014	Barranquilla	Atlántico	Colombia	Caribe	8001	5C	Ciencias de la educación	Ciencias sociales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0023063	CREAR - Grupo de Investigación en Derecho Público y Económico	1/07/2001	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5E	Derecho	Ciencias sociales	A	4	16
-Convocatoria 781 de 2017	1/01/2017	COL0076853	Agricultura Sostenible	1/01/2002	Montería	Córdoba	Colombia	Caribe	23001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	Reconocido	0	15
+Convocatoria 781 de 2017	1/01/2017	COL0076853	Agricultura Sostenible	1/01/2002	Monteria	Córdoba	Colombia	Caribe	23001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	Reconocido	0	15
 Convocatoria 781 de 2017	1/01/2017	COL0027545	Enseñanza del Lenguaje-ELECDIS	1/02/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6B	Idiomas y literatura	Humanidades	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0068753	Gema	1/08/2004	Pereira	Risaralda	Colombia	Eje Cafetero	66001	1A	Matemática	Ciencias naturales	Reconocido	0	13
 Convocatoria 781 de 2017	1/01/2017	COL0031449	Alimentos y Agroindustria	1/01/2002	Manizales	Caldas	Colombia	Eje Cafetero	17001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A1	5	15
@@ -173,7 +173,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0012613	OSIRIS & BIOAXIS	1/08/2002	Bogotá,
 Convocatoria 781 de 2017	1/01/2017	COL0021828	FISICA DE MATERIALES	1/06/2003	Tunja	Boyacá	Colombia	Centro Oriente	15001	1C	Ciencias físicas	Ciencias naturales	A1	5	14
 Convocatoria 781 de 2017	1/01/2017	COL0020089	GITOUC Grupo interdisciplinario de investigaciones y tratamientos odontológicos Universidad de Cartagena	1/09/2003	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	3B	Medicina clínica	Ciencias médicas y de la salud	A	4	14
 Convocatoria 781 de 2017	1/01/2017	COL0011339	Grupo de investigación en Logística y Producción - Universidad del Valle	1/08/2000	Cali	Valle del Cauca	Colombia	Pacífico	76001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	17
-Convocatoria 781 de 2017	1/01/2017	COL0023045	SOCRATES (Tecnología de punta en ingeniería y ciencias de la computación)	1/07/2001	Montería	Córdoba	Colombia	Caribe	23001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	16
+Convocatoria 781 de 2017	1/01/2017	COL0023045	SOCRATES (Tecnología de punta en ingeniería y ciencias de la computación)	1/07/2001	Monteria	Córdoba	Colombia	Caribe	23001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	16
 Convocatoria 781 de 2017	1/01/2017	COL0029782	Agroindustria de frutas tropicales	1/02/2000	Armenia	Quindío	Colombia	Eje Cafetero	63001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0070484	Grupo de Investigación de Estudios Internacionales	1/06/2007	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5B	Economía y negocios	Ciencias sociales	B	3	10
 Convocatoria 781 de 2017	1/01/2017	COL0016149	Simulación de Sistemas Físicos	1/01/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1C	Ciencias físicas	Ciencias naturales	A	4	22
@@ -263,15 +263,15 @@ Convocatoria 781 de 2017	1/01/2017	COL0061009	PSICOSIS Y PSICOANALISIS	1/08/2006
 Convocatoria 781 de 2017	1/01/2017	COL0017529	Termodinámica Aplicada	1/01/1996	Cali	Valle del Cauca	Colombia	Pacífico	76001	2D	Ingeniería química	Ingeniería y tecnología	A	4	21
 Convocatoria 781 de 2017	1/01/2017	COL0040832	PROCARIBE: DESARROLLO ECONOMICO, INSTITUCIONES Y POLITICAS PUBLICAS PARA EL PROGRESO DEL CARIBE COLOMBIANO 	1/09/2002	Barranquilla	Atlántico	Colombia	Caribe	8001	5B	Economía y negocios	Ciencias sociales	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0114631	Grupo de Investigación Medicina Materno Fetal y Ginecología - El Bosque (MMFG-EB)	1/01/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	13
-Convocatoria 781 de 2017	1/01/2017	COL0078633	ICT-Grupo de Investigación en Ingeniería, Ciencia y Tecnología	1/01/2006	Montería	Córdoba	Colombia	Caribe	23001	2C	Ingeniería mecánica	Ingeniería y tecnología	C	2	11
+Convocatoria 781 de 2017	1/01/2017	COL0078633	ICT-Grupo de Investigación en Ingeniería, Ciencia y Tecnología	1/01/2006	Monteria	Córdoba	Colombia	Caribe	23001	2C	Ingeniería mecánica	Ingeniería y tecnología	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0000069	ACADEMIA	1/02/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0093979	GIOMET	1/02/2007	Villavicencio	Meta	Colombia	Llano	50001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	10
-Convocatoria 781 de 2017	1/01/2017	COL0141915	PLANTAE	1/05/2013	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	1F	Ciencias biológicas	Ciencias naturales	C	2	4
+Convocatoria 781 de 2017	1/01/2017	COL0141915	PLANTAE	1/05/2013	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	1F	Ciencias biológicas	Ciencias naturales	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0052726	CUIDADO PRIMARIO VISUAL Y OCULAR	1/01/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3E	Otras ciencias médicas	Ciencias médicas y de la salud	B	3	17
 Convocatoria 781 de 2017	1/01/2017	COL0124173	Grupo de Investigación en Calidad de la Energía y Electrónica de Potencia	1/06/2010	Manizales	Caldas	Colombia	Eje Cafetero	17001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	A	4	7
 Convocatoria 781 de 2017	1/01/2017	COL0013835	GIMAC - Grupo de Investigación Marina, Ambiental y Costera	1/01/2011	Barranquilla	Atlántico	Colombia	Caribe	8001	1F	Ciencias biológicas	Ciencias naturales	Reconocido	0	6
 Convocatoria 781 de 2017	1/01/2017	COL0045768	Constructores Contables	1/06/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	A1	5	13
-Convocatoria 781 de 2017	1/01/2017	COL0065564	GI*ICC - Grupo de investigación en Informática y Computación Cognitiva 	1/02/2006	Montería	Córdoba	Colombia	Caribe	23001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	11
+Convocatoria 781 de 2017	1/01/2017	COL0065564	GI*ICC - Grupo de investigación en Informática y Computación Cognitiva 	1/02/2006	Monteria	Córdoba	Colombia	Caribe	23001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0065081	Desarrollo Humano y Social	1/03/2006	Pasto	Nariño	Colombia	Pacífico	52001	5I	Otras ciencias sociales	Ciencias sociales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0100126	GRUPO DE INVESTIGACIÓN EN GENÉTICA ANIMAL GIGA	1/10/2010	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	4B	Ciencias animales y lechería	Ciencias agrícolas	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0009547	Grupo de Investigación en Ciencia Política, Derecho y Relaciones Internacionales - GICPODERI	1/02/1998	Cali	Valle del Cauca	Colombia	Pacífico	76001	5E	Derecho	Ciencias sociales	B	3	19
@@ -328,13 +328,13 @@ Convocatoria 781 de 2017	1/01/2017	COL0025371	Grupo de Investigación en Gestión 
 Convocatoria 781 de 2017	1/01/2017	COL0048259	Grupo de Investigación Empresarial y Turistico	1/02/2004	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5B	Economía y negocios	Ciencias sociales	B	3	13
 Convocatoria 781 de 2017	1/01/2017	COL0038449	SISTEL-UV (Grupo de Investigación en Sistemas de Telecomunicaciones)	1/06/2005	Cali	Valle del Cauca	Colombia	Pacífico	76001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0045169	CTG-Informática	1/07/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1B	Computación y ciencias de la información	Ciencias naturales	B	3	10
-Convocatoria 781 de 2017	1/01/2017	COL0000425	Ambiente y Vida	1/10/2001	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	16
+Convocatoria 781 de 2017	1/01/2017	COL0000425	Ambiente y Vida	1/10/2001	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	16
 Convocatoria 781 de 2017	1/01/2017	COL0023573	Medicina Familiar y Salud de la Población 	1/01/1999	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	18
 Convocatoria 781 de 2017	1/01/2017	COL0024365	MODELACION CON ECUACIONES DIFERENCIALES	1/01/2000	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1A	Matemática	Ciencias naturales	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0081675	Cumanday actividad fisica y deporte	1/02/2000	Manizales	Caldas	Colombia	Eje Cafetero	17001	5C	Ciencias de la educación	Ciencias sociales	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0061538	GITEINCO	1/09/2005	Fusagasugá	Cundinamarca	Colombia	Centro Oriente	25290	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0025175	Paleontología de Vertebrados	1/05/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	13
-Convocatoria 781 de 2017	1/01/2017	COL0048376	GRUPO DE INVESTIGACIÓN EN CIENCIAS AGRONÓMICAS Y PECUARIAS (GICAP) 	1/07/2002	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	B	3	15
+Convocatoria 781 de 2017	1/01/2017	COL0048376	GRUPO DE INVESTIGACIÓN EN CIENCIAS AGRONÓMICAS Y PECUARIAS (GICAP) 	1/07/2002	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0034488	Física Básica y Aplicada 	1/11/2006	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1C	Ciencias físicas	Ciencias naturales	Reconocido	0	11
 Convocatoria 781 de 2017	1/01/2017	COL0051077	Grupo de Investigación en Administración de Empresas Agroindustriales USTAGRI	1/08/2005	Bucaramanga	Santander	Colombia	Centro Oriente	68001	5B	Economía y negocios	Ciencias sociales	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0121879	CIAB	1/08/2011	Dosquebradas	Risaralda	Colombia	Eje Cafetero	66170	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	B	3	6
@@ -429,7 +429,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0161121	PATRIMONIO CULTURAL Y GASTRONOMICO
 Convocatoria 781 de 2017	1/01/2017	COL0086179	Fitopatologia molecular	1/01/2006	Cajicá	Cundinamarca	Colombia	Centro Oriente	25126	1F	Ciencias biológicas	Ciencias naturales	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0113287	Gestion Empresarial 	1/08/2010	Armenia	Quindío	Colombia	Eje Cafetero	63001	5B	Economía y negocios	Ciencias sociales	B	3	7
 Convocatoria 781 de 2017	1/01/2017	COL0007069	"GRUPO DE INVESTIGACION MICROBIOLOGIA Y AMBIENTE ""GIMA"""	1/01/2004	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	1F	Ciencias biológicas	Ciencias naturales	A	4	13
-Convocatoria 781 de 2017	1/01/2017	COL0004952	FLUTER	1/02/2002	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	15
+Convocatoria 781 de 2017	1/01/2017	COL0004952	FLUTER	1/02/2002	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0049177	Conservación del Recurso Hídrico y Alimentos - CRHIA	1/11/2002	Sincelejo	Sucre	Colombia	Caribe	70001	1G	Otras ciencias naturales	Ciencias naturales	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0004371	Epidemiología Clínica	1/08/1997	Bucaramanga	Santander	Colombia	Centro Oriente	68001	3C	Ciencias de la salud	Ciencias médicas y de la salud	A1	5	20
 Convocatoria 781 de 2017	1/01/2017	COL0096489	S@R@ - Scientific @cademic Research @ctivity	1/09/2009	Chía	Cundinamarca	Colombia	Centro Oriente	25175	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	8
@@ -439,7 +439,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0064997	RED DE DOCENTES INVESTIGADORES EN 
 Convocatoria 781 de 2017	1/01/2017	COL0107646	Unidad de Investigación en Ecología Tropical  UNIET	1/12/2007	Popayán	Cauca	Colombia	Pacífico	19001	1F	Ciencias biológicas	Ciencias naturales	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0001351	GIELEHLA	1/02/2004	Valledupar	Cesar	Colombia	Caribe	20001	5A	Psicología	Ciencias sociales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0142467	ILLATIO -  Interacción Diseño Innovación	1/05/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6D	Arte	Humanidades	B	3	5
-Convocatoria 781 de 2017	1/01/2017	COL0024552	ciencias sociales aplicadas y derecho	1/02/2001	Montería	Córdoba	Colombia	Caribe	23001	5E	Derecho	Ciencias sociales	A	4	16
+Convocatoria 781 de 2017	1/01/2017	COL0024552	ciencias sociales aplicadas y derecho	1/02/2001	Monteria	Córdoba	Colombia	Caribe	23001	5E	Derecho	Ciencias sociales	A	4	16
 Convocatoria 781 de 2017	1/01/2017	COL0119799	EIDON- Investigación en  Diseño	1/06/2007	Cali	Valle del Cauca	Colombia	Pacífico	76001	6E	Otras humanidades	Humanidades	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0026145	Grupo Investigativo de Estudios Ambientales GIDEA	1/12/2004	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	13
 Convocatoria 781 de 2017	1/01/2017	COL0058686	Grupo de Investigación de Ingeniería Civil  GICIVIL PEREIRA	1/05/2005	Pereira	Risaralda	Colombia	Eje Cafetero	66001	2A	Ingeniería civil	Ingeniería y tecnología	C	2	12
@@ -453,18 +453,18 @@ Convocatoria 781 de 2017	1/01/2017	COL0042891	Grupo de Estudios Ornitologicos - 
 Convocatoria 781 de 2017	1/01/2017	COL0046021	Calidad de Vida y Salud Pública	1/01/2002	Floridablanca	Santander	Colombia	Centro Oriente	68276	5A	Psicología	Ciencias sociales	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0054239	termomec	1/01/2006	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	11
 Convocatoria 781 de 2017	1/01/2017	COL0122259	Grupo de Investigación Carlos Mauro Hoyos. Ética de lo Público, Instituciones y Derechos Humanos	1/01/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	C	2	11
-Convocatoria 781 de 2017	1/01/2017	COL0081379	GISELA	1/05/2008	Montería	Córdoba	Colombia	Caribe	23001	5B	Economía y negocios	Ciencias sociales	B	3	9
+Convocatoria 781 de 2017	1/01/2017	COL0081379	GISELA	1/05/2008	Monteria	Córdoba	Colombia	Caribe	23001	5B	Economía y negocios	Ciencias sociales	B	3	9
 Convocatoria 781 de 2017	1/01/2017	COL0114284	ENFERMERIA Y SALUD PUBLICA - CUEAvH	1/08/2010	Armenia	Quindío	Colombia	Eje Cafetero	63001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	7
 Convocatoria 781 de 2017	1/01/2017	COL0136719	Grupo Habilitación/Rehabilitación Integral Fundación IDEAL (GIDEAL)	1/01/2009	Cali	Valle del Cauca	Colombia	Pacífico	76001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	8
 Convocatoria 781 de 2017	1/01/2017	COL0052065	Bio-Bio	1/10/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3A	Medicina básica	Ciencias médicas y de la salud	A	4	11
 Convocatoria 781 de 2017	1/01/2017	COL0029085	GRUPO DE INVESTIGACIÓN AFIS (ANÁLISIS DE FALLAS, INTEGRIDAD Y SUPERFICIES)	1/01/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2C	Ingeniería mecánica	Ingeniería y tecnología	A1	5	17
 Convocatoria 781 de 2017	1/01/2017	COL0148068	Grupo de Investigación en Actividad Física y Deporte SENA Bogotá	1/01/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0115503	CINESIA	1/11/2010	Pasto	Nariño	Colombia	Pacífico	52001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	7
-Convocatoria 781 de 2017	1/01/2017	COL0017389	Ciempiés	1/11/2003	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	B	3	14
+Convocatoria 781 de 2017	1/01/2017	COL0017389	Ciempiés	1/11/2003	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	B	3	14
 Convocatoria 781 de 2017	1/01/2017	COL0128815	Ortopedia Infantil 	1/01/2011	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	6
 Convocatoria 781 de 2017	1/01/2017	COL0052359	GRUPO DE INVESTIGACION Y DESARROLLO EN INFRAESTRUCTURA VIAL - GRINFRAVIAL	1/01/2002	Tunja	Boyacá	Colombia	Centro Oriente	15001	2A	Ingeniería civil	Ingeniería y tecnología	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0104902	GRUPO DE INVESTIGACION EN FINANZAS - GIFIN	1/01/2007	Popayán	Cauca	Colombia	Pacífico	19001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	10
-Convocatoria 781 de 2017	1/01/2017	COL0164787	INVESTIGACION & DESARROLLO REGIONAL	1/06/2015	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	2
+Convocatoria 781 de 2017	1/01/2017	COL0164787	INVESTIGACION & DESARROLLO REGIONAL	1/06/2015	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0029755	Investigación y Desarrollo Tecnológico para el Sector Agroindustrial (INDETSA)	1/06/2001	Manizales	Caldas	Colombia	Eje Cafetero	17001	1F	Ciencias biológicas	Ciencias naturales	C	2	16
 Convocatoria 781 de 2017	1/01/2017	COL0008889	Grupo de Investigaciones de la Facultad de Arquitectura de la Universidad Santo Tomás, Seccional Bucaramanga - GINVEARQUI	1/10/1998	Floridablanca	Santander	Colombia	Centro Oriente	68276	6D	Arte	Humanidades	B	3	19
 Convocatoria 781 de 2017	1/01/2017	COL0078929	Grupo de Investigación en Derecho Penal ROMAGNOSI-UNINCCA	1/07/2005	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5E	Derecho	Ciencias sociales	C	2	12
@@ -478,8 +478,8 @@ Convocatoria 781 de 2017	1/01/2017	COL0053302	SIGCIENTY	1/04/2005	Bogotá, D.C.	B
 Convocatoria 781 de 2017	1/01/2017	COL0130644	Gustavo Gutiérrez O.P:Teología Latinoamericana	1/01/2008	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6E	Otras humanidades	Humanidades	B	3	9
 Convocatoria 781 de 2017	1/01/2017	COL0060693	Pluriverso	1/03/2006	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5I	Otras ciencias sociales	Ciencias sociales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0158449	Grupo de Investigación, Desarrollo e Innovación en Metrología Física-GIMF	1/06/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1C	Ciencias físicas	Ciencias naturales	Reconocido	0	3
-Convocatoria 781 de 2017	1/01/2017	COL0014959	Producción Animal Tropical	1/02/2002	Montería	Córdoba	Colombia	Caribe	23001	4C	Ciencias veterinarias	Ciencias agrícolas	A	4	15
-Convocatoria 781 de 2017	1/01/2017	COL0024042	Grupo de Investigación en Biomecánica, comunidad y neurodesarrollo -ENTROPIA	1/05/2002	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	3C	Ciencias de la salud	Ciencias médicas y de la salud	Reconocido	0	15
+Convocatoria 781 de 2017	1/01/2017	COL0014959	Producción Animal Tropical	1/02/2002	Monteria	Córdoba	Colombia	Caribe	23001	4C	Ciencias veterinarias	Ciencias agrícolas	A	4	15
+Convocatoria 781 de 2017	1/01/2017	COL0024042	Grupo de Investigación en Biomecánica, comunidad y neurodesarrollo -ENTROPIA	1/05/2002	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	3C	Ciencias de la salud	Ciencias médicas y de la salud	Reconocido	0	15
 Convocatoria 781 de 2017	1/01/2017	COL0067925	Grupo de Investigación y Desarrollo en Informática	1/09/2006	Popayán	Cauca	Colombia	Pacífico	19001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0119422	Grupo de Investigación e Innovación en Energía - GiiEN	1/05/2011	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	B	3	6
 Convocatoria 781 de 2017	1/01/2017	COL0032278	Desarrollo e integración de estrategias alternativas para la protección de cultivos de importancia económica, con énfasis en control biológico.	1/01/1997	Cajicá	Cundinamarca	Colombia	Centro Oriente	25126	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	A	4	20
@@ -502,7 +502,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0019507	Grupo de Investigaciones Bioquímic
 Convocatoria 781 de 2017	1/01/2017	COL0134169	GRUPO LEVAPAN I+D+i EN TECNOLOGIAS DE LEVADURAS Y DERIVADOS	1/01/2000	Tuluá	Valle del Cauca	Colombia	Pacífico	76834	1F	Ciencias biológicas	Ciencias naturales	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0122589	GAIA - Agroecosistemas y Conservación en Bosques Amazónicos	1/02/2008	Florencia	Caquetá	Colombia	Centro Sur	18001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	B	3	9
 Convocatoria 781 de 2017	1/01/2017	COL0173552	COMSIS: Grupo de Investigación en Computación, Sistemas de Información y Desarrollo de Software	1/12/2014	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	Reconocido	0	3
-Convocatoria 781 de 2017	1/01/2017	COL0136379	Fisicoquímica de Mezclas Líquidas	1/01/2009	Montería	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	C	2	8
+Convocatoria 781 de 2017	1/01/2017	COL0136379	Fisicoquímica de Mezclas Líquidas	1/01/2009	Monteria	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0067809	GRUPO DE ESTUDIO DE FUTURO EN EL MUNDO AMAZONICO (GEMA)	1/01/2006	Florencia	Caquetá	Colombia	Centro Sur	18001	5B	Economía y negocios	Ciencias sociales	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0161444	Grupo de Investigación en Humanidades, Ciencias Sociales, Seguridad y Defensa	1/02/2015	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0076414	Grupo de Biofísica-UdeA	1/04/2008	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1C	Ciencias físicas	Ciencias naturales	B	3	9
@@ -548,11 +548,11 @@ Convocatoria 781 de 2017	1/01/2017	COL0125125	Investigación-Creación FUBA	1/01/2
 Convocatoria 781 de 2017	1/01/2017	COL0068403	Genetica Humana	1/12/2005	Chía	Cundinamarca	Colombia	Centro Oriente	25175	3B	Medicina clínica	Ciencias médicas y de la salud	A	4	12
 Convocatoria 781 de 2017	1/01/2017	COL0111291	Estudios constitucionales, medio ambiente y territorio	1/03/2009	Sabaneta	Antioquia	Colombia	Eje Cafetero	5631	5E	Derecho	Ciencias sociales	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0089566	Gestión y Desarrollo Organizacional	1/02/2009	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	C	2	8
-Convocatoria 781 de 2017	1/01/2017	COL0012767	Investigación en mediaciones tecnológicas, cognición y lenguaje para la educación y el desarrollo Humano Cymted-L	1/05/1998	Montería	Córdoba	Colombia	Caribe	23001	5C	Ciencias de la educación	Ciencias sociales	B	3	19
+Convocatoria 781 de 2017	1/01/2017	COL0012767	Investigación en mediaciones tecnológicas, cognición y lenguaje para la educación y el desarrollo Humano Cymted-L	1/05/1998	Monteria	Córdoba	Colombia	Caribe	23001	5C	Ciencias de la educación	Ciencias sociales	B	3	19
 Convocatoria 781 de 2017	1/01/2017	COL0134071	GRUPO DE INVESTIGACION EN VIOLENCIA Y DESARROLLO HUMANO - UDIPSI	1/05/2012	Bucaramanga	Santander	Colombia	Centro Oriente	68001	5A	Psicología	Ciencias sociales	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0028892	Grupo de Neurociencia de Caldas	1/01/2002	Manizales	Caldas	Colombia	Eje Cafetero	17001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0048732	Salud Pública UDES	1/02/2003	Bucaramanga	Santander	Colombia	Centro Oriente	68001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	14
-Convocatoria 781 de 2017	1/01/2017	COL0120325	GRUPO DE INVESTIGACION CONTABLE CINERA	1/02/2004	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	C	2	13
+Convocatoria 781 de 2017	1/01/2017	COL0120325	GRUPO DE INVESTIGACION CONTABLE CINERA	1/02/2004	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0156005	UDECARTE	1/06/2014	Zipaquirá	Cundinamarca	Colombia	Centro Oriente	25899	6D	Arte	Humanidades	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0058059	MOVIMIENTO Y SALUD	1/04/2006	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0138025	CENTRO DE INVESTIGACIÓN Y ATENCIÓN EN SALUD DEL MAGDALENA MEDIO	1/03/2012	Barrancabermeja	Santander	Colombia	Centro Oriente	68081	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	5
@@ -612,7 +612,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0090253	Representaciones y prácticas de le
 Convocatoria 781 de 2017	1/01/2017	COL0067012	ROBÓTICA APLICADA	1/11/2007	Pereira	Risaralda	Colombia	Eje Cafetero	66001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	10
 Convocatoria 781 de 2017	1/01/2017	COL0107815	Ingeniería, Energía, Exergía y Sostenibilidad (IEXS)	1/01/2010	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2C	Ingeniería mecánica	Ingeniería y tecnología	B	3	7
 Convocatoria 781 de 2017	1/01/2017	COL0147829	COSMOGRAV	1/10/2011	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1C	Ciencias físicas	Ciencias naturales	Reconocido	0	6
-Convocatoria 781 de 2017	1/01/2017	COL0037603	DANM/ Desarrollo y Aplicación de Nuevos Materiales	1/08/2004	Montería	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	13
+Convocatoria 781 de 2017	1/01/2017	COL0037603	DANM/ Desarrollo y Aplicación de Nuevos Materiales	1/08/2004	Monteria	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0164197	HÁBITAT CONSCIENTE	1/06/2015	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6E	Otras humanidades	Humanidades	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0169854	Investigadores en Medicina Familiar	1/11/2015	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0164624	Medicina Hospitalaria UniNavarra-Medilaser	1/01/2015	Neiva	Huila	Colombia	Centro Sur	41001	3B	Medicina clínica	Ciencias médicas y de la salud	Reconocido	0	2
@@ -624,7 +624,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0097085	Vitruvius	1/01/2009	Bogotá, D.C.	B
 Convocatoria 781 de 2017	1/01/2017	COL0154341	GIFI - Grupo de Investigación en Finanzas de la UdeA	1/01/2014	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5B	Economía y negocios	Ciencias sociales	B	3	3
 Convocatoria 781 de 2017	1/01/2017	COL0081343	INGECO DE UNAULA	1/01/2006	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0163888	Grupo de Estudios Ambientales Aplicados - GEAA	1/05/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2G	Ingeniería ambiental	Ingeniería y tecnología	C	2	3
-Convocatoria 781 de 2017	1/01/2017	COL0071098	CIMA	1/05/2006	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	11
+Convocatoria 781 de 2017	1/01/2017	COL0071098	CIMA	1/05/2006	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	11
 Convocatoria 781 de 2017	1/01/2017	COL0160339	GIISATA Grupo de Investigación para la Innovación Social, Agroindustrial, Tecnológica y Ambiental Araucana 	1/02/2015	Arauca	Arauca	Colombia	Llano	81001	4E	Otras ciencias agrícolas	Ciencias agrícolas	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0172949	Investigarte	1/01/2013	Valledupar	Cesar	Colombia	Caribe	20001	6E	Otras humanidades	Humanidades	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0133341	Applied NeuroScience	1/07/2012	Pereira	Risaralda	Colombia	Eje Cafetero	66001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	5
@@ -687,7 +687,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0007758	Grupo de Automática de la Universi
 Convocatoria 781 de 2017	1/01/2017	COL0039321	MATRIX	1/12/2003	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1A	Matemática	Ciencias naturales	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0007838	Grupo de Calorimetría	1/02/2001	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1D	Ciencias químicas	Ciencias naturales	A1	5	16
 Convocatoria 781 de 2017	1/01/2017	COL0006222	GRUPO DE INVESTIGACIONES AMBIENTALES	1/01/1974	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2G	Ingeniería ambiental	Ingeniería y tecnología	B	3	43
-Convocatoria 781 de 2017	1/01/2017	COL0141334	APIRA KUNA: Grupo Interdisciplinario de Investigación en Comunicación	1/02/2013	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5H	Periodismo y comunicaciones	Ciencias sociales	B	3	4
+Convocatoria 781 de 2017	1/01/2017	COL0141334	APIRA KUNA: Grupo Interdisciplinario de Investigación en Comunicación	1/02/2013	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5H	Periodismo y comunicaciones	Ciencias sociales	B	3	4
 Convocatoria 781 de 2017	1/01/2017	COL0010619	Grupo de Investigación en Periodismo (GIP)	1/02/2002	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5H	Periodismo y comunicaciones	Ciencias sociales	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0024427	MI DNEUROPSY	1/03/2001	Neiva	Huila	Colombia	Centro Sur	41001	5A	Psicología	Ciencias sociales	A1	5	16
 Convocatoria 781 de 2017	1/01/2017	COL0029147	Grupo de Investigación en Psiquiatría GIPSI	1/10/1997	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3B	Medicina clínica	Ciencias médicas y de la salud	A1	5	20
@@ -724,7 +724,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0001585	Competitividad y Mercadeo en las O
 Convocatoria 781 de 2017	1/01/2017	COL0100485	Grupo de Investigación en Ingenieria de Procesos, Energia y Medio Ambiente	1/01/2010	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2D	Ingeniería química	Ingeniería y tecnología	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0029307	Pediatria CES	1/02/1994	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	23
 Convocatoria 781 de 2017	1/01/2017	COL0015473	Astrofísica	1/06/2001	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1C	Ciencias físicas	Ciencias naturales	C	2	16
-Convocatoria 781 de 2017	1/01/2017	COL0103093	GRUPO DE INVESTIGACION PARA EL DESARROLLO SOCIOECONOMICO	1/01/2010	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	A	4	7
+Convocatoria 781 de 2017	1/01/2017	COL0103093	GRUPO DE INVESTIGACION PARA EL DESARROLLO SOCIOECONOMICO	1/01/2010	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	A	4	7
 Convocatoria 781 de 2017	1/01/2017	COL0007687	Grupo de Antropología Social	1/06/1993	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5D	Sociología	Ciencias sociales	B	3	24
 Convocatoria 781 de 2017	1/01/2017	COL0024463	Inmunobiología y Biología Celular	1/01/1996	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	A1	5	21
 Convocatoria 781 de 2017	1/01/2017	COL0006993	Gestión y Políticas Públicas	1/01/1998	Cali	Valle del Cauca	Colombia	Pacífico	76001	5F	Ciencias políticas	Ciencias sociales	A	4	19
@@ -742,12 +742,12 @@ Convocatoria 781 de 2017	1/01/2017	COL0004783	Estéticas urbanas y socialidades	1
 Convocatoria 781 de 2017	1/01/2017	COL0050122	Salud  y cuidado de los colectivos 	1/01/2001	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	A	4	16
 Convocatoria 781 de 2017	1/01/2017	COL0052199	PUBLICIDAD: SOCIEDAD, CULTURA Y CREATIVIDAD	1/11/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5H	Periodismo y comunicaciones	Ciencias sociales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0128252	GRUPO DE INVESTIGACION  DE ODONTOLOGIA UNIVERSIDAD METROPOLITANA DE BARRANQUILLA (GIOUMEB)	1/07/2011	Barranquilla	Atlántico	Colombia	Caribe	8001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	6
-Convocatoria 781 de 2017	1/01/2017	COL0006142	GRUPO DE INVESTIGACION EN TECNOLOGIA CERAMICA	1/02/2000	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2E	Ingeniería de los materiales	Ingeniería y tecnología	A	4	17
+Convocatoria 781 de 2017	1/01/2017	COL0006142	GRUPO DE INVESTIGACION EN TECNOLOGIA CERAMICA	1/02/2000	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2E	Ingeniería de los materiales	Ingeniería y tecnología	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0067934	"Grupo de Investigacion en Sistemas Dinámicos Multifísicos, Control y Robotica; Grupo de Investigación DICBOT"	1/08/2001	Bucaramanga	Santander	Colombia	Centro Oriente	68001	2C	Ingeniería mecánica	Ingeniería y tecnología	C	2	16
 Convocatoria 781 de 2017	1/01/2017	COL0049032	Cuidado para la salud cardiorrespiratoria	1/01/2002	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	A	4	15
-Convocatoria 781 de 2017	1/01/2017	COL0068056	Sociedad Imaginarios Comunicación SIC	1/12/2002	Montería	Córdoba	Colombia	Caribe	23001	5C	Ciencias de la educación	Ciencias sociales	A	4	15
+Convocatoria 781 de 2017	1/01/2017	COL0068056	Sociedad Imaginarios Comunicación SIC	1/12/2002	Monteria	Córdoba	Colombia	Caribe	23001	5C	Ciencias de la educación	Ciencias sociales	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0039689	Grupo de investigación en Ingeniería de Diseño (DisIng)	1/06/2005	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2C	Ingeniería mecánica	Ingeniería y tecnología	C	2	12
-Convocatoria 781 de 2017	1/01/2017	COL0006652	GRUPO REGIONAL DE INVESTIGACION PARTICIPATIVA DE LOS PEQUEÑOS PRODUCTORES DE LA COSTA ATLANTICA	1/12/2000	Montería	Córdoba	Colombia	Caribe	23001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	A	4	17
+Convocatoria 781 de 2017	1/01/2017	COL0006652	GRUPO REGIONAL DE INVESTIGACION PARTICIPATIVA DE LOS PEQUEÑOS PRODUCTORES DE LA COSTA ATLANTICA	1/12/2000	Monteria	Córdoba	Colombia	Caribe	23001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0002546	Investigación en Salud Oral	1/01/2002	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0106371	Análisis Numérico y Financiero: Matemáticas aplicadas para la industria.	1/01/2008	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1A	Matemática	Ciencias naturales	B	3	9
 Convocatoria 781 de 2017	1/01/2017	COL0013728	Microbiologia Ambiental y Bioprospeccion	1/01/1991	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	A1	5	26
@@ -870,7 +870,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0078642	Etica, Filosofia Politica y Juridi
 Convocatoria 781 de 2017	1/01/2017	COL0010065	Grupo de Investigación en Papa	1/01/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	Reconocido	0	22
 Convocatoria 781 de 2017	1/01/2017	COL0016265	Sistemática de Insectos Agronomía	1/10/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0001029	Bioprocesos y bioprospección	1/02/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	A	4	22
-Convocatoria 781 de 2017	1/01/2017	COL0014869	Procesos y Agro Industrias  de Vegetales (GIPAVE)	1/11/2002	Montería	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	15
+Convocatoria 781 de 2017	1/01/2017	COL0014869	Procesos y Agro Industrias  de Vegetales (GIPAVE)	1/11/2002	Monteria	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0000719	BIODIVERSIDAD Y BIOTECNOLOGÍA	1/02/1993	Pereira	Risaralda	Colombia	Eje Cafetero	66001	1F	Ciencias biológicas	Ciencias naturales	A	4	24
 Convocatoria 781 de 2017	1/01/2017	COL0013521	Macroeconomía	1/07/1996	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	A1	5	21
 Convocatoria 781 de 2017	1/01/2017	COL0008488	Grupo de Física Teórica de Altas Energías	1/04/1996	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1C	Ciencias físicas	Ciencias naturales	C	2	21
@@ -1058,7 +1058,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0159571	DERECHO, INNOVACIÓN Y DESARROLLO S
 Convocatoria 781 de 2017	1/01/2017	COL0140168	Grupo de Investigacion en reanimacion,urgencias y simulacion	1/03/2013	Pereira	Risaralda	Colombia	Eje Cafetero	66001	3B	Medicina clínica	Ciencias médicas y de la salud	Reconocido	0	4
 Convocatoria 781 de 2017	1/01/2017	COL0180717	Grupo de Investigación en Justicia Global	1/01/2013	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	5E	Derecho	Ciencias sociales	Reconocido	0	4
 Convocatoria 781 de 2017	1/01/2017	COL0136029	Unidad de Epidemiología Clínica Oral	1/04/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3A	Medicina básica	Ciencias médicas y de la salud	B	3	5
-Convocatoria 781 de 2017	1/01/2017	COL0157577	INVESTIGACIONES CABP	1/01/2014	Montería	Córdoba	Colombia	Caribe	23001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	3
+Convocatoria 781 de 2017	1/01/2017	COL0157577	INVESTIGACIONES CABP	1/01/2014	Monteria	Córdoba	Colombia	Caribe	23001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0186499	Geoamenazas e Ingeniería Civil	1/10/2014	Villavicencio	Meta	Colombia	Llano	50001	2A	Ingeniería civil	Ingeniería y tecnología	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0082789	Parasitología Veterinaria	1/01/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	4C	Ciencias veterinarias	Ciencias agrícolas	B	3	13
 Convocatoria 781 de 2017	1/01/2017	COL0026842	GRUPO NUEVAS TECNOLOGIAS - UDES	1/01/2003	Bucaramanga	Santander	Colombia	Centro Oriente	68001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	B	3	14
@@ -1114,7 +1114,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0093818	Grupo de Investigación  Lingüístic
 Convocatoria 781 de 2017	1/01/2017	COL0039288	YAMBORÓ	1/05/2007	Pitalito	Huila	Colombia	Centro Sur	41551	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0161373	"Grupo de Investigación en Finanzas y Economía Financiera ""Eugene Fama"""	1/02/2015	Tunja	Boyacá	Colombia	Centro Oriente	15001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0165784	TECNOLOGÍAS PARA LA INNOVACIÓN EN CONSTRUCCIÓN (TPIC)	1/02/2014	Cali	Valle del Cauca	Colombia	Pacífico	76001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
-Convocatoria 781 de 2017	1/01/2017	COL0022745	Grupo de Aguas, Química Aplicada y Ambiental 	1/01/2000	Montería	Córdoba	Colombia	Caribe	23001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	A	4	17
+Convocatoria 781 de 2017	1/01/2017	COL0022745	Grupo de Aguas, Química Aplicada y Ambiental 	1/01/2000	Monteria	Córdoba	Colombia	Caribe	23001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0068468	GEBIMOL	1/06/2004	Tunja	Boyacá	Colombia	Centro Oriente	15001	1F	Ciencias biológicas	Ciencias naturales	B	3	13
 Convocatoria 781 de 2017	1/01/2017	COL0130027	DOPyS, DESARROLLO ORGANIZACIONAL, PROSPECTIVO Y SOSTENIBLE	1/03/2012	Chía	Cundinamarca	Colombia	Centro Oriente	25175	5B	Economía y negocios	Ciencias sociales	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0028579	Grupo de Investigacion en Transporte, Transito y Vias - GITTV	1/01/1997	Cali	Valle del Cauca	Colombia	Pacífico	76001	2A	Ingeniería civil	Ingeniería y tecnología	C	2	20
@@ -1147,7 +1147,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0132549	PROTEÓMICA Y GENÓMICA	1/04/2011	Ba
 Convocatoria 781 de 2017	1/01/2017	COL0010056	 Tecnologías de Información y Comunicación y Gestión del Conocimiento ENL@CE	1/03/2001	Barranquilla	Atlántico	Colombia	Caribe	8001	5C	Ciencias de la educación	Ciencias sociales	B	3	16
 Convocatoria 781 de 2017	1/01/2017	COL0118354	Grupo de Investigación en Estudios Sociales SURES	1/01/2010	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	7
 Convocatoria 781 de 2017	1/01/2017	COL0037926	ANTA	1/01/2003	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	Reconocido	0	14
-Convocatoria 781 de 2017	1/01/2017	COL0001182	"Equipo de Estudios Económicos y Administrativos para el Desarrollo Regional ""ESDER"""	1/01/2005	Montería	Córdoba	Colombia	Caribe	23001	5B	Economía y negocios	Ciencias sociales	C	2	12
+Convocatoria 781 de 2017	1/01/2017	COL0001182	"Equipo de Estudios Económicos y Administrativos para el Desarrollo Regional ""ESDER"""	1/01/2005	Monteria	Córdoba	Colombia	Caribe	23001	5B	Economía y negocios	Ciencias sociales	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0000022	#¿NOMBRE?	1/12/1982	Florencia	Caquetá	Colombia	Centro Sur	18001	5C	Ciencias de la educación	Ciencias sociales	Reconocido	0	35
 Convocatoria 781 de 2017	1/01/2017	COL0104232	GIMA. Grupo de Investigación Minero y Ambiental	1/07/2006	Valledupar	Cesar	Colombia	Caribe	20001	2G	Ingeniería ambiental	Ingeniería y tecnología	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0032249	GRESA	1/01/2008	Sincelejo	Sucre	Colombia	Caribe	70001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	9
@@ -1164,7 +1164,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0075809	DAVINCI	1/01/2006	Pasto	Nariño	Col
 Convocatoria 781 de 2017	1/01/2017	COL0045946	Grupo de Investigación Psicología, Sociedad y Subjetividades.	1/05/2006	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5A	Psicología	Ciencias sociales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0011394	Grupo de investigación en Geología de hidrocarburos y carbones	1/06/1995	Bucaramanga	Santander	Colombia	Centro Oriente	68001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	22
 Convocatoria 781 de 2017	1/01/2017	COL0165962	Grupo en Modelado y Simulación de Sistemas Sociales Complejos MYSCO	1/02/2014	Ibagué	Tolima	Colombia	Centro Sur	73001	5I	Otras ciencias sociales	Ciencias sociales	C	2	3
-Convocatoria 781 de 2017	1/01/2017	COL0160679	GINDET (Grupo de Investigación en Desarrollo Tecnológico e Innovación)	1/02/2014	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
+Convocatoria 781 de 2017	1/01/2017	COL0160679	GINDET (Grupo de Investigación en Desarrollo Tecnológico e Innovación)	1/02/2014	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0171306	Grupo de Investigacion Escuela de Policia en Proteccion y Seguridad	1/01/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0089889	Saber, poder y derecho	1/05/2008	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5E	Derecho	Ciencias sociales	Reconocido	0	9
 Convocatoria 781 de 2017	1/01/2017	COL0044484	Grupo de Investigación en Aplicaciones Mecatrónicas, GRAM	1/06/2003	Bucaramanga	Santander	Colombia	Centro Oriente	68001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	14
@@ -1244,7 +1244,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0064459	GRUPO DE INVESTIGACIONES EN FARMAC
 Convocatoria 781 de 2017	1/01/2017	COL0092819	Simul Ando	1/06/2009	Villavicencio	Meta	Colombia	Llano	50001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0158663	RECETAS, FORMULAS Y TURISMO	1/01/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0139603	TETRIX MARKETING - Grupo de Investigación en Marketing	1/01/2013	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5B	Economía y negocios	Ciencias sociales	C	2	4
-Convocatoria 781 de 2017	1/01/2017	COL0077509	GISOFT	1/07/2003	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	1B	Computación y ciencias de la información	Ciencias naturales	Reconocido	0	14
+Convocatoria 781 de 2017	1/01/2017	COL0077509	GISOFT	1/07/2003	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	1B	Computación y ciencias de la información	Ciencias naturales	Reconocido	0	14
 Convocatoria 781 de 2017	1/01/2017	COL0138212	Química Aplicada a Procesos Ecológicos QUAPE-UT	1/11/2012	Ibagué	Tolima	Colombia	Centro Sur	73001	1D	Ciencias químicas	Ciencias naturales	B	3	5
 Convocatoria 781 de 2017	1/01/2017	COL0002555	Cisalva - Instituto de investigación y desarrollo en prevención de violencia y promocion de la convivencia social	1/06/1997	Cali	Valle del Cauca	Colombia	Pacífico	76001	3C	Ciencias de la salud	Ciencias médicas y de la salud	A1	5	20
 Convocatoria 781 de 2017	1/01/2017	COL0070205	Economía, políticas públicas y ciudadanía	1/08/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	A	4	17
@@ -1350,7 +1350,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0053643	Investigación en Calidad de Energí
 Convocatoria 781 de 2017	1/01/2017	COL0010289	Grupo de Investigación en Robótica y Sistemas Inteligentes	1/01/1997	Barranquilla	Atlántico	Colombia	Caribe	8001	1B	Computación y ciencias de la información	Ciencias naturales	A	4	20
 Convocatoria 781 de 2017	1/01/2017	COL0008058	Grupo de Energia Alternativa	1/01/1993	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2C	Ingeniería mecánica	Ingeniería y tecnología	C	2	24
 Convocatoria 781 de 2017	1/01/2017	COL0012739	Cognición y Educación	1/12/2000	Santa Marta	Magdalena	Colombia	Caribe	47001	5A	Psicología	Ciencias sociales	A	4	17
-Convocatoria 781 de 2017	1/01/2017	COL0100618	Grupo Avanzado de Materiales y Sistemas Complejos - GAMASCO	1/01/2010	Montería	Córdoba	Colombia	Caribe	23001	1C	Ciencias físicas	Ciencias naturales	B	3	7
+Convocatoria 781 de 2017	1/01/2017	COL0100618	Grupo Avanzado de Materiales y Sistemas Complejos - GAMASCO	1/01/2010	Monteria	Córdoba	Colombia	Caribe	23001	1C	Ciencias físicas	Ciencias naturales	B	3	7
 Convocatoria 781 de 2017	1/01/2017	COL0049696	MODELAMIENTO Y ANÁLISIS ENERGÍA AMBIENTE ECONOMÍA	1/06/2003	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	14
 Convocatoria 781 de 2017	1/01/2017	COL0039591	Desarrollo Humano, Educación y Procesos Sociales	1/05/2002	Barranquilla	Atlántico	Colombia	Caribe	8001	5A	Psicología	Ciencias sociales	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0120979	Electrical Machines & Drives, EM&D	1/01/2011	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	6
@@ -1469,7 +1469,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0095919	GIND - Grupo de investigación en N
 Convocatoria 781 de 2017	1/01/2017	COL0004469	Estadística Aplicada en Investigación Experimental, Industria y Biotecnología	1/10/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1A	Matemática	Ciencias naturales	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0003946	Ética aplicada, trabajo y responsabilidad social	1/08/1998	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6E	Otras humanidades	Humanidades	B	3	19
 Convocatoria 781 de 2017	1/01/2017	COL0084176	Centro de Desarrollo Industrial Tecsol	1/01/1998	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1D	Ciencias químicas	Ciencias naturales	B	3	19
-Convocatoria 781 de 2017	1/01/2017	COL0053723	Grupo de Investigación Derecho Público	1/01/2006	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5E	Derecho	Ciencias sociales	C	2	11
+Convocatoria 781 de 2017	1/01/2017	COL0053723	Grupo de Investigación Derecho Público	1/01/2006	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5E	Derecho	Ciencias sociales	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0110928	Grupo de Modelado y Aplicación de Procesos Avanzados de Oxidación	1/02/2010	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	2D	Ingeniería química	Ingeniería y tecnología	A	4	7
 Convocatoria 781 de 2017	1/01/2017	COL0068637	Grupo de Estudios Tectonicos GET	1/08/2006	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0099105	Pensamiento Artístico y Comunicación	1/02/2009	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6D	Arte	Humanidades	C	2	8
@@ -1478,14 +1478,14 @@ Convocatoria 781 de 2017	1/01/2017	COL0003801	ACCION MOTRIZ	1/08/2001	Neiva	Huil
 Convocatoria 781 de 2017	1/01/2017	COL0004596	Comunicación y Estudios Culturales	1/08/1998	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5H	Periodismo y comunicaciones	Ciencias sociales	B	3	19
 Convocatoria 781 de 2017	1/01/2017	COL0104466	Educación y Sociedad	1/01/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	A	4	10
 Convocatoria 781 de 2017	1/01/2017	COL0026996	Grupo de Investigación en Telemática e Informática Aplicada	1/01/2003	Cali	Valle del Cauca	Colombia	Pacífico	76001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	A	4	14
-Convocatoria 781 de 2017	1/01/2017	COL0009429	"Grupo de Investigación en Automatización y Control "" GIAC"""	1/11/2000	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	Reconocido	0	17
+Convocatoria 781 de 2017	1/01/2017	COL0009429	"Grupo de Investigación en Automatización y Control "" GIAC"""	1/11/2000	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	Reconocido	0	17
 Convocatoria 781 de 2017	1/01/2017	COL0013441	ESTUDIOS ÉTNICO-RACIALES Y DEL TRABAJO EN SUS DIFERENTES COMPONENTES SOCIALES	1/06/1995	Cali	Valle del Cauca	Colombia	Pacífico	76001	5D	Sociología	Ciencias sociales	A	4	22
 Convocatoria 781 de 2017	1/01/2017	COL0083849	Grupo de Investigación en Microbiología y Genética	1/01/2008	Bucaramanga	Santander	Colombia	Centro Oriente	68001	1F	Ciencias biológicas	Ciencias naturales	B	3	9
 Convocatoria 781 de 2017	1/01/2017	COL0012669	Investigaciones Jurídicas	1/08/2006	Rionegro	Antioquia	Colombia	Eje Cafetero	5615	5E	Derecho	Ciencias sociales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0004077	Economía y Desarrollo	1/01/2000	Cali	Valle del Cauca	Colombia	Pacífico	76001	5B	Economía y negocios	Ciencias sociales	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0007794	Grupo de Biomecánica de la Universidad del Valle	1/06/1999	Cali	Valle del Cauca	Colombia	Pacífico	76001	2F	Ingeniería médica	Ingeniería y tecnología	A1	5	18
 Convocatoria 781 de 2017	1/01/2017	COL0041239	EDUCACION Y PEDAGOGIA	1/01/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	11
-Convocatoria 781 de 2017	1/01/2017	COL0008469	Grupo de Fisicoquimica Organica	1/12/2000	Montería	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	C	2	17
+Convocatoria 781 de 2017	1/01/2017	COL0008469	Grupo de Fisicoquimica Organica	1/12/2000	Monteria	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0044448	Grupo de Investigación en Telecomunicaciones Aplicadas - GITA	1/03/2002	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	A1	5	15
 Convocatoria 781 de 2017	1/01/2017	COL0006269	GRUPO DE INVESTIGACIONES EN DESARROLLO HUMANO	1/02/1974	Barranquilla	Atlántico	Colombia	Caribe	8001	5I	Otras ciencias sociales	Ciencias sociales	A1	5	43
 Convocatoria 781 de 2017	1/01/2017	COL0110973	GRUPO DE TRASPLANTES - UNIVERSIDAD NACIONAL DE COLOMBIA	1/01/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	Reconocido	0	10
@@ -1533,7 +1533,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0050309	Ciencias Veterinarias (CIENVET)	1/
 Convocatoria 781 de 2017	1/01/2017	COL0000926	Bioinformática	1/06/1998	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	A	4	19
 Convocatoria 781 de 2017	1/01/2017	COL0126131	GRUPO DE INVESTIGACIÓN EN MICROBIOLOGÍA BÁSICA Y APLICADA-MICROBA	1/08/2011	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1F	Ciencias biológicas	Ciencias naturales	B	3	6
 Convocatoria 781 de 2017	1/01/2017	COL0038629	Sinapsis educativa y social	1/11/2003	Barranquilla	Atlántico	Colombia	Caribe	8001	5A	Psicología	Ciencias sociales	A	4	14
-Convocatoria 781 de 2017	1/01/2017	COL0118541	GIIC -Grupo de Investigación de Ingeniería Civil	1/01/2009	Montería	Córdoba	Colombia	Caribe	23001	2A	Ingeniería civil	Ingeniería y tecnología	C	2	8
+Convocatoria 781 de 2017	1/01/2017	COL0118541	GIIC -Grupo de Investigación de Ingeniería Civil	1/01/2009	Monteria	Córdoba	Colombia	Caribe	23001	2A	Ingeniería civil	Ingeniería y tecnología	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0115281	ETHOS	1/01/2011	Tunja	Boyacá	Colombia	Centro Oriente	15001	5A	Psicología	Ciencias sociales	C	2	6
 Convocatoria 781 de 2017	1/01/2017	COL0008844	Grupo de Investigaciones Herpetológicas y Toxinológicas	1/01/1999	Popayán	Cauca	Colombia	Pacífico	19001	1F	Ciencias biológicas	Ciencias naturales	C	2	18
 Convocatoria 781 de 2017	1/01/2017	COL0072881	Interacciones Tritróficas	1/01/2006	Palmira	Valle del Cauca	Colombia	Pacífico	76520	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	11
@@ -1551,7 +1551,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0066786	GIF: grupo de investigación en Ing
 Convocatoria 781 de 2017	1/01/2017	COL0018779	Grupo de Investigación en Física del estado sólido (GIFES	1/03/2005	Riohacha	La Guajira	Colombia	Caribe	44001	1C	Ciencias físicas	Ciencias naturales	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0106836	Centro de Investigación e Innovación en Ingeniería - I3	1/02/2005	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0043262	Grupo de Investigadores  de Enfermería de Risaralda	1/08/2005	Pereira	Risaralda	Colombia	Eje Cafetero	66001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	12
-Convocatoria 781 de 2017	1/01/2017	COL0012186	INVESTIGACIONES EN PROCESOS AGROINDUSTRIALES	1/01/2002	Montería	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	B	3	15
+Convocatoria 781 de 2017	1/01/2017	COL0012186	INVESTIGACIONES EN PROCESOS AGROINDUSTRIALES	1/01/2002	Monteria	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0039699	Grupo de Investigación en Nuevos Sólidos con Aplicación Industrial - GINSAI	1/08/2004	Cali	Valle del Cauca	Colombia	Pacífico	76001	1C	Ciencias físicas	Ciencias naturales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0097432	GIAT - Grupo de Investigación de Aplicaciones en Telecomunicaciones	1/06/2009	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0074053	"GRUA - Grupo Red ""Universidad y Ambiente"""	1/05/2005	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	12
@@ -1559,7 +1559,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0045919	Lenguajes, pedagogías y culturas	1
 Convocatoria 781 de 2017	1/01/2017	COL0004246	PROYECTO, ARQUITECTURA Y CIUDAD	1/01/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6D	Arte	Humanidades	Reconocido	0	17
 Convocatoria 781 de 2017	1/01/2017	COL0122947	AgroBiotecnología	1/04/1999	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1A	Matemática	Ciencias naturales	Reconocido	0	18
 Convocatoria 781 de 2017	1/01/2017	COL0033069	INVEMAR - Bioprospección Marina	1/05/2002	Santa Marta	Magdalena	Colombia	Caribe	47001	1F	Ciencias biológicas	Ciencias naturales	C	2	15
-Convocatoria 781 de 2017	1/01/2017	COL0006106	GRUPO DE INVESTIGACION EN SALUD PUBLICA	1/01/2002	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	15
+Convocatoria 781 de 2017	1/01/2017	COL0006106	GRUPO DE INVESTIGACION EN SALUD PUBLICA	1/01/2002	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0100583	DERECHOS FUNDAMENTALES Y TEORÍA POLÍTICA	1/04/2008	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5E	Derecho	Ciencias sociales	C	2	9
 Convocatoria 781 de 2017	1/01/2017	COL0010673	Grupo de Investigaciones Mellitopalinológicas y Propiedades Fisicoquímicas de Alimentos	1/02/2000	Ibagué	Tolima	Colombia	Centro Sur	73001	1D	Ciencias químicas	Ciencias naturales	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0017155	Previsión y Pensamiento Estratégico	1/04/2000	Cali	Valle del Cauca	Colombia	Pacífico	76001	5B	Economía y negocios	Ciencias sociales	B	3	17
@@ -1569,7 +1569,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0011198	Grupo de investigación en Georrecu
 Convocatoria 781 de 2017	1/01/2017	COL0106193	Matemática, Educación y Sociedad-MES	1/01/2005	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5C	Ciencias de la educación	Ciencias sociales	A	4	12
 Convocatoria 781 de 2017	1/01/2017	COL0021139	Grupo de Trabajo en NuevasTecnologías de Diseño y Manufactura-Automatización DIMA UN	1/10/1998	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	19
 Convocatoria 781 de 2017	1/01/2017	COL0046157	DESARROLLOS HUMANOS, EDUCATIVOS Y ORGANIZACIONALES-DHEOS 	1/01/2003	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5A	Psicología	Ciencias sociales	C	2	14
-Convocatoria 781 de 2017	1/01/2017	COL0041025	ALTOS ESTUDIOS DE FRONTERA - ALEF	1/08/2006	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5E	Derecho	Ciencias sociales	A	4	11
+Convocatoria 781 de 2017	1/01/2017	COL0041025	ALTOS ESTUDIOS DE FRONTERA - ALEF	1/08/2006	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5E	Derecho	Ciencias sociales	A	4	11
 Convocatoria 781 de 2017	1/01/2017	COL0130949	Grupo de Ciencia de Materiales y Superficies	1/04/2011	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1C	Ciencias físicas	Ciencias naturales	A1	5	6
 Convocatoria 781 de 2017	1/01/2017	COL0027993	COMUNIQUÉMONOS	1/01/2001	Neiva	Huila	Colombia	Centro Sur	41001	5C	Ciencias de la educación	Ciencias sociales	B	3	16
 Convocatoria 781 de 2017	1/01/2017	COL0105015	Entomologia	1/01/2005	Pasto	Nariño	Colombia	Pacífico	52001	1F	Ciencias biológicas	Ciencias naturales	C	2	12
@@ -1806,7 +1806,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0131472	ETNIA	1/06/2011	Valledupar	Cesar	C
 Convocatoria 781 de 2017	1/01/2017	COL0037846	Grupo de Investigación en Catálisis Ambiental y Energías Renovables	1/08/2003	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2G	Ingeniería ambiental	Ingeniería y tecnología	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0161892	Derecho Administrativo	1/05/2014	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5E	Derecho	Ciencias sociales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0173697	Innovación Inteligente (INNOUS)	1/12/2011	Pasto	Nariño	Colombia	Pacífico	52001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	6
-Convocatoria 781 de 2017	1/01/2017	COL0039081	Grupo de Investigación Prospectiva y Desarrollo Humano	1/01/2004	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5E	Derecho	Ciencias sociales	C	2	13
+Convocatoria 781 de 2017	1/01/2017	COL0039081	Grupo de Investigación Prospectiva y Desarrollo Humano	1/01/2004	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5E	Derecho	Ciencias sociales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0006198	GRUPO DE INVESTIGACION SOBRE TEMAS DE ARTE Y ARQUITECTURA EN LATINOAMERICA - GISTAL	1/10/1998	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6D	Arte	Humanidades	Reconocido	0	19
 Convocatoria 781 de 2017	1/01/2017	COL0074017	Grupo de Enfermería- HUS	1/11/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0155849	IPAITUG	1/05/2014	Riohacha	La Guajira	Colombia	Caribe	44001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
@@ -1831,7 +1831,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0083526	GIGAS Grupo de investigación en Ge
 Convocatoria 781 de 2017	1/01/2017	COL0038825	MindLab	1/01/2001	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	A1	5	16
 Convocatoria 781 de 2017	1/01/2017	COL0064315	COINDE	1/08/2003	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5B	Economía y negocios	Ciencias sociales	B	3	14
 Convocatoria 781 de 2017	1/01/2017	COL0003579	Dinusco	1/01/1996	Neiva	Huila	Colombia	Centro Sur	41001	1A	Matemática	Ciencias naturales	Reconocido	0	21
-Convocatoria 781 de 2017	1/01/2017	COL0054023	CRISALIDA	1/09/2002	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	1F	Ciencias biológicas	Ciencias naturales	Reconocido	0	15
+Convocatoria 781 de 2017	1/01/2017	COL0054023	CRISALIDA	1/09/2002	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	1F	Ciencias biológicas	Ciencias naturales	Reconocido	0	15
 Convocatoria 781 de 2017	1/01/2017	COL0042559	Qualipro- Grupo de Investigación en Calidad y Productividad	1/07/2005	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0028551	Poéticas: dramaturgos, poetas y filósofos reflexionan sobre las artes	1/05/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6B	Idiomas y literatura	Humanidades	C	2	22
 Convocatoria 781 de 2017	1/01/2017	COL0069886	Recursos Zoogenéticos Palmira	1/08/1997	Palmira	Valle del Cauca	Colombia	Pacífico	76520	4C	Ciencias veterinarias	Ciencias agrícolas	A1	5	20
@@ -1859,7 +1859,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0070223	Grupo de Investigacion en Medicina
 Convocatoria 781 de 2017	1/01/2017	COL0028702	Magnetismo e Interacciones Hiperfinas	1/01/1995	Tunja	Boyacá	Colombia	Centro Oriente	15001	1C	Ciencias físicas	Ciencias naturales	C	2	22
 Convocatoria 781 de 2017	1/01/2017	COL0105543	centro de estudios ambientales  de la Orinoquia  CEAO	1/01/2009	Yopal	Casanare	Colombia	Llano	85001	1F	Ciencias biológicas	Ciencias naturales	Reconocido	0	8
 Convocatoria 781 de 2017	1/01/2017	COL0014396	FILOSOFIA POLITICA	1/01/2003	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6E	Otras humanidades	Humanidades	B	3	14
-Convocatoria 781 de 2017	1/01/2017	COL0144416	Grupo de Investigación en Ciencia y Tecnología Agroindustrial - GICITECA	1/11/2012	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	5
+Convocatoria 781 de 2017	1/01/2017	COL0144416	Grupo de Investigación en Ciencia y Tecnología Agroindustrial - GICITECA	1/11/2012	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0184832	Artefacto	1/06/2015	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	6D	Arte	Humanidades	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0058069	Innovar Tecnologico	1/04/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	Reconocido	0	11
 Convocatoria 781 de 2017	1/01/2017	COL0164301	Aerospace Science and Technology ReseArch (ASTRA)	1/06/2015	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	Reconocido	0	2
@@ -1871,7 +1871,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0036446	CIENCIA Y TECNOLOGÍA PESQUERA TROP
 Convocatoria 781 de 2017	1/01/2017	COL0107889	INNOVATEC	1/02/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0109981	FUS EMPRESAS: INNOVACIÓN Y DESARROLLO CREATIVO	1/01/2010	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0144953	TEMCON	1/02/2013	Fusagasugá	Cundinamarca	Colombia	Centro Oriente	25290	5B	Economía y negocios	Ciencias sociales	Reconocido	0	4
-Convocatoria 781 de 2017	1/01/2017	COL0141512	Grupo de Investigación en Arquitectura y Materiales Alternativos - GRAMA	1/03/2013	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	6E	Otras humanidades	Humanidades	C	2	4
+Convocatoria 781 de 2017	1/01/2017	COL0141512	Grupo de Investigación en Arquitectura y Materiales Alternativos - GRAMA	1/03/2013	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	6E	Otras humanidades	Humanidades	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0187692	POLÍTICA, GESTIÓN Y APROPIACIÓN SOCIAL DE CTeI	1/10/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	B	3	5
 Convocatoria 781 de 2017	1/01/2017	COL0095311	PRODUCTOS NATURALES UDCA	1/01/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1D	Ciencias químicas	Ciencias naturales	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0070994	Grupo de Investigación en Economía Regiona y Urbana. GIERU 	1/09/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5G	Geografía social y económica	Ciencias sociales	Reconocido	0	11
@@ -1883,8 +1883,8 @@ Convocatoria 781 de 2017	1/01/2017	COL0176179	GECAC Grupo de Estudio de las Cien
 Convocatoria 781 de 2017	1/01/2017	COL0058719	Grupo Interdisciplinario de Estudios Sectoriales (GIES)	1/06/2005	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0013138	Laboratorio de Investigaciones en Parasitología Tropical	1/01/1996	Ibagué	Tolima	Colombia	Centro Sur	73001	1F	Ciencias biológicas	Ciencias naturales	A	4	21
 Convocatoria 781 de 2017	1/01/2017	COL0159544	ID&SI	1/01/2013	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1B	Computación y ciencias de la información	Ciencias naturales	C	2	4
-Convocatoria 781 de 2017	1/01/2017	COL0139336	GRUPO DE INVESTIGACIÓN EN INNOVACIÓN Y GESTIÓN PRODUCTIVA GIINGPRO	1/10/2012	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	5
-Convocatoria 781 de 2017	1/01/2017	COL0051989	Grupo de Investigaciones en Propiedades y Procesos Alimentarios (GIPPAL)	1/12/2008	Montería	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	B	3	9
+Convocatoria 781 de 2017	1/01/2017	COL0139336	GRUPO DE INVESTIGACIÓN EN INNOVACIÓN Y GESTIÓN PRODUCTIVA GIINGPRO	1/10/2012	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	5
+Convocatoria 781 de 2017	1/01/2017	COL0051989	Grupo de Investigaciones en Propiedades y Procesos Alimentarios (GIPPAL)	1/12/2008	Monteria	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	B	3	9
 Convocatoria 781 de 2017	1/01/2017	COL0141138	Medicina Traslacional	1/01/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0034085	ESCLEROSIS MULTIPLE Y OTROS TRASTORNOS NEUROLÓGICOS	1/01/2003	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3A	Medicina básica	Ciencias médicas y de la salud	A	4	14
 Convocatoria 781 de 2017	1/01/2017	COL0017449	EduFísica	1/01/2004	Ibagué	Tolima	Colombia	Centro Sur	73001	5C	Ciencias de la educación	Ciencias sociales	C	2	13
@@ -1913,7 +1913,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0148335	CUENTA DE ALTO COSTO	1/12/2013	Bog
 Convocatoria 781 de 2017	1/01/2017	COL0179494	Instituto Pensar	1/01/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0122016	"""Cuchavira"" Socialización, Poder y Conocimiento"	1/01/2011	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6E	Otras humanidades	Humanidades	C	2	6
 Convocatoria 781 de 2017	1/01/2017	COL0147893	Ciencias Basicas Aplicadas Tecnologico Antioquia-CBATA-	1/12/2013	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1F	Ciencias biológicas	Ciencias naturales	C	2	4
-Convocatoria 781 de 2017	1/01/2017	COL0036787	Física Teórica y Aplicada	1/02/2002	Montería	Córdoba	Colombia	Caribe	23001	1C	Ciencias físicas	Ciencias naturales	C	2	15
+Convocatoria 781 de 2017	1/01/2017	COL0036787	Física Teórica y Aplicada	1/02/2002	Monteria	Córdoba	Colombia	Caribe	23001	1C	Ciencias físicas	Ciencias naturales	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0077627	IMPROVIZARTE	1/02/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6D	Arte	Humanidades	Reconocido	0	11
 Convocatoria 781 de 2017	1/01/2017	COL0155296	Grupo de Investigación para las Prácticas Artísticas en Contexto	1/01/2014	Medellín	Antioquia	Colombia	Eje Cafetero	5001	6D	Arte	Humanidades	Reconocido	0	3
 Convocatoria 781 de 2017	1/01/2017	COL0053895	eritrón	1/01/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	Reconocido	0	13
@@ -1979,12 +1979,12 @@ Convocatoria 781 de 2017	1/01/2017	COL0176492	Estudios del derecho y pensamiento
 Convocatoria 781 de 2017	1/01/2017	COL0170989	Grupo de Investigación Socio-Jurídico UdeC	1/01/2015	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5E	Derecho	Ciencias sociales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0014009	Bioquímica Experimental y Computacional	1/01/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	A1	5	17
 Convocatoria 781 de 2017	1/01/2017	COL0060165	Ecología del paisaje y modelación de ecosistemas	1/01/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	B	3	10
-Convocatoria 781 de 2017	1/01/2017	COL0019937	BIODIVERSIDAD UNICÓRDOBA	1/02/2001	Montería	Córdoba	Colombia	Caribe	23001	1F	Ciencias biológicas	Ciencias naturales	B	3	16
+Convocatoria 781 de 2017	1/01/2017	COL0019937	BIODIVERSIDAD UNICÓRDOBA	1/02/2001	Monteria	Córdoba	Colombia	Caribe	23001	1F	Ciencias biológicas	Ciencias naturales	B	3	16
 Convocatoria 781 de 2017	1/01/2017	COL0047299	Educación e Investigación UNBOSQUE	1/03/2001	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	B	3	16
 Convocatoria 781 de 2017	1/01/2017	COL0019006	Fotónica y Opto-electrónica	1/01/2000	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1C	Ciencias físicas	Ciencias naturales	A1	5	17
 Convocatoria 781 de 2017	1/01/2017	COL0006151	GRUPO DE INVESTIGACION EN ZOOLOGIA	1/06/2002	Ibagué	Tolima	Colombia	Centro Sur	73001	1F	Ciencias biológicas	Ciencias naturales	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0030451	Pedagogías de la Lectura y la Escritura	1/02/1999	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	A	4	18
-Convocatoria 781 de 2017	1/01/2017	COL0021784	EQUIPO INTERDISCIPLINARIO DE INVESTIGACION CUS	1/02/2003	Montería	Córdoba	Colombia	Caribe	23001	5B	Economía y negocios	Ciencias sociales	A	4	14
+Convocatoria 781 de 2017	1/01/2017	COL0021784	EQUIPO INTERDISCIPLINARIO DE INVESTIGACION CUS	1/02/2003	Monteria	Córdoba	Colombia	Caribe	23001	5B	Economía y negocios	Ciencias sociales	A	4	14
 Convocatoria 781 de 2017	1/01/2017	COL0016363	OXIGENAR	1/06/1997	Tunja	Boyacá	Colombia	Centro Oriente	15001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	20
 Convocatoria 781 de 2017	1/01/2017	COL0000917	Biofísica	1/01/1994	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	A	4	23
 Convocatoria 781 de 2017	1/01/2017	COL0047009	Grupo de Magnetismo y Simulación	1/01/2000	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1C	Ciencias físicas	Ciencias naturales	A	4	17
@@ -2053,7 +2053,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0008497	Grupo de Física Teórica del Estado
 Convocatoria 781 de 2017	1/01/2017	COL0119576	IGUAQUE	1/05/2011	Neiva	Huila	Colombia	Centro Sur	41001	5B	Economía y negocios	Ciencias sociales	C	2	6
 Convocatoria 781 de 2017	1/01/2017	COL0002269	CENTRO DE INVESTIGACION PARA EL DESARROLLO SOSTENIBLE EN INDUSTRIA Y ENERGIA	1/02/1993	Bucaramanga	Santander	Colombia	Centro Oriente	68001	2D	Ingeniería química	Ingeniería y tecnología	Reconocido	0	24
 Convocatoria 781 de 2017	1/01/2017	COL0072925	JOAQUÍN AARÓN MANJARRÉS	1/01/2008	Santa Marta	Magdalena	Colombia	Caribe	47001	5E	Derecho	Ciencias sociales	A1	5	9
-Convocatoria 781 de 2017	1/01/2017	COL0152893	Grupo de Investigación Juridico Comercial y Fronterizo (GIJCF)	1/12/2009	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5E	Derecho	Ciencias sociales	C	2	8
+Convocatoria 781 de 2017	1/01/2017	COL0152893	Grupo de Investigación Juridico Comercial y Fronterizo (GIJCF)	1/12/2009	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5E	Derecho	Ciencias sociales	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0039457	JUSTICIA, AMBITO PUBLICO Y DERECHOS HUMANOS	1/02/2000	Chía	Cundinamarca	Colombia	Centro Oriente	25175	5E	Derecho	Ciencias sociales	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0002107	Centro de Estudios e Investigaciones Ambientales	1/01/1996	Bucaramanga	Santander	Colombia	Centro Oriente	68001	2D	Ingeniería química	Ingeniería y tecnología	A1	5	21
 Convocatoria 781 de 2017	1/01/2017	COL0099698	CCComposites (cements, ceramics and composites)	1/02/2009	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2E	Ingeniería de los materiales	Ingeniería y tecnología	C	2	8
@@ -2080,7 +2080,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0016229	Modelado Matemático	1/05/2000	Mede
 Convocatoria 781 de 2017	1/01/2017	COL0015704	Residualidad y Destino Ambiental de Plaguicidas en Sistemas Agricolas	1/01/1996	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1D	Ciencias químicas	Ciencias naturales	A	4	21
 Convocatoria 781 de 2017	1/01/2017	COL0044045	Fisiología Celular y Molecular	1/01/2002	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0031289	Grupo Interdisciplinario de Investigación en Energía y Medio Ambiente-GIIMA.	1/06/2001	Barranquilla	Atlántico	Colombia	Caribe	8001	2C	Ingeniería mecánica	Ingeniería y tecnología	A	4	16
-Convocatoria 781 de 2017	1/01/2017	COL0018349	Botanica	1/03/2003	Montería	Córdoba	Colombia	Caribe	23001	1F	Ciencias biológicas	Ciencias naturales	C	2	14
+Convocatoria 781 de 2017	1/01/2017	COL0018349	Botanica	1/03/2003	Monteria	Córdoba	Colombia	Caribe	23001	1F	Ciencias biológicas	Ciencias naturales	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0004569	Estudio y aprovechamiento de Productos Naturales Marinos y Frutas de Colombia	1/01/1985	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1D	Ciencias químicas	Ciencias naturales	A1	5	32
 Convocatoria 781 de 2017	1/01/2017	COL0141942	Educación y regionalización en CTeI - GIER	1/02/2010	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	B	3	7
 Convocatoria 781 de 2017	1/01/2017	COL0061509	Física Matemática	1/10/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1A	Matemática	Ciencias naturales	C	2	10
@@ -2122,8 +2122,8 @@ Convocatoria 781 de 2017	1/01/2017	COL0010869	Grupo de Investigación en Recursos
 Convocatoria 781 de 2017	1/01/2017	COL0008549	Grupo de Historia Colonial	1/01/1997	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6A	Historia y arqueología	Humanidades	B	3	20
 Convocatoria 781 de 2017	1/01/2017	COL0045131	GRINDES	1/03/2006	Pamplona	Norte de Santander	Colombia	Centro Oriente	54518	5B	Economía y negocios	Ciencias sociales	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0003534	Didáctica de la Matemática	1/01/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	B	3	22
-Convocatoria 781 de 2017	1/01/2017	COL0126561	GICSH: Grupo de Investigación en Ciencias Sociales y Humanas	1/05/2014	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	3
-Convocatoria 781 de 2017	1/01/2017	COL0018699	Euler	1/01/1999	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	1A	Matemática	Ciencias naturales	A	4	18
+Convocatoria 781 de 2017	1/01/2017	COL0126561	GICSH: Grupo de Investigación en Ciencias Sociales y Humanas	1/05/2014	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	3
+Convocatoria 781 de 2017	1/01/2017	COL0018699	Euler	1/01/1999	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	1A	Matemática	Ciencias naturales	A	4	18
 Convocatoria 781 de 2017	1/01/2017	COL0121162	EDUCACIÓN, DERECHOS HUMANOS Y CIUDADANÍA	1/01/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	A	4	10
 Convocatoria 781 de 2017	1/01/2017	COL0016944	Grupo de Investigación Biomédica Traslacional	1/08/1999	Floridablanca	Santander	Colombia	Centro Oriente	68276	3B	Medicina clínica	Ciencias médicas y de la salud	A1	5	18
 Convocatoria 781 de 2017	1/01/2017	COL0031154	GRUPO INVESTIGACION COMERCIO Y COMPORTAMIENTO DEL CONSUMIDOR	1/01/2004	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	5B	Economía y negocios	Ciencias sociales	B	3	13
@@ -2288,7 +2288,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0153335	Historia, espacio y cultura	1/01/2
 Convocatoria 781 de 2017	1/01/2017	COL0032492	Grupo Nacional de Investigación en Ecofisiologia Vegetal & Ecosistemas Terrestres-GIEFIVET	1/08/2003	Bucaramanga	Santander	Colombia	Centro Oriente	68001	1F	Ciencias biológicas	Ciencias naturales	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0159956	Desarrollo de Estudios y Tecnologías Ambientales del Carbono (DESTACAR)	1/01/2013	Riohacha	La Guajira	Colombia	Caribe	44001	2C	Ingeniería mecánica	Ingeniería y tecnología	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0016597	Transiciones de Fase en Sistemas no Metálicos	1/06/1982	Cali	Valle del Cauca	Colombia	Pacífico	76001	1C	Ciencias físicas	Ciencias naturales	A	4	35
-Convocatoria 781 de 2017	1/01/2017	COL0020212	Grupo de Química Computacional Universidad de Córdoba	1/02/2002	Montería	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	C	2	15
+Convocatoria 781 de 2017	1/01/2017	COL0020212	Grupo de Química Computacional Universidad de Córdoba	1/02/2002	Monteria	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0036885	Grupo de Estudios Regionales Latinoamericanos ( GERL)	1/05/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0155948	Grupo de Investigación en Simulación, Análisis y Modelado en Ciencias Básicas SiAMo	1/05/2013	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1C	Ciencias físicas	Ciencias naturales	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0022889	Grupo de Física Teórica y Computacional	1/01/2002	Tunja	Boyacá	Colombia	Centro Oriente	15001	1C	Ciencias físicas	Ciencias naturales	B	3	15
@@ -2346,7 +2346,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0033892	SINERGIA-UCC	1/01/2007	Espinal	Tol
 Convocatoria 781 de 2017	1/01/2017	COL0064496	Grupo de Investigación en Sistemas Modernos de Producción y Manejo Poscosecha de los Cultivos de Yuca y Batata	1/04/1999	Cali	Valle del Cauca	Colombia	Pacífico	76001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	B	3	18
 Convocatoria 781 de 2017	1/01/2017	COL0043191	Grupo de Investigación en Bioinstrumentación y Control - GIBIO	1/03/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2F	Ingeniería médica	Ingeniería y tecnología	B	3	13
 Convocatoria 781 de 2017	1/01/2017	COL0020796	GRUPO DE FÍSICA NUCLEAR APLICADA Y SIMULACIÓN	1/06/2003	Tunja	Boyacá	Colombia	Centro Oriente	15001	1C	Ciencias físicas	Ciencias naturales	A1	5	14
-Convocatoria 781 de 2017	1/01/2017	COL0059019	Informática y Tecnologías Emergentes	1/07/2006	Montería	Córdoba	Colombia	Caribe	23001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	11
+Convocatoria 781 de 2017	1/01/2017	COL0059019	Informática y Tecnologías Emergentes	1/07/2006	Monteria	Córdoba	Colombia	Caribe	23001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0051863	Gestión Ecológica y Agroindustrial GEA	1/03/2004	Barranquilla	Atlántico	Colombia	Caribe	8001	4B	Ciencias animales y lechería	Ciencias agrícolas	B	3	13
 Convocatoria 781 de 2017	1/01/2017	COL0080909	Geología, Geofísica y Procesos Marino-Costeros	1/04/2008	Barranquilla	Atlántico	Colombia	Caribe	8001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	9
 Convocatoria 781 de 2017	1/01/2017	COL0069296	Modelos de simulación ICDIST	1/01/2006	Cajicá	Cundinamarca	Colombia	Centro Oriente	25126	2A	Ingeniería civil	Ingeniería y tecnología	C	2	11
@@ -2387,7 +2387,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0030406	Investigación para la creación art
 Convocatoria 781 de 2017	1/01/2017	COL0139989	Protección Vegetal para el Mejoramiento de la Productividad 	1/10/2009	Palmira	Valle del Cauca	Colombia	Pacífico	76520	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	A	4	8
 Convocatoria 781 de 2017	1/01/2017	COL0027625	Procesos Sociopolíticos Contemporáneos	1/01/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5D	Sociología	Ciencias sociales	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0051129	GRUPO DE INVESTIGACION EN INGENIERIA INFORMATICA	1/08/2004	Bucaramanga	Santander	Colombia	Centro Oriente	68001	1B	Computación y ciencias de la información	Ciencias naturales	B	3	13
-Convocatoria 781 de 2017	1/01/2017	COL0023546	CIENCIAS SOCIALES Y HUMANIDADES	1/01/2000	Montería	Córdoba	Colombia	Caribe	23001	5A	Psicología	Ciencias sociales	C	2	17
+Convocatoria 781 de 2017	1/01/2017	COL0023546	CIENCIAS SOCIALES Y HUMANIDADES	1/01/2000	Monteria	Córdoba	Colombia	Caribe	23001	5A	Psicología	Ciencias sociales	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0137859	Análisis de modelos como herramientas para la toma de decisiones en agricultura	1/09/2007	Cali	Valle del Cauca	Colombia	Pacífico	76001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	A1	5	10
 Convocatoria 781 de 2017	1/01/2017	COL0099249	FILIUS	1/07/2009	Armenia	Quindío	Colombia	Eje Cafetero	63001	5E	Derecho	Ciencias sociales	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0004335	Cultura y Región	1/03/2005	Pasto	Nariño	Colombia	Pacífico	52001	6A	Historia y arqueología	Humanidades	C	2	12
@@ -2403,7 +2403,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0113509	Planeamiento Minero	1/05/2010	Mede
 Convocatoria 781 de 2017	1/01/2017	COL0062016	AULOS  Música: educación, historia y sociedad	1/01/2003	Ibagué	Tolima	Colombia	Centro Sur	73001	6D	Arte	Humanidades	B	3	14
 Convocatoria 781 de 2017	1/01/2017	COL0031359	Hidroingeniería y Desarrollo Agropecuario 	1/01/2002	Neiva	Huila	Colombia	Centro Sur	41001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0009251	Grupo de Investigación SER	1/07/1996	Rionegro	Antioquia	Colombia	Eje Cafetero	5615	5C	Ciencias de la educación	Ciencias sociales	B	3	21
-Convocatoria 781 de 2017	1/01/2017	COL0018689	Arquímedes: Grupo de Investigación en Enseñanza de las Ciencias	1/06/2001	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5C	Ciencias de la educación	Ciencias sociales	A	4	16
+Convocatoria 781 de 2017	1/01/2017	COL0018689	Arquímedes: Grupo de Investigación en Enseñanza de las Ciencias	1/06/2001	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5C	Ciencias de la educación	Ciencias sociales	A	4	16
 Convocatoria 781 de 2017	1/01/2017	COL0001576	FACEA	1/02/2002	Rionegro	Antioquia	Colombia	Eje Cafetero	5615	5B	Economía y negocios	Ciencias sociales	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0101535	REFORMANDA	1/02/2009	Cali	Valle del Cauca	Colombia	Pacífico	76001	6E	Otras humanidades	Humanidades	B	3	8
 Convocatoria 781 de 2017	1/01/2017	COL0143796	Sostenibilidad Organizaciónal en la Competitividad	1/01/2013	Barranquilla	Atlántico	Colombia	Caribe	8001	5B	Economía y negocios	Ciencias sociales	B	3	4
@@ -2423,7 +2423,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0036606	Grupo de investigacion ZooBios. 	1
 Convocatoria 781 de 2017	1/01/2017	COL0166941	POSEIDÓN	1/06/2013	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	5I	Otras ciencias sociales	Ciencias sociales	B	3	4
 Convocatoria 781 de 2017	1/01/2017	COL0144004	GRUPO DE INVESTIGACIÓN EN  INNOVACIÓN AGROINDUSTRIAL Y  PRODUCCIÓN SOSTENIBLE 	1/04/2013	Villeta	Cundinamarca	Colombia	Centro Oriente	25875	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	Reconocido	0	4
 Convocatoria 781 de 2017	1/01/2017	COL0016059	Salud, Conocimiento médico y Sociedad	1/01/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	22
-Convocatoria 781 de 2017	1/01/2017	COL0096248	Comunicación, Derecho y Humanidades   (COEDU)	1/07/2008	Montería	Córdoba	Colombia	Caribe	23001	5I	Otras ciencias sociales	Ciencias sociales	C	2	9
+Convocatoria 781 de 2017	1/01/2017	COL0096248	Comunicación, Derecho y Humanidades   (COEDU)	1/07/2008	Monteria	Córdoba	Colombia	Caribe	23001	5I	Otras ciencias sociales	Ciencias sociales	C	2	9
 Convocatoria 781 de 2017	1/01/2017	COL0187057	Estudios Turísticos	1/09/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0002878	Conversión de Energía	1/01/1975	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2C	Ingeniería mecánica	Ingeniería y tecnología	Reconocido	0	42
 Convocatoria 781 de 2017	1/01/2017	COL0004719	Evidencia Terapeutica	1/01/2012	Chía	Cundinamarca	Colombia	Centro Oriente	25175	3B	Medicina clínica	Ciencias médicas y de la salud	A	4	5
@@ -2444,7 +2444,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0088077	Psiquiatria y salud mental	1/01/20
 Convocatoria 781 de 2017	1/01/2017	COL0081236	AGROFORESTERIA Y BIODIVERSIDAD TROPICAL	1/07/1994	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	4C	Ciencias veterinarias	Ciencias agrícolas	C	2	23
 Convocatoria 781 de 2017	1/01/2017	COL0034094	FILOSOFÍA DEL DERECHO  Y DERECHO CONSTITUCIONAL.	1/06/2002	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	5E	Derecho	Ciencias sociales	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0077977	IPPE (Investigación en Prácticas Pedagógicas)	1/06/2007	Neiva	Huila	Colombia	Centro Sur	41001	5C	Ciencias de la educación	Ciencias sociales	C	2	10
-Convocatoria 781 de 2017	1/01/2017	COL0097405	G.T.N	1/02/2009	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	C	2	8
+Convocatoria 781 de 2017	1/01/2017	COL0097405	G.T.N	1/02/2009	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0098832	Comunicación, medios y mercadeo	1/01/2009	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0020535	Grupo de Investigacion en Instrumentacion, Control Automatico y Robotica (ICARO)	1/02/2001	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	16
 Convocatoria 781 de 2017	1/01/2017	COL0097174	Observatorio para el Desarrollo Sostenible de Cartagena - OCARTAGENA	1/01/2006	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	11
@@ -2508,13 +2508,13 @@ Convocatoria 781 de 2017	1/01/2017	COL0075293	Desarrollo Economico  y Calidad de
 Convocatoria 781 de 2017	1/01/2017	COL0128083	GRUPO DE INVESTIGACIÓN EDUCACIÓN SOCIAL - GES	1/01/2011	Ibagué	Tolima	Colombia	Centro Sur	73001	5D	Sociología	Ciencias sociales	C	2	6
 Convocatoria 781 de 2017	1/01/2017	COL0075598	Biología de Sistemas	1/01/2009	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3B	Medicina clínica	Ciencias médicas y de la salud	A1	5	8
 Convocatoria 781 de 2017	1/01/2017	COL0036123	Ciudadanía, Paz y Desarrollo	1/05/2002	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5F	Ciencias políticas	Ciencias sociales	B	3	15
-Convocatoria 781 de 2017	1/01/2017	COL0171369	Centro Corciem	1/02/2013	Montería	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	4
+Convocatoria 781 de 2017	1/01/2017	COL0171369	Centro Corciem	1/02/2013	Monteria	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0089789	GMAS Ltda	1/06/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0176652	Metusia	1/01/2015	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5C	Ciencias de la educación	Ciencias sociales	C	2	2
 Convocatoria 781 de 2017	1/01/2017	COL0059754	ABOGADOS SOLIDARIOS UCC	1/06/2006	Villavicencio	Meta	Colombia	Llano	50001	5E	Derecho	Ciencias sociales	Reconocido	0	11
 Convocatoria 781 de 2017	1/01/2017	COL0033883	"IDEAS ""Investigadores para el Desarrollo Empresarial y Agroindustrial Sostenible"""	1/02/2001	Tunja	Boyacá	Colombia	Centro Oriente	15001	5B	Economía y negocios	Ciencias sociales	C	2	16
 Convocatoria 781 de 2017	1/01/2017	COL0083749	Grupo de Investigación en Materiales, Catálisis y Medio Ambiente	1/01/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2D	Ingeniería química	Ingeniería y tecnología	A1	5	13
-Convocatoria 781 de 2017	1/01/2017	COL0169989	Grupo de Investigación GERENCIA Y ESCENARIOS PARA EL DESARROLLO	1/06/2015	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	2
+Convocatoria 781 de 2017	1/01/2017	COL0169989	Grupo de Investigación GERENCIA Y ESCENARIOS PARA EL DESARROLLO	1/06/2015	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0000434	Ambito de Educación Superior	1/02/1997	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	Reconocido	0	20
 Convocatoria 781 de 2017	1/01/2017	COL0105875	COMuniTIC	1/05/2010	Yopal	Casanare	Colombia	Llano	85001	1B	Computación y ciencias de la información	Ciencias naturales	B	3	7
 Convocatoria 781 de 2017	1/01/2017	COL0087875	Comunicación, Educación y Ciudadanías.	1/11/2008	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5C	Ciencias de la educación	Ciencias sociales	C	2	9
@@ -2578,7 +2578,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0075847	Tejiendo Redes: cuerpo, educación 
 Convocatoria 781 de 2017	1/01/2017	COL0033195	Energía, Transformación Química y Medio Ambiente	1/01/2003	Pamplona	Norte de Santander	Colombia	Centro Oriente	54518	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0033794	CIENCIAS DEL DEPORTE Y LA ACTIVIDAD FÍSICA	1/05/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0016283	Socialización y violencia	1/02/1993	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	B	3	24
-Convocatoria 781 de 2017	1/01/2017	COL0163734	ZULIMA SICENCE -ZSC	1/02/2015	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	2
+Convocatoria 781 de 2017	1/01/2017	COL0163734	ZULIMA SICENCE -ZSC	1/02/2015	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0072934	Salud y Motricidad Humana	1/02/2005	Popayán	Cauca	Colombia	Pacífico	19001	3E	Otras ciencias médicas	Ciencias médicas y de la salud	Reconocido	0	12
 Convocatoria 781 de 2017	1/01/2017	COL0165194	Grupo de Investigación en Ciencias Básicas Lasallista	1/01/2013	Caldas	Antioquia	Colombia	Eje Cafetero	5129	1G	Otras ciencias naturales	Ciencias naturales	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0187807	YATES	1/01/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	3
@@ -2669,7 +2669,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0002689	Comunicación, medios y cultura	1/0
 Convocatoria 781 de 2017	1/01/2017	COL0014707	Planeamiento en Sistemas Eléctricos	1/01/1999	Pereira	Risaralda	Colombia	Eje Cafetero	66001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	18
 Convocatoria 781 de 2017	1/01/2017	COL0090861	Grupo de Investigacion en Desarrollo Electronico y Aplicaciones Moviles, GIDEAM	1/01/2009	Santa Marta	Magdalena	Colombia	Caribe	47001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0079004	Hegemonía, Guerras y Conflictos	1/01/1997	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5F	Ciencias políticas	Ciencias sociales	A	4	20
-Convocatoria 781 de 2017	1/01/2017	COL0006204	GRUPO DE INVESTIGACION Y DESARROLLO DE INGENIERIA DE SOFTWARE	1/05/2000	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	17
+Convocatoria 781 de 2017	1/01/2017	COL0006204	GRUPO DE INVESTIGACION Y DESARROLLO DE INGENIERIA DE SOFTWARE	1/05/2000	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0014529	PYLO	1/01/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A1	5	17
 Convocatoria 781 de 2017	1/01/2017	COL0125813	Centro de Investigacion Cientifica CAUCASECO	1/06/2010	Cali	Valle del Cauca	Colombia	Pacífico	76001	1G	Otras ciencias naturales	Ciencias naturales	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0012749	Investigación en educación y pedagogía	1/03/1996	Pereira	Risaralda	Colombia	Eje Cafetero	66001	5A	Psicología	Ciencias sociales	A	4	21
@@ -2727,13 +2727,13 @@ Convocatoria 781 de 2017	1/01/2017	COL0103781	Tecnología, Información y Compleji
 Convocatoria 781 de 2017	1/01/2017	COL0033649	Grupo de Investigación en Control, Comunicaciones y Diseño Naval GICCDN	1/01/2000	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	17
 Convocatoria 781 de 2017	1/01/2017	COL0011447	Grupo de investigación en psicologia cognitiva	1/10/1999	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5A	Psicología	Ciencias sociales	A	4	18
 Convocatoria 781 de 2017	1/01/2017	COL0005646	GIMSC (Grupo de Investigacion en Modelamiento y Simulación Computacional)	1/12/2002	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1B	Computación y ciencias de la información	Ciencias naturales	B	3	15
-Convocatoria 781 de 2017	1/01/2017	COL0011554	Grupo del Centro de Investigación Piscicola de la U. de Córdoba (CINPIC)	1/11/2001	Montería	Córdoba	Colombia	Caribe	23001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	A	4	16
+Convocatoria 781 de 2017	1/01/2017	COL0011554	Grupo del Centro de Investigación Piscicola de la U. de Córdoba (CINPIC)	1/11/2001	Monteria	Córdoba	Colombia	Caribe	23001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	A	4	16
 Convocatoria 781 de 2017	1/01/2017	COL0030119	GIEG - Grupo de Investigación en Estructuras y Geotecnia	1/01/1999	Barranquilla	Atlántico	Colombia	Caribe	8001	2A	Ingeniería civil	Ingeniería y tecnología	A	4	18
 Convocatoria 781 de 2017	1/01/2017	COL0036802	COGNITEK	1/11/2005	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	A	4	12
 Convocatoria 781 de 2017	1/01/2017	COL0028936	IMPACTO	1/02/2002	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0001119	Biotecnología Microbiana	1/09/1997	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1F	Ciencias biológicas	Ciencias naturales	A	4	20
 Convocatoria 781 de 2017	1/01/2017	COL0066356	Tecnologías en Salud	1/12/2007	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3A	Medicina básica	Ciencias médicas y de la salud	A1	5	10
-Convocatoria 781 de 2017	1/01/2017	COL0055889	Grupo de Investigaciones Microbiológicas y Biomédicas de Córdoba (GIMBIC)	1/03/2006	Montería	Córdoba	Colombia	Caribe	23001	3B	Medicina clínica	Ciencias médicas y de la salud	A	4	11
+Convocatoria 781 de 2017	1/01/2017	COL0055889	Grupo de Investigaciones Microbiológicas y Biomédicas de Córdoba (GIMBIC)	1/03/2006	Monteria	Córdoba	Colombia	Caribe	23001	3B	Medicina clínica	Ciencias médicas y de la salud	A	4	11
 Convocatoria 781 de 2017	1/01/2017	COL0057535	Laboratorio de Electrónica Aplicada	1/08/2006	Cali	Valle del Cauca	Colombia	Pacífico	76001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0000149	ANALISIS NUMERICO, OPTIMIZACION Y PROBLEMAS INVERSOS (ANOPI)	1/01/2000	Cali	Valle del Cauca	Colombia	Pacífico	76001	1A	Matemática	Ciencias naturales	A	4	17
 Convocatoria 781 de 2017	1/01/2017	COL0000523	Análisis Funcional y Aplicaciones	1/01/1999	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1A	Matemática	Ciencias naturales	A	4	18
@@ -2743,7 +2743,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0046148	ESTUDIOS SANITARIOS Y AMBIENTALES 
 Convocatoria 781 de 2017	1/01/2017	COL0053169	INPAC	1/01/2005	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0166155	Psicología y procesos clínico-sociales 2	1/06/2015	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5A	Psicología	Ciencias sociales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0066006	Instituto Andino de Artes Populares-IADAP	1/12/1979	Pasto	Nariño	Colombia	Pacífico	52001	6E	Otras humanidades	Humanidades	B	3	38
-Convocatoria 781 de 2017	1/01/2017	COL0104401	Grupo de investigación en Estadística de la Universidad de Córdoba	1/01/2007	Montería	Córdoba	Colombia	Caribe	23001	1A	Matemática	Ciencias naturales	C	2	10
+Convocatoria 781 de 2017	1/01/2017	COL0104401	Grupo de investigación en Estadística de la Universidad de Córdoba	1/01/2007	Monteria	Córdoba	Colombia	Caribe	23001	1A	Matemática	Ciencias naturales	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0022191	Grupo de Investigación en Modelado, Análisis y Simulación de Procesos Ambientales e Industriales, PAI+	1/05/2002	Cali	Valle del Cauca	Colombia	Pacífico	76001	2C	Ingeniería mecánica	Ingeniería y tecnología	A1	5	15
 Convocatoria 781 de 2017	1/01/2017	COL0010904	Grupo de Productividad y Competitividad	1/01/1996	Barranquilla	Atlántico	Colombia	Caribe	8001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A1	5	21
 Convocatoria 781 de 2017	1/01/2017	COL0000407	Alimentación y Nutrición Humana	1/01/1999	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3C	Ciencias de la salud	Ciencias médicas y de la salud	A1	5	18
@@ -2810,7 +2810,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0054696	Grupo de investigaciones en Biotec
 Convocatoria 781 de 2017	1/01/2017	COL0095385	PRAXIS	1/08/2009	Pasto	Nariño	Colombia	Pacífico	52001	5C	Ciencias de la educación	Ciencias sociales	A1	5	8
 Convocatoria 781 de 2017	1/01/2017	COL0016612	Trauma y Cirugía	1/04/2000	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	17
 Convocatoria 781 de 2017	1/01/2017	COL0056799	Grupo de Investigación en Ingeniería Civil Universidad Distrital -GIICUD-	1/08/2005	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2A	Ingeniería civil	Ingeniería y tecnología	A1	5	12
-Convocatoria 781 de 2017	1/01/2017	COL0015319	QUIMICA DE LOS PRODUCTOS NATURALES	1/05/2001	Montería	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	B	3	16
+Convocatoria 781 de 2017	1/01/2017	COL0015319	QUIMICA DE LOS PRODUCTOS NATURALES	1/05/2001	Monteria	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	B	3	16
 Convocatoria 781 de 2017	1/01/2017	COL0064736	"GRUPO DE INVESTIGACION EN CIENCIAS DE LA EDUCACION Y DE LA SALUD ""ICES"""	1/02/2007	San Gil	Santander	Colombia	Centro Oriente	68679	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0005477	GESTION DE RECURSOS HIDRICOS	1/12/1990	Tunja	Boyacá	Colombia	Centro Oriente	15001	2G	Ingeniería ambiental	Ingeniería y tecnología	B	3	27
 Convocatoria 781 de 2017	1/01/2017	COL0030139	 GIDIA: Grupo de Investigación y Desarrollo en Inteligencia Artificial	1/02/2000	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	A1	5	17
@@ -3020,7 +3020,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0077322	Grupo de Estudios Neoinstitucional
 Convocatoria 781 de 2017	1/01/2017	COL0082519	Grupo de investigaciòn en enfermerìa comunidad-salud y educaciòn	1/07/2006	Santa Marta	Magdalena	Colombia	Caribe	47001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0020749	GRUPO DE INVESTIGACIÓN EN CIENCIAS ADMINISTRATIVAS Y CONTABLES	1/03/2006	Tunja	Boyacá	Colombia	Centro Oriente	15001	5B	Economía y negocios	Ciencias sociales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0006169	Grupo Interdisciplinario de Estudios sobre Cultura, Derechos Humanos y Muerte	1/11/2008	Piedecuesta	Santander	Colombia	Centro Oriente	68547	6E	Otras humanidades	Humanidades	B	3	9
-Convocatoria 781 de 2017	1/01/2017	COL0021372	GRUBIODEQ(Grupo de Biotecnología. Depto de Química y Depto de Biología)	1/06/2003	Montería	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	C	2	14
+Convocatoria 781 de 2017	1/01/2017	COL0021372	GRUBIODEQ(Grupo de Biotecnología. Depto de Química y Depto de Biología)	1/06/2003	Monteria	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0051676	NEFERTITI, BIENESTAR Y NUEVAS TECNOLOGIAS	1/01/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0045276	"Centro de Investigaciones Sociojurídicas ""Jorge Eliecer Gaitán"" UNIMETA DERECHO"	1/01/2005	Villavicencio	Meta	Colombia	Llano	50001	5E	Derecho	Ciencias sociales	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0114328	EDUCACIÓN EN ENFERMERIA GRIEEQ	1/11/2010	Armenia	Quindío	Colombia	Eje Cafetero	63001	3C	Ciencias de la salud	Ciencias médicas y de la salud	Reconocido	0	7
@@ -3072,7 +3072,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0061322	Genetica Molecular Animal	1/05/200
 Convocatoria 781 de 2017	1/01/2017	COL0140589	Grupo de Investigación (ESCAB) THOT	1/04/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0039312	Diseño, Tecnologia y Cultura	1/01/2003	Pereira	Risaralda	Colombia	Eje Cafetero	66001	6D	Arte	Humanidades	Reconocido	0	14
 Convocatoria 781 de 2017	1/01/2017	COL0046979	Senderos del Lenguaje	1/06/2003	Tunja	Boyacá	Colombia	Centro Oriente	15001	5C	Ciencias de la educación	Ciencias sociales	C	2	14
-Convocatoria 781 de 2017	1/01/2017	COL0122197	EUREKA  de Ingeniería Industrial UDES	1/08/2011	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	6
+Convocatoria 781 de 2017	1/01/2017	COL0122197	EUREKA  de Ingeniería Industrial UDES	1/08/2011	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	6
 Convocatoria 781 de 2017	1/01/2017	COL0034826	ORGANIZACIONES, GESTIÓN Y POLÍTICAS PÚBLICAS - REDES-	1/08/2003	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0103683	Grupo de estudio diabetes, enfermedades metabolicas y cardiovasculares	1/02/2009	Barranquilla	Atlántico	Colombia	Caribe	8001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	8
 Convocatoria 781 de 2017	1/01/2017	COL0102139	Ebaté	1/03/2009	Villa de San Diego de Ubaté	Cundinamarca	Colombia	Centro Oriente	25843	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	Reconocido	0	8
@@ -3122,7 +3122,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0118819	InvestigArte LEBEA	1/10/2009	Popay
 Convocatoria 781 de 2017	1/01/2017	COL0102111	MECABOT	1/01/2010	Pereira	Risaralda	Colombia	Eje Cafetero	66001	2C	Ingeniería mecánica	Ingeniería y tecnología	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0100627	Grupo de Investigación en Ciencias Empresariales, Educación y Salud Corsalud-GICEES	1/01/2009	Barranquilla	Atlántico	Colombia	Caribe	8001	3E	Otras ciencias médicas	Ciencias médicas y de la salud	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0145609	Ecología Aplicada	1/01/2013	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	4
-Convocatoria 781 de 2017	1/01/2017	COL0007088	Grupo de Investigación de la Calidad y Evaluación de la Educación	1/02/2009	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5C	Ciencias de la educación	Ciencias sociales	C	2	8
+Convocatoria 781 de 2017	1/01/2017	COL0007088	Grupo de Investigación de la Calidad y Evaluación de la Educación	1/02/2009	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5C	Ciencias de la educación	Ciencias sociales	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0019641	Grupo de Investigación en Ciencias y Tecnología de Alimentos -GICTA-	1/01/1998	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	19
 Convocatoria 781 de 2017	1/01/2017	COL0069358	Grupo de Investigaciones Biomédicas y de Genética Humana Aplicada - GIBGA	1/01/2008	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	9
 Convocatoria 781 de 2017	1/01/2017	COL0064683	OBSERVATORIO	1/01/2001	Sogamoso	Boyacá	Colombia	Centro Oriente	15759	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	16
@@ -3133,7 +3133,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0027895	Grupo de Investigación en Ciencias
 Convocatoria 781 de 2017	1/01/2017	COL0040189	Microbiología Ambiental	1/08/2004	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0058399	Paz, Derechos Humanos y Asuntos Políticos	1/01/2004	Barranquilla	Atlántico	Colombia	Caribe	8001	5E	Derecho	Ciencias sociales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0039822	ESPERANZA Y VIDA	1/02/2003	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5A	Psicología	Ciencias sociales	C	2	14
-Convocatoria 781 de 2017	1/01/2017	COL0119941	IDEFARMA	1/02/2009	Montería	Córdoba	Colombia	Caribe	23001	3A	Medicina básica	Ciencias médicas y de la salud	B	3	8
+Convocatoria 781 de 2017	1/01/2017	COL0119941	IDEFARMA	1/02/2009	Monteria	Córdoba	Colombia	Caribe	23001	3A	Medicina básica	Ciencias médicas y de la salud	B	3	8
 Convocatoria 781 de 2017	1/01/2017	COL0020099	GRUPO DE INVESTIGACION CTS UNIVERSIDAD DE CARTAGENA	1/05/2002	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	5B	Economía y negocios	Ciencias sociales	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0028219	Arte y Cultura	1/02/1999	Pereira	Risaralda	Colombia	Eje Cafetero	66001	6E	Otras humanidades	Humanidades	A	4	18
 Convocatoria 781 de 2017	1/01/2017	COL0038244	INPANTA: INVESTIGACION EN PRODUCCION ANIMAL Y TECNOLOGIAS AGROALIMENTARIAS	1/04/2007	Tunja	Boyacá	Colombia	Centro Oriente	15001	4B	Ciencias animales y lechería	Ciencias agrícolas	C	2	10
@@ -3161,7 +3161,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0181803	Gestión del Conocimiento Empresari
 Convocatoria 781 de 2017	1/01/2017	COL0169587	GESTOR INDUSTRIAL	1/06/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0014073	Nutrición Animal de UNCP	1/11/2002	Palmira	Valle del Cauca	Colombia	Pacífico	76520	4C	Ciencias veterinarias	Ciencias agrícolas	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0035064	Grupo de Investigación en Modelación y Simulación	1/01/2005	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1C	Ciencias físicas	Ciencias naturales	B	3	12
-Convocatoria 781 de 2017	1/01/2017	COL0108198	Grupo de Investigación en Estudios Sociales y Pedagogía para la Paz (GIESPPAZ)	1/05/2009	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5I	Otras ciencias sociales	Ciencias sociales	Reconocido	0	8
+Convocatoria 781 de 2017	1/01/2017	COL0108198	Grupo de Investigación en Estudios Sociales y Pedagogía para la Paz (GIESPPAZ)	1/05/2009	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5I	Otras ciencias sociales	Ciencias sociales	Reconocido	0	8
 Convocatoria 781 de 2017	1/01/2017	COL0156462	Grupo de Investigación y Desarrollo del Cacao y la Chocolatería	1/09/2014	Piedecuesta	Santander	Colombia	Centro Oriente	68547	4E	Otras ciencias agrícolas	Ciencias agrícolas	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0166549	Grupo de Investigación en Fisiología de la Actividad física y la Salud	1/09/2015	Armenia	Quindío	Colombia	Eje Cafetero	63001	3E	Otras ciencias médicas	Ciencias médicas y de la salud	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0004424	Grupo de Investigación de la Escuela Latinoamericana de Cooperación y Desarrollo GIELACID	1/01/2004	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	5F	Ciencias políticas	Ciencias sociales	A	4	13
@@ -3252,7 +3252,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0120245	Gestión Hospitalaria y Políticas d
 Convocatoria 781 de 2017	1/01/2017	COL0152131	GINDESOF	1/05/2014	Fusagasugá	Cundinamarca	Colombia	Centro Oriente	25290	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0104214	Grupo de Investigación Estudios Ambientales en Agua y Suelo	1/04/2007	Manizales	Caldas	Colombia	Eje Cafetero	17001	1D	Ciencias químicas	Ciencias naturales	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0179959	Praxis, Infancias, Juventudes y Saberes	1/01/2016	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	Reconocido	0	1
-Convocatoria 781 de 2017	1/01/2017	COL0104929	CAMHA/ Calidad de Aguas y Modelación Hídrica y Ambiental 	1/04/2007	Montería	Córdoba	Colombia	Caribe	23001	2G	Ingeniería ambiental	Ingeniería y tecnología	C	2	10
+Convocatoria 781 de 2017	1/01/2017	COL0104929	CAMHA/ Calidad de Aguas y Modelación Hídrica y Ambiental 	1/04/2007	Monteria	Córdoba	Colombia	Caribe	23001	2G	Ingeniería ambiental	Ingeniería y tecnología	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0006026	Grupo de Investigación en Enfermedades Parasitarias, Tropicales e Infecciosas (GIEPATI)	1/01/1999	Pamplona	Norte de Santander	Colombia	Centro Oriente	54518	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	18
 Convocatoria 781 de 2017	1/01/2017	COL0036259	Temas Contemporáneos en Contabilidad, Control, Gestión y Finanzas	1/05/1997	Cali	Valle del Cauca	Colombia	Pacífico	76001	5B	Economía y negocios	Ciencias sociales	C	2	20
 Convocatoria 781 de 2017	1/01/2017	COL0047359	AUTOMATIZACION INDUSTRIAL	1/08/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	11
@@ -3274,7 +3274,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0086359	Conservación de Humedales	1/02/200
 Convocatoria 781 de 2017	1/01/2017	COL0034423	"GRUA ""Investigación Aplicada en Construcción"""	1/11/2004	Cali	Valle del Cauca	Colombia	Pacífico	76001	2A	Ingeniería civil	Ingeniería y tecnología	B	3	13
 Convocatoria 781 de 2017	1/01/2017	COL0034521	Grupo de Investigación en Cirugía y Especialidades GRICES-UIS	1/11/2004	Bucaramanga	Santander	Colombia	Centro Oriente	68001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0167241	INNOVACIÓN CONTABLE	1/01/2013	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	Reconocido	0	4
-Convocatoria 781 de 2017	1/01/2017	COL0154548	GRUPO DE INVESTIGACIÓN COMERCIO, INDUSTRIA Y TURISMO-GICIT	1/06/2014	Montería	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
+Convocatoria 781 de 2017	1/01/2017	COL0154548	GRUPO DE INVESTIGACIÓN COMERCIO, INDUSTRIA Y TURISMO-GICIT	1/06/2014	Monteria	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0158565	Configuraciones	1/01/2014	Ibagué	Tolima	Colombia	Centro Sur	73001	5I	Otras ciencias sociales	Ciencias sociales	Reconocido	0	3
 Convocatoria 781 de 2017	1/01/2017	COL0135408	Dinámica de Sistemas GeoAgroAmbientales	1/02/2012	Neiva	Huila	Colombia	Centro Sur	41001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0164105	TRANSMEDIACIONES	1/06/2015	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6E	Otras humanidades	Humanidades	Reconocido	0	2
@@ -3291,7 +3291,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0023189	Democracia Local 	1/06/2002	Bucara
 Convocatoria 781 de 2017	1/01/2017	COL0095278	Grupo de Investigación en Urgencias y Emergencias	1/01/2009	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0172054	DSP-ASIC BUILDER GROUP	1/06/2014	Valledupar	Cesar	Colombia	Caribe	20001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0096702	Grupo de Investigacion en Gestión Tecnológica e Innovación del Caribe -  GIGETIC	1/02/2009	Barranquilla	Atlántico	Colombia	Caribe	8001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	8
-Convocatoria 781 de 2017	1/01/2017	COL0149172	GRUPO DE INVESTIGACIÓN CEDRUM	1/01/2014	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	Reconocido	0	3
+Convocatoria 781 de 2017	1/01/2017	COL0149172	GRUPO DE INVESTIGACIÓN CEDRUM	1/01/2014	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	Reconocido	0	3
 Convocatoria 781 de 2017	1/01/2017	COL0123149	INSTITUCIONES JURIDICO PROCESALES, FILOSOFIA DEL DERECHO Y DERECHO EN LA MODERNIDAD	1/09/2011	Pamplona	Norte de Santander	Colombia	Centro Oriente	54518	5E	Derecho	Ciencias sociales	Reconocido	0	6
 Convocatoria 781 de 2017	1/01/2017	COL0170363	PLASTICUN	1/01/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0068593	Láser  y  Espectroscopía Óptica	1/06/2006	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1C	Ciencias físicas	Ciencias naturales	B	3	11
@@ -3346,7 +3346,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0032518	Formaciòn de educadores	1/09/1999	
 Convocatoria 781 de 2017	1/01/2017	COL0010789	Grupo de Optica y Fotónica	1/04/1972	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1C	Ciencias físicas	Ciencias naturales	A1	5	45
 Convocatoria 781 de 2017	1/01/2017	COL0067255	GISMAR	1/09/2004	Pasto	Nariño	Colombia	Pacífico	52001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	13
 Convocatoria 781 de 2017	1/01/2017	COL0025513	Comunicación, organización y política	1/05/2001	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5H	Periodismo y comunicaciones	Ciencias sociales	B	3	16
-Convocatoria 781 de 2017	1/01/2017	COL0005996	GRUPO DE INVESTIGACION EN CULTIVOS TROPICALES DE CLIMA CALIDO	1/05/1999	Montería	Córdoba	Colombia	Caribe	23001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	A	4	18
+Convocatoria 781 de 2017	1/01/2017	COL0005996	GRUPO DE INVESTIGACION EN CULTIVOS TROPICALES DE CLIMA CALIDO	1/05/1999	Monteria	Córdoba	Colombia	Caribe	23001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	A	4	18
 Convocatoria 781 de 2017	1/01/2017	COL0006803	Geología Ambiental e Ingeniería Sísmica	1/01/1989	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	A	4	28
 Convocatoria 781 de 2017	1/01/2017	COL0000049	#¿NOMBRE?	1/04/1997	Florencia	Caquetá	Colombia	Centro Sur	18001	4C	Ciencias veterinarias	Ciencias agrícolas	C	2	20
 Convocatoria 781 de 2017	1/01/2017	COL0103558	Problemas de filosofía. Pontificia Universidad Javeriana	1/07/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6E	Otras humanidades	Humanidades	C	2	13
@@ -3578,7 +3578,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0113483	ALETHEIA 	1/08/2008	Bogotá, D.C.	B
 Convocatoria 781 de 2017	1/01/2017	COL0137789	Derecho Internacional y Globalización	1/01/2010	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5E	Derecho	Ciencias sociales	A	4	7
 Convocatoria 781 de 2017	1/01/2017	COL0102855	CIENCIAS FORENSES	1/08/2009	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3E	Otras ciencias médicas	Ciencias médicas y de la salud	B	3	8
 Convocatoria 781 de 2017	1/01/2017	COL0074886	SINERGIA	1/01/2006	Cali	Valle del Cauca	Colombia	Pacífico	76001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	11
-Convocatoria 781 de 2017	1/01/2017	COL0158879	HYDROS	1/09/2014	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	Reconocido	0	3
+Convocatoria 781 de 2017	1/01/2017	COL0158879	HYDROS	1/09/2014	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	Reconocido	0	3
 Convocatoria 781 de 2017	1/01/2017	COL0041909	Investigación y Desarrollo de Productos Farmacéuticos	1/01/2002	Sabaneta	Antioquia	Colombia	Eje Cafetero	5631	3A	Medicina básica	Ciencias médicas y de la salud	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0046344	Termodinámica de Soluciones	1/01/2003	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1D	Ciencias químicas	Ciencias naturales	A	4	14
 Convocatoria 781 de 2017	1/01/2017	COL0089154	TRAUMATOR	1/03/2006	Cali	Valle del Cauca	Colombia	Pacífico	76001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	11
@@ -3612,13 +3612,13 @@ Convocatoria 781 de 2017	1/01/2017	COL0037579	Química de Hongos Macromicetos Col
 Convocatoria 781 de 2017	1/01/2017	COL0017342	NEOTIC	1/10/2003	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0069518	FaMeTra	1/01/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0071697	Heterolalia	1/01/2001	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6B	Idiomas y literatura	Humanidades	C	2	16
-Convocatoria 781 de 2017	1/01/2017	COL0144695	Grupo de investigación en materiales poliméricos	1/07/2013	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	1D	Ciencias químicas	Ciencias naturales	C	2	4
+Convocatoria 781 de 2017	1/01/2017	COL0144695	Grupo de investigación en materiales poliméricos	1/07/2013	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	1D	Ciencias químicas	Ciencias naturales	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0059852	Colectivo de Investigación en Ingeniería de Software - ColSWE	1/11/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1B	Computación y ciencias de la información	Ciencias naturales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0069643	FISICA DE  PARTICULAS ELEMENTALES  Y  COSMOLOGIA	1/01/2003	Barranquilla	Atlántico	Colombia	Caribe	8001	1C	Ciencias físicas	Ciencias naturales	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0115209	INTERCULTURALIDAD, DECOLONIALIDAD Y EDUCACIÓN (IDE)	1/02/2008	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	9
 Convocatoria 781 de 2017	1/01/2017	COL0100636	Inmunología y Medicina Traslacional	1/09/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	A	4	10
 Convocatoria 781 de 2017	1/01/2017	COL0023475	Salud Visual	1/05/2004	Pereira	Risaralda	Colombia	Eje Cafetero	66001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	13
-Convocatoria 781 de 2017	1/01/2017	COL0067863	MATERIALES Y FISICA APLICADA	1/08/2002	Montería	Córdoba	Colombia	Caribe	23001	1C	Ciencias físicas	Ciencias naturales	C	2	15
+Convocatoria 781 de 2017	1/01/2017	COL0067863	MATERIALES Y FISICA APLICADA	1/08/2002	Monteria	Córdoba	Colombia	Caribe	23001	1C	Ciencias físicas	Ciencias naturales	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0107421	Cirugia general y especialidades	1/01/2008	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	9
 Convocatoria 781 de 2017	1/01/2017	COL0135696	GRUPO DE INVESTIGACIÓN EN QUÍMICA HETEROCÍCLICA	1/02/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1D	Ciencias químicas	Ciencias naturales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0050319	Ciencias del lenguaje	1/02/2002	Cali	Valle del Cauca	Colombia	Pacífico	76001	6B	Idiomas y literatura	Humanidades	C	2	15
@@ -3634,7 +3634,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0010815	CINTROP/UIS	1/01/1991	Piedecuesta	
 Convocatoria 781 de 2017	1/01/2017	COL0156524	Estrategias Computacionales en Química	1/05/2014	Florencia	Caquetá	Colombia	Centro Sur	18001	1D	Ciencias químicas	Ciencias naturales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0041348	Grupo de Investigación en Inteligencia Artificial IAFT	1/03/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1B	Computación y ciencias de la información	Ciencias naturales	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0133486	Observatorio sobre Desarrollo Humano	1/01/2010	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	C	2	7
-Convocatoria 781 de 2017	1/01/2017	COL0066079	Grupo de investigación en la aplicación de teoria de restricciones GI - TOC	1/08/2006	Montería	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	11
+Convocatoria 781 de 2017	1/01/2017	COL0066079	Grupo de investigación en la aplicación de teoria de restricciones GI - TOC	1/08/2006	Monteria	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0009458	Grupo de Investigación en Bioingeniería (GIB) CES - EAFIT	1/08/1999	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2F	Ingeniería médica	Ingeniería y tecnología	A1	5	18
 Convocatoria 781 de 2017	1/01/2017	COL0146706	"Desarrollo e Innovación de Procesos Alimentarios ""DESINPA"""	1/11/2013	Sincelejo	Sucre	Colombia	Caribe	70001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0011966	GESTION EMPRESARIAL E INNOVACION TECNOLOGICA GEIT	1/03/2001	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	16
@@ -3652,7 +3652,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0088246	Derecho, Justicia y Estado Social 
 Convocatoria 781 de 2017	1/01/2017	COL0074661	Promoción y Prevención Farmacéutica	1/02/2002	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3A	Medicina básica	Ciencias médicas y de la salud	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0008399	Grupo de Estudios en Sistemas Tradicionales de Salud	1/04/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	22
 Convocatoria 781 de 2017	1/01/2017	COL0110329	ECMU  (Evaluacion en Competencias y Matemáticas Universitarias)	1/07/2010	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	7
-Convocatoria 781 de 2017	1/01/2017	COL0030228	CAVIDA	1/01/2006	Montería	Córdoba	Colombia	Caribe	23001	5A	Psicología	Ciencias sociales	C	2	11
+Convocatoria 781 de 2017	1/01/2017	COL0030228	CAVIDA	1/01/2006	Monteria	Córdoba	Colombia	Caribe	23001	5A	Psicología	Ciencias sociales	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0026449	Didáctica y sus ciencias	1/02/1998	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	B	3	19
 Convocatoria 781 de 2017	1/01/2017	COL0146798	UMEDQUIR	1/01/2013	Barranquilla	Atlántico	Colombia	Caribe	8001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	4
 Convocatoria 781 de 2017	1/01/2017	COL0036876	Grupo de Investigación en Bioquímica y Microbiología	1/08/2004	Bucaramanga	Santander	Colombia	Centro Oriente	68001	1F	Ciencias biológicas	Ciencias naturales	A1	5	13
@@ -3749,11 +3749,11 @@ Convocatoria 781 de 2017	1/01/2017	COL0178586	Centro de Investigación Musical De
 Convocatoria 781 de 2017	1/01/2017	COL0082799	Operations and Supply Chain Management Research Group	1/01/2006	Chía	Cundinamarca	Colombia	Centro Oriente	25175	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A1	5	11
 Convocatoria 781 de 2017	1/01/2017	COL0002699	Comunicación-Educación	1/03/1996	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	B	3	21
 Convocatoria 781 de 2017	1/01/2017	COL0082903	GIAUNAD	1/07/2007	Bucaramanga	Santander	Colombia	Centro Oriente	68001	2A	Ingeniería civil	Ingeniería y tecnología	C	2	10
-Convocatoria 781 de 2017	1/01/2017	COL0054248	Grupo Investigación en Diseño Mecánico, Materiales y Procesos	1/09/2003	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2C	Ingeniería mecánica	Ingeniería y tecnología	A	4	14
+Convocatoria 781 de 2017	1/01/2017	COL0054248	Grupo Investigación en Diseño Mecánico, Materiales y Procesos	1/09/2003	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2C	Ingeniería mecánica	Ingeniería y tecnología	A	4	14
 Convocatoria 781 de 2017	1/01/2017	COL0006581	Grupo de Estudios Ambientales para la Sostenibilidad, la Innovación y el Desarrollo GEASID	1/01/2007	San Gil	Santander	Colombia	Centro Oriente	68679	2G	Ingeniería ambiental	Ingeniería y tecnología	B	3	10
 Convocatoria 781 de 2017	1/01/2017	COL0110839	Grupo de investigación en Género, Subjetividad y Sociedad	1/03/2010	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5D	Sociología	Ciencias sociales	Reconocido	0	7
 Convocatoria 781 de 2017	1/01/2017	COL0128691	Enfermedades Infecciosas y Control de Infecciones	1/02/2011	Sincelejo	Sucre	Colombia	Caribe	70001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	6
-Convocatoria 781 de 2017	1/01/2017	COL0021766	Investigación Biomédica y Biología Molecular	1/02/1999	Montería	Córdoba	Colombia	Caribe	23001	1F	Ciencias biológicas	Ciencias naturales	C	2	18
+Convocatoria 781 de 2017	1/01/2017	COL0021766	Investigación Biomédica y Biología Molecular	1/02/1999	Monteria	Córdoba	Colombia	Caribe	23001	1F	Ciencias biológicas	Ciencias naturales	C	2	18
 Convocatoria 781 de 2017	1/01/2017	COL0099731	MADEFOUC - Grupo de Investigación en Materiales Dentales de la Facultad de Odontología  de la Universidad de Cartagena	1/12/2009	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0103629	GRUPO DE INVESTIGACIÓN EN COMUNICACIÓN SOBRE CIENCIA, TECNOLOGÍA Y SOCIEDAD	1/01/2010	Ibagué	Tolima	Colombia	Centro Sur	73001	5H	Periodismo y comunicaciones	Ciencias sociales	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0024507	Grupo de Virología INS	1/08/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3D	Biotecnología en salud	Ciencias médicas y de la salud	C	2	22
@@ -3773,7 +3773,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0018045	Grupo de Investigación en Ciencias
 Convocatoria 781 de 2017	1/01/2017	COL0027901	GRUPO DE ÁLGEBRA   Y ANÁLISIS UPTC 	1/03/2003	Tunja	Boyacá	Colombia	Centro Oriente	15001	1A	Matemática	Ciencias naturales	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0111587	Grupo Estudiantil y Profesional de Psicologia Univalle - GEPU -	1/03/2007	Cali	Valle del Cauca	Colombia	Pacífico	76001	5A	Psicología	Ciencias sociales	Reconocido	0	10
 Convocatoria 781 de 2017	1/01/2017	COL0147516	Grupo de Investigación Uniminuto Virtual y a Distancia -GIUVD	1/12/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	5
-Convocatoria 781 de 2017	1/01/2017	COL0134919	Grupo Interdisciplinario de Investigaciones Sociojurídicas, socioeconómicas y urbano-regionales (GISOURBANO)	1/08/2012	Montería	Córdoba	Colombia	Caribe	23001	5E	Derecho	Ciencias sociales	C	2	5
+Convocatoria 781 de 2017	1/01/2017	COL0134919	Grupo Interdisciplinario de Investigaciones Sociojurídicas, socioeconómicas y urbano-regionales (GISOURBANO)	1/08/2012	Monteria	Córdoba	Colombia	Caribe	23001	5E	Derecho	Ciencias sociales	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0072943	Trabajo, riesgo y desigualdades	1/01/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5D	Sociología	Ciencias sociales	C	2	22
 Convocatoria 781 de 2017	1/01/2017	COL0107172	Artes Audiovisuales, Electrónicas y del Tiempo	1/05/2010	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6A	Historia y arqueología	Humanidades	Reconocido	0	7
 Convocatoria 781 de 2017	1/01/2017	COL0118336	TEPICHE	1/09/2010	Riohacha	La Guajira	Colombia	Caribe	44001	5C	Ciencias de la educación	Ciencias sociales	C	2	7
@@ -3814,7 +3814,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0150879	BioFibras y Derivados  Vegetales	1
 Convocatoria 781 de 2017	1/01/2017	COL0073959	SALUD TRABAJO Y CALIDAD DE VIDA   SATRACAVI	1/01/2005	Tunja	Boyacá	Colombia	Centro Oriente	15001	5A	Psicología	Ciencias sociales	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0133664	GESTIÓN EN SALUD	1/10/2011	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	6
 Convocatoria 781 de 2017	1/01/2017	COL0008559	Grupo de Historia de las Matemáticas	1/01/1996	Cali	Valle del Cauca	Colombia	Pacífico	76001	5C	Ciencias de la educación	Ciencias sociales	B	3	21
-Convocatoria 781 de 2017	1/01/2017	COL0141497	Grupo de Investigación en Desarrollo Humano, Tejido Social e Innovaciones Tecnológicas - GIDTI	1/03/2013	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5I	Otras ciencias sociales	Ciencias sociales	C	2	4
+Convocatoria 781 de 2017	1/01/2017	COL0141497	Grupo de Investigación en Desarrollo Humano, Tejido Social e Innovaciones Tecnológicas - GIDTI	1/03/2013	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5I	Otras ciencias sociales	Ciencias sociales	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0039179	Grupo de Investigacion Social GIS 	1/03/2007	Dosquebradas	Risaralda	Colombia	Eje Cafetero	66170	5I	Otras ciencias sociales	Ciencias sociales	Reconocido	0	10
 Convocatoria 781 de 2017	1/01/2017	COL0052486	CYNERGIA	1/05/2005	Neiva	Huila	Colombia	Centro Sur	41001	5E	Derecho	Ciencias sociales	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0134661	Derecho en Contexto	1/01/2012	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	5E	Derecho	Ciencias sociales	C	2	5
@@ -3867,7 +3867,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0098378	Grupo de Ecología Funcional y Ecos
 Convocatoria 781 de 2017	1/01/2017	COL0000283	Administración Económica y Financiera	1/08/1998	Pereira	Risaralda	Colombia	Eje Cafetero	66001	5B	Economía y negocios	Ciencias sociales	B	3	19
 Convocatoria 781 de 2017	1/01/2017	COL0178039	DESARROLLO SOCIAL COMUNIDAD Y SALUD	1/01/2015	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5A	Psicología	Ciencias sociales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0014645	Cultura, ciudadanía y poder en contextos locales	1/02/2000	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	5I	Otras ciencias sociales	Ciencias sociales	B	3	17
-Convocatoria 781 de 2017	1/01/2017	COL0038567	BIOGEN	1/03/2001	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	16
+Convocatoria 781 de 2017	1/01/2017	COL0038567	BIOGEN	1/03/2001	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	16
 Convocatoria 781 de 2017	1/01/2017	COL0078562	Intercambio y migraciones en el arte de America Latina y el Caribe	1/04/2008	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6D	Arte	Humanidades	C	2	9
 Convocatoria 781 de 2017	1/01/2017	COL0057043	DELTA	1/12/2006	Caldas	Antioquia	Colombia	Eje Cafetero	5129	5I	Otras ciencias sociales	Ciencias sociales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0096631	CIMCA	1/09/2009	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	8
@@ -3886,7 +3886,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0036428	POTENCIALIDADES DE DESARROLLO	1/08
 Convocatoria 781 de 2017	1/01/2017	COL0068548	IDENTIDAD Y CULTURA	1/01/2006	Manizales	Caldas	Colombia	Eje Cafetero	17001	6E	Otras humanidades	Humanidades	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0048993	Sostenibilidad Ambiental	1/11/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0158761	Grupo de Estudios Urbano-Regionales del Caribe	1/01/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	Reconocido	0	5
-Convocatoria 781 de 2017	1/01/2017	COL0108296	GRUPO DE INVESTIGACIÓN EN ORIENTACIÓN EDUCATIVA, VOCACIONAL Y OCUPACIONAL -  GIOEVO	1/07/2008	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	6E	Otras humanidades	Humanidades	Reconocido	0	9
+Convocatoria 781 de 2017	1/01/2017	COL0108296	GRUPO DE INVESTIGACIÓN EN ORIENTACIÓN EDUCATIVA, VOCACIONAL Y OCUPACIONAL -  GIOEVO	1/07/2008	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	6E	Otras humanidades	Humanidades	Reconocido	0	9
 Convocatoria 781 de 2017	1/01/2017	COL0165238	Análisis en Contexto	1/06/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0141684	Grupo de Investigación en Física, Estadística y Matemáticas Aplicadas - FEMA	1/04/2013	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1G	Otras ciencias naturales	Ciencias naturales	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0008094	GEIO Grupo en la Enseñanza de la Investigación de Operaciones	1/01/1999	Pereira	Risaralda	Colombia	Eje Cafetero	66001	2A	Ingeniería civil	Ingeniería y tecnología	C	2	18
@@ -3903,8 +3903,8 @@ Convocatoria 781 de 2017	1/01/2017	COL0030282	OBSERVATORIO PEDAGOGICO	1/11/2002	
 Convocatoria 781 de 2017	1/01/2017	COL0181849	GLOPRI-Globalización del Derecho Privado	1/01/2016	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5E	Derecho	Ciencias sociales	Reconocido	0	1
 Convocatoria 781 de 2017	1/01/2017	COL0053429	EFIPRA	1/04/1995	Riohacha	La Guajira	Colombia	Caribe	44001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	22
 Convocatoria 781 de 2017	1/01/2017	COL0173946	Polifonías de la educación comunitaria y popular	1/01/2015	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	2
-Convocatoria 781 de 2017	1/01/2017	COL0124208	GICAFS: Grupo de Investigación en Ciencias de la Actividad Física, el Deporte y la Salud	1/01/2008	Montería	Córdoba	Colombia	Caribe	23001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	9
-Convocatoria 781 de 2017	1/01/2017	COL0135005	Grupo de Investigación en Química Básica Aplicada - GIQUIBA	1/05/2012	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	1D	Ciencias químicas	Ciencias naturales	C	2	5
+Convocatoria 781 de 2017	1/01/2017	COL0124208	GICAFS: Grupo de Investigación en Ciencias de la Actividad Física, el Deporte y la Salud	1/01/2008	Monteria	Córdoba	Colombia	Caribe	23001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	9
+Convocatoria 781 de 2017	1/01/2017	COL0135005	Grupo de Investigación en Química Básica Aplicada - GIQUIBA	1/05/2012	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	1D	Ciencias químicas	Ciencias naturales	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0102784	TONGUE:  Teaching on New Grounds Unexplored English possibilities	1/02/2008	Tunja	Boyacá	Colombia	Centro Oriente	15001	5C	Ciencias de la educación	Ciencias sociales	Reconocido	0	9
 Convocatoria 781 de 2017	1/01/2017	COL0175225	"Grupo de Investigación en Enfermedades Infecciosas Hospital Militar Central ""GREINMIL"""	1/05/2015	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3D	Biotecnología en salud	Ciencias médicas y de la salud	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0171914	GRUPO DE INVESTIGACIÓN EN CIENCIA, TECNOLOGÍA E INNOVACIÓN 	1/12/2014	Pamplona	Norte de Santander	Colombia	Centro Oriente	54518	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
@@ -3917,7 +3917,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0152249	Grupo de Investigación en Epidemio
 Convocatoria 781 de 2017	1/01/2017	COL0137378	INTEGRAR	1/08/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	5
 Convocatoria 781 de 2017	1/01/2017	COL0119075	CIFRA - Colectivo de Investigación Financiera en la Región Amazónica	1/01/2009	Florencia	Caquetá	Colombia	Centro Sur	18001	5B	Economía y negocios	Ciencias sociales	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0181062	TRANSLATIONAL NEUROSCIENCE RESEARCH LAB	1/08/2015	Chía	Cundinamarca	Colombia	Centro Oriente	25175	3C	Ciencias de la salud	Ciencias médicas y de la salud	Reconocido	0	2
-Convocatoria 781 de 2017	1/01/2017	COL0120049	GENES	1/11/2010	Montería	Córdoba	Colombia	Caribe	23001	1F	Ciencias biológicas	Ciencias naturales	C	2	7
+Convocatoria 781 de 2017	1/01/2017	COL0120049	GENES	1/11/2010	Monteria	Córdoba	Colombia	Caribe	23001	1F	Ciencias biológicas	Ciencias naturales	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0123828	Somos Palabra: formación y contextos	1/09/2006	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5I	Otras ciencias sociales	Ciencias sociales	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0070976	Ortosantafe	1/11/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	Reconocido	0	10
 Convocatoria 781 de 2017	1/01/2017	COL0080936	Estrategía & Liderazgo	1/06/2006	Barranquilla	Atlántico	Colombia	Caribe	8001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	11
@@ -3930,7 +3930,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0171389	INNOTECH	1/06/2014	Bogotá, D.C.	Bo
 Convocatoria 781 de 2017	1/01/2017	COL0186532	Nuevo POLIESTESIS 	1/12/2015	Barranquilla	Atlántico	Colombia	Caribe	8001	6E	Otras humanidades	Humanidades	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0161435	CONOCIMIENTO EN DIVERSIDAD  Y CULTURA EN AMÉRICA LATINA	1/03/2013	Manizales	Caldas	Colombia	Eje Cafetero	17001	5I	Otras ciencias sociales	Ciencias sociales	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0107289	Grupo de Investigación en Ciencias del Suelo - GRICIS	1/05/2010	Ibagué	Tolima	Colombia	Centro Sur	73001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	7
-Convocatoria 781 de 2017	1/01/2017	COL0164669	Grupo de Investigación Taller de Arquitectura y Dinámicas del Territorio (TAR_GET)	1/06/2015	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	6D	Arte	Humanidades	Reconocido	0	2
+Convocatoria 781 de 2017	1/01/2017	COL0164669	Grupo de Investigación Taller de Arquitectura y Dinámicas del Territorio (TAR_GET)	1/06/2015	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	6D	Arte	Humanidades	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0158832	Educación y Derechos Humanos	1/06/2014	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5I	Otras ciencias sociales	Ciencias sociales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0169469	Grupo de investigación ACEMED UPTC	1/01/2015	Tunja	Boyacá	Colombia	Centro Oriente	15001	3C	Ciencias de la salud	Ciencias médicas y de la salud	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0154889	Competitividad & Desarrollo Regional	1/02/2014	Yopal	Casanare	Colombia	Llano	85001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
@@ -3938,7 +3938,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0164778	Grupo de Investigación Biomolecula
 Convocatoria 781 de 2017	1/01/2017	COL0180421	Grupo de Investigación en Pedagogía y Desarrollo Humano 	1/01/2015	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	2
 Convocatoria 781 de 2017	1/01/2017	COL0187155	GRUPO DE INVESTIGACIÓN EN TRABAJO SOCIAL GITS	1/01/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	Reconocido	0	3
 Convocatoria 781 de 2017	1/01/2017	COL0180879	InnovaTIC Empresas AL	1/05/2014	Cali	Valle del Cauca	Colombia	Pacífico	76001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
-Convocatoria 781 de 2017	1/01/2017	COL0171834	CEDRUM NDS	1/10/2014	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	3
+Convocatoria 781 de 2017	1/01/2017	COL0171834	CEDRUM NDS	1/10/2014	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0141648	BEA - Biología y Ecología de Artropodos	1/01/2012	Neiva	Huila	Colombia	Centro Sur	41001	1F	Ciencias biológicas	Ciencias naturales	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0186247	Grupo de Investigación y Acción Psicosocial en Violencias, Desastres y Construcción de Paz	1/01/2014	Cali	Valle del Cauca	Colombia	Pacífico	76001	5A	Psicología	Ciencias sociales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0177014	GRUPO DE INVESTIGACION EN MEDIO AMBIENTE Y DESARROLLO GIMAD	1/01/2015	Paipa	Boyacá	Colombia	Centro Oriente	15516	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	2
@@ -4128,7 +4128,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0009959	Grupo de Investigación en Matemáti
 Convocatoria 781 de 2017	1/01/2017	COL0072765	Kon-Moción Seminario Permanente Motricidad Humana	1/05/2004	Popayán	Cauca	Colombia	Pacífico	19001	5C	Ciencias de la educación	Ciencias sociales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0084013	Estudios sociohistóricos de la salud y la protección social	1/01/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	13
 Convocatoria 781 de 2017	1/01/2017	COL0090191	KHEIRON BIOETICA UNISABANA	1/06/2008	Chía	Cundinamarca	Colombia	Centro Oriente	25175	3A	Medicina básica	Ciencias médicas y de la salud	B	3	9
-Convocatoria 781 de 2017	1/01/2017	COL0103084	Gestión y Organizaciones	1/01/2010	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	C	2	7
+Convocatoria 781 de 2017	1/01/2017	COL0103084	Gestión y Organizaciones	1/01/2010	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0044297	"Derecho Público ""Francisco de Vitoria"""	1/01/2002	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5E	Derecho	Ciencias sociales	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0112548	Infettare	1/10/2010	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3C	Ciencias de la salud	Ciencias médicas y de la salud	A1	5	7
 Convocatoria 781 de 2017	1/01/2017	COL0057079	BIOINGENIERIA 	1/04/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2F	Ingeniería médica	Ingeniería y tecnología	B	3	11
@@ -4210,7 +4210,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0083061	Educación en la Complejidad	1/08/2
 Convocatoria 781 de 2017	1/01/2017	COL0001502	Salud Sexual y Cáncer	1/03/1998	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	19
 Convocatoria 781 de 2017	1/01/2017	COL0079309	Artes Plásticas y Pensamiento Poético	1/08/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6D	Arte	Humanidades	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0019042	BIOTECNOLOGIA	1/08/2007	Riohacha	La Guajira	Colombia	Caribe	44001	1F	Ciencias biológicas	Ciencias naturales	C	2	10
-Convocatoria 781 de 2017	1/01/2017	COL0021541	"""HUELLAS"" Calidad de vida"	1/01/2000	Montería	Córdoba	Colombia	Caribe	23001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	17
+Convocatoria 781 de 2017	1/01/2017	COL0021541	"""HUELLAS"" Calidad de vida"	1/01/2000	Monteria	Córdoba	Colombia	Caribe	23001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	17
 Convocatoria 781 de 2017	1/01/2017	COL0066829	PSICOSABERES	1/11/2005	Neiva	Huila	Colombia	Centro Sur	41001	5A	Psicología	Ciencias sociales	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0007229	Diseño de Sistemas Mecánicos y Robóticos para la Producción Industrial-DIMER	1/01/2000	Barranquilla	Atlántico	Colombia	Caribe	8001	2C	Ingeniería mecánica	Ingeniería y tecnología	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0067469	Grupo de Investigaciones Microbiológicas - UR (GIMUR)	1/01/2008	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	A1	5	9
@@ -4314,7 +4314,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0097254	PSICOLOGIA, EDUCACIÓN Y CULTURA	1/
 Convocatoria 781 de 2017	1/01/2017	COL0136693	Materiales nanoestructurados y biomodelación	1/05/2011	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2J	Nanotecnología	Ingeniería y tecnología	A1	5	6
 Convocatoria 781 de 2017	1/01/2017	COL0034245	Política, Derecho y Gestión Pública	1/08/2003	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0149842	HUMANA-MENTE	1/01/2014	Espinal	Tolima	Colombia	Centro Sur	73268	5A	Psicología	Ciencias sociales	Reconocido	0	3
-Convocatoria 781 de 2017	1/01/2017	COL0145889	ENFISINS	1/07/2013	Montería	Córdoba	Colombia	Caribe	23001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	4
+Convocatoria 781 de 2017	1/01/2017	COL0145889	ENFISINS	1/07/2013	Monteria	Córdoba	Colombia	Caribe	23001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0152795	Grupo de Investigación en Ingeniería Industrial - GIII	1/02/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0002896	Cultura y Desarrollo Humano	1/03/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	Reconocido	0	17
 Convocatoria 781 de 2017	1/01/2017	COL0091152	SIEK Saberes interdisciplinares en construcción	1/09/2008	Tunja	Boyacá	Colombia	Centro Oriente	15001	5C	Ciencias de la educación	Ciencias sociales	C	2	9
@@ -4398,7 +4398,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0150772	Grupo de Investigación Ciencia, Te
 Convocatoria 781 de 2017	1/01/2017	COL0061977	GRUPO DE INVESTIGACIÓN EN PRODUCTOS DE IMPORTANCIA BIOLÓGICA (GIPIB)	1/01/2006	Pasto	Nariño	Colombia	Pacífico	52001	1D	Ciencias químicas	Ciencias naturales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0089717	Agroforestería del Trópico Húmedo Chocoano	1/12/2009	Quibdó	Chocó	Colombia	Pacífico	27001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	Reconocido	0	8
 Convocatoria 781 de 2017	1/01/2017	COL0104911	Simulación de Yacimientos y Recobro Mejorado del Petróleo 	1/01/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	Reconocido	0	13
-Convocatoria 781 de 2017	1/01/2017	COL0030273	Grupo de Investigación en Pedagogía y Prácticas Pedagógicas	1/02/2002	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5C	Ciencias de la educación	Ciencias sociales	C	2	15
+Convocatoria 781 de 2017	1/01/2017	COL0030273	Grupo de Investigación en Pedagogía y Prácticas Pedagógicas	1/02/2002	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5C	Ciencias de la educación	Ciencias sociales	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0043997	Inti Rumi: Piedra del Sol	1/05/2002	Pasto	Nariño	Colombia	Pacífico	52001	5I	Otras ciencias sociales	Ciencias sociales	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0002072	GESE	1/02/1996	Ibagué	Tolima	Colombia	Centro Sur	73001	5C	Ciencias de la educación	Ciencias sociales	C	2	21
 Convocatoria 781 de 2017	1/01/2017	COL0078909	"Escuela de Derecho Penal ""NULLUM CRIMEN SINE LEGE"" UN"	1/02/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5E	Derecho	Ciencias sociales	A	4	10
@@ -4410,7 +4410,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0067228	CONFLICTOS SOCIALES, GÉNERO Y TERR
 Convocatoria 781 de 2017	1/01/2017	COL0027509	GIAS: Ganadería y Agricultura Sostenible	1/04/2003	Pamplona	Norte de Santander	Colombia	Centro Oriente	54518	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0095465	SMC-AS Unidad de Investigaciones	1/01/2009	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0018448	"""PYDES""  Pedagogía y didáctica en la educación superior"	1/01/2003	Cajicá	Cundinamarca	Colombia	Centro Oriente	25126	5C	Ciencias de la educación	Ciencias sociales	A	4	14
-Convocatoria 781 de 2017	1/01/2017	COL0157002	REHABILITAR CI	1/10/2014	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	3E	Otras ciencias médicas	Ciencias médicas y de la salud	Reconocido	0	3
+Convocatoria 781 de 2017	1/01/2017	COL0157002	REHABILITAR CI	1/10/2014	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	3E	Otras ciencias médicas	Ciencias médicas y de la salud	Reconocido	0	3
 Convocatoria 781 de 2017	1/01/2017	COL0089199	Reconciliación con la Justicia y la Dignidad Humana - Red Humana	1/01/2008	Tunja	Boyacá	Colombia	Centro Oriente	15001	5E	Derecho	Ciencias sociales	Reconocido	0	9
 Convocatoria 781 de 2017	1/01/2017	COL0135391	Grupo de Investigaciones en Diversidad Humana IDHUM	1/02/2012	Santa Marta	Magdalena	Colombia	Caribe	47001	5I	Otras ciencias sociales	Ciencias sociales	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0101105	GRUPO DE INVESTIGACIÓN CICLO VITAL, FAMILIA Y DESARROLLO HUMANO	1/01/2009	Tunja	Boyacá	Colombia	Centro Oriente	15001	5D	Sociología	Ciencias sociales	C	2	8
@@ -4455,7 +4455,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0048545	Genética Clínica	1/10/2000	Bogotá,
 Convocatoria 781 de 2017	1/01/2017	COL0016013	Salud Pública	1/06/1995	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	A	4	22
 Convocatoria 781 de 2017	1/01/2017	COL0005959	GRUPO DE INVESTIGACIÓN E INNOVACIÓN EN SALUD Y BIENESTAR ANIMAL	1/01/1999	Mosquera	Cundinamarca	Colombia	Centro Oriente	25473	4C	Ciencias veterinarias	Ciencias agrícolas	B	3	18
 Convocatoria 781 de 2017	1/01/2017	COL0036212	Informed	1/01/2003	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3E	Otras ciencias médicas	Ciencias médicas y de la salud	C	2	14
-Convocatoria 781 de 2017	1/01/2017	COL0076469	Optimización de Procesos y Uso Racional de la Energía y Biomasa - OPUREB	1/09/2006	Montería	Córdoba	Colombia	Caribe	23001	2C	Ingeniería mecánica	Ingeniería y tecnología	C	2	11
+Convocatoria 781 de 2017	1/01/2017	COL0076469	Optimización de Procesos y Uso Racional de la Energía y Biomasa - OPUREB	1/09/2006	Monteria	Córdoba	Colombia	Caribe	23001	2C	Ingeniería mecánica	Ingeniería y tecnología	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0016828	HISED	1/02/1998	Pasto	Nariño	Colombia	Pacífico	52001	6A	Historia y arqueología	Humanidades	C	2	19
 Convocatoria 781 de 2017	1/01/2017	COL0063775	PSI	1/11/2007	Chía	Cundinamarca	Colombia	Centro Oriente	25175	5A	Psicología	Ciencias sociales	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0056725	Laboratorio de Parasitología Molecular.	1/02/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3A	Medicina básica	Ciencias médicas y de la salud	B	3	11
@@ -4478,21 +4478,21 @@ Convocatoria 781 de 2017	1/01/2017	COL0021908	FISQUIM - Fisicoquímica de Fluidos
 Convocatoria 781 de 2017	1/01/2017	COL0001137	Biotecnología UNIAGRARIA	1/12/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2D	Ingeniería química	Ingeniería y tecnología	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0001889	Caracterización tecnológica de minerales	1/01/1999	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	B	3	18
 Convocatoria 781 de 2017	1/01/2017	COL0158171	GruCalPro Grupo de Investigación en Calidad y Productividad	1/01/2014	Manizales	Caldas	Colombia	Eje Cafetero	17001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	B	3	3
-Convocatoria 781 de 2017	1/01/2017	COL0131777	AMDAC	1/01/2010	Montería	Córdoba	Colombia	Caribe	23001	1B	Computación y ciencias de la información	Ciencias naturales	C	2	7
+Convocatoria 781 de 2017	1/01/2017	COL0131777	AMDAC	1/01/2010	Monteria	Córdoba	Colombia	Caribe	23001	1B	Computación y ciencias de la información	Ciencias naturales	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0173884	Seguridad Materna	1/02/2015	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	3B	Medicina clínica	Ciencias médicas y de la salud	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0043066	Historia Moderna y Contemporánea	1/06/2003	Medellín	Antioquia	Colombia	Eje Cafetero	5001	6A	Historia y arqueología	Humanidades	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0178844	Kairós	1/02/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6E	Otras humanidades	Humanidades	Reconocido	0	3
 Convocatoria 781 de 2017	1/01/2017	COL0157942	Biología Celular y Autoinmunidad	1/01/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0005172	Fluoreciencia	1/01/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1D	Ciencias químicas	Ciencias naturales	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0123612	Campos y particulas	1/02/2011	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1C	Ciencias físicas	Ciencias naturales	Reconocido	0	6
-Convocatoria 781 de 2017	1/01/2017	COL0151189	"Grupo de Investigación Ciencias Ambientales Aplicadas ""GICAP"""	1/02/2014	Montería	Córdoba	Colombia	Caribe	23001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	3
+Convocatoria 781 de 2017	1/01/2017	COL0151189	"Grupo de Investigación Ciencias Ambientales Aplicadas ""GICAP"""	1/02/2014	Monteria	Córdoba	Colombia	Caribe	23001	1E	Ciencias de la tierra y medioambientales	Ciencias naturales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0047806	Centro de Bioingeniería Universidad Autónoma del Caribe CEBI-UAC	1/02/2003	Barranquilla	Atlántico	Colombia	Caribe	8001	2F	Ingeniería médica	Ingeniería y tecnología	A	4	14
 Convocatoria 781 de 2017	1/01/2017	COL0087955	ESTADO NACIÓN: ORGANIZACIONES E INSTITUCIONES	1/05/2006	Popayán	Cauca	Colombia	Pacífico	19001	6A	Historia y arqueología	Humanidades	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0129133	Grupo de Investigacion en Ciencias Agropecuarias (GICAP)	1/02/2012	Armenia	Quindío	Colombia	Eje Cafetero	63001	4E	Otras ciencias agrícolas	Ciencias agrícolas	Reconocido	0	5
 Convocatoria 781 de 2017	1/01/2017	COL0037819	Familia y Escuela	1/10/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0023205	UN - ACUICTIO	1/06/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	4C	Ciencias veterinarias	Ciencias agrícolas	Reconocido	0	17
 Convocatoria 781 de 2017	1/01/2017	COL0032099	GRUPO DE INVESTIGACION EN BILINGUISMO	1/11/2001	Armenia	Quindío	Colombia	Eje Cafetero	63001	5C	Ciencias de la educación	Ciencias sociales	B	3	16
-Convocatoria 781 de 2017	1/01/2017	COL0113518	GRUPO DE INVESTIGACION EN PRODUCTIVIDAD Y COMPETITIVIDAD	1/11/2010	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	Reconocido	0	7
+Convocatoria 781 de 2017	1/01/2017	COL0113518	GRUPO DE INVESTIGACION EN PRODUCTIVIDAD Y COMPETITIVIDAD	1/11/2010	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	Reconocido	0	7
 Convocatoria 781 de 2017	1/01/2017	COL0020956	MUSICA, CULTURA Y TRADICION	1/05/2001	Barranquilla	Atlántico	Colombia	Caribe	8001	6B	Idiomas y literatura	Humanidades	C	2	16
 Convocatoria 781 de 2017	1/01/2017	COL0087042	ARKEBIOS	1/01/2011	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5G	Geografía social y económica	Ciencias sociales	Reconocido	0	6
 Convocatoria 781 de 2017	1/01/2017	COL0070116	Poiesis	1/03/2004	Cali	Valle del Cauca	Colombia	Pacífico	76001	6D	Arte	Humanidades	C	2	13
@@ -4545,7 +4545,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0170621	INNOVACIÓN BUCAL	1/01/2014	Popayán
 Convocatoria 781 de 2017	1/01/2017	COL0040289	Electroquímica y Termodinámica Computacional 	1/01/2001	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1D	Ciencias químicas	Ciencias naturales	A	4	16
 Convocatoria 781 de 2017	1/01/2017	COL0149495	NanoTech	1/02/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1G	Otras ciencias naturales	Ciencias naturales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0173703	Grupo de estudios en desarrollo económico y social (GEDES)	1/01/2016	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	1
-Convocatoria 781 de 2017	1/01/2017	COL0160527	PROEMPRESAS	1/01/2014	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	C	2	3
+Convocatoria 781 de 2017	1/01/2017	COL0160527	PROEMPRESAS	1/01/2014	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0153999	Prevención y Control de la Enfermedad Cronica PRECEC	1/11/2013	Cali	Valle del Cauca	Colombia	Pacífico	76001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	4
 Convocatoria 781 de 2017	1/01/2017	COL0077242	FILOSOFIA Y MEMORIA	1/04/2008	Pereira	Risaralda	Colombia	Eje Cafetero	66001	6E	Otras humanidades	Humanidades	B	3	9
 Convocatoria 781 de 2017	1/01/2017	COL0170739	REDIPE	1/01/2016	Cali	Valle del Cauca	Colombia	Pacífico	76001	5C	Ciencias de la educación	Ciencias sociales	Reconocido	0	1
@@ -4611,7 +4611,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0081129	Psicología Clínica Uniandes	1/06/2
 Convocatoria 781 de 2017	1/01/2017	COL0055272	GRUPO DE INVESTIGACION EN INGENIERIA CIVIL Y FENOMENOS AMBIENTALES - GIICFA	1/01/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2A	Ingeniería civil	Ingeniería y tecnología	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0085807	Manejo Integrado Enfermedades	1/05/1995	Palmira	Valle del Cauca	Colombia	Pacífico	76520	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	22
 Convocatoria 781 de 2017	1/01/2017	COL0068851	FICB-PG	1/08/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1B	Computación y ciencias de la información	Ciencias naturales	B	3	13
-Convocatoria 781 de 2017	1/01/2017	COL0183138	Grupo de Investigación en Modelación y Evaluación de Sistemas Ambientales. GiMESA	1/01/2015	Montería	Córdoba	Colombia	Caribe	23001	2G	Ingeniería ambiental	Ingeniería y tecnología	C	2	2
+Convocatoria 781 de 2017	1/01/2017	COL0183138	Grupo de Investigación en Modelación y Evaluación de Sistemas Ambientales. GiMESA	1/01/2015	Monteria	Córdoba	Colombia	Caribe	23001	2G	Ingeniería ambiental	Ingeniería y tecnología	C	2	2
 Convocatoria 781 de 2017	1/01/2017	COL0165102	Grupo de Derecho Ambiental	1/01/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5E	Derecho	Ciencias sociales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0031824	BioethicsGroup	1/06/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6E	Otras humanidades	Humanidades	A	4	13
 Convocatoria 781 de 2017	1/01/2017	COL0057437	Física Teórica	1/10/2005	Neiva	Huila	Colombia	Centro Sur	41001	1C	Ciencias físicas	Ciencias naturales	C	2	12
@@ -4634,7 +4634,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0026038	INVESTIGACIONES EN DERECHO COMERCI
 Convocatoria 781 de 2017	1/01/2017	COL0008441	Grupo de Fisica Atomica y Molecular	1/01/1990	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1C	Ciencias físicas	Ciencias naturales	B	3	27
 Convocatoria 781 de 2017	1/01/2017	COL0155259	Grupo de Investigación en Ecosistemas Rocosos Intermareales y submareales someros Lithos	1/01/2014	Cali	Valle del Cauca	Colombia	Pacífico	76001	1F	Ciencias biológicas	Ciencias naturales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0026486	Tratamiento de agua	1/01/2002	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2G	Ingeniería ambiental	Ingeniería y tecnología	C	2	15
-Convocatoria 781 de 2017	1/01/2017	COL0041179	GRUPO DE INVESTIGACION EN CUIDADO DE ENFERMERIA	1/10/2002	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	15
+Convocatoria 781 de 2017	1/01/2017	COL0041179	GRUPO DE INVESTIGACION EN CUIDADO DE ENFERMERIA	1/10/2002	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0032376	Individuo, Familia y Sociedad	1/01/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5A	Psicología	Ciencias sociales	A	4	11
 Convocatoria 781 de 2017	1/01/2017	COL0076183	HUELLAS PEDAGOGICAS	1/02/2008	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	5C	Ciencias de la educación	Ciencias sociales	B	3	9
 Convocatoria 781 de 2017	1/01/2017	COL0072479	GRUPO DE INVESTIGACION EN SALUD PUBLICA - GISAP	1/01/2004	Cali	Valle del Cauca	Colombia	Pacífico	76001	3B	Medicina clínica	Ciencias médicas y de la salud	B	3	13
@@ -4659,16 +4659,16 @@ Convocatoria 781 de 2017	1/01/2017	COL0012088	INSTITUTO DE GENETICA HUMANA - FAC
 Convocatoria 781 de 2017	1/01/2017	COL0074062	INVEMAR-GRUPO DE INVESTIGACIÓN PARA LA CONSERVACIÓN DE LA BIODIVERSIDAD MARINA Y COSTERA	1/01/2008	Santa Marta	Magdalena	Colombia	Caribe	47001	1F	Ciencias biológicas	Ciencias naturales	C	2	9
 Convocatoria 781 de 2017	1/01/2017	COL0082879	CURRICULO,  FORMACION Y SABERES 	1/01/2000	Barranquilla	Atlántico	Colombia	Caribe	8001	5C	Ciencias de la educación	Ciencias sociales	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0005118	Fisicoquímica Orgánica	1/01/1993	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1D	Ciencias químicas	Ciencias naturales	C	2	24
-Convocatoria 781 de 2017	1/01/2017	COL0107154	GIPE	1/01/2006	Montería	Córdoba	Colombia	Caribe	23001	5B	Economía y negocios	Ciencias sociales	C	2	11
+Convocatoria 781 de 2017	1/01/2017	COL0107154	GIPE	1/01/2006	Monteria	Córdoba	Colombia	Caribe	23001	5B	Economía y negocios	Ciencias sociales	C	2	11
 Convocatoria 781 de 2017	1/01/2017	COL0031753	GRUPO DE INVESTIGACIÓN EN PECES NEOTROPICALES	1/01/2005	Cali	Valle del Cauca	Colombia	Pacífico	76001	1F	Ciencias biológicas	Ciencias naturales	Reconocido	0	12
 Convocatoria 781 de 2017	1/01/2017	COL0009752	Grupo de Investigación en Farmacogenética	1/01/1998	Pereira	Risaralda	Colombia	Eje Cafetero	66001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	19
-Convocatoria 781 de 2017	1/01/2017	COL0027429	"Grupo de Investigaciones en Aguas, Pesticidas y Metales Pesados "" GIAMP"""	1/07/2007	Montería	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	C	2	10
+Convocatoria 781 de 2017	1/01/2017	COL0027429	"Grupo de Investigaciones en Aguas, Pesticidas y Metales Pesados "" GIAMP"""	1/07/2007	Monteria	Córdoba	Colombia	Caribe	23001	1D	Ciencias químicas	Ciencias naturales	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0032222	GIIRA	1/01/1999	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	A1	5	18
 Convocatoria 781 de 2017	1/01/2017	COL0156444	Química de Coordinación y organometálica en Materiales Moleculares y Sistemas Biológicos. (QCOMMMB).	1/02/2013	Pereira	Risaralda	Colombia	Eje Cafetero	66001	1D	Ciencias químicas	Ciencias naturales	C	2	4
 Convocatoria 781 de 2017	1/01/2017	COL0048179	Nuevas Tecnologías	1/02/2004	Neiva	Huila	Colombia	Centro Sur	41001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0015286	Psicología del Consumidor	1/02/1993	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5A	Psicología	Ciencias sociales	A1	5	24
 Convocatoria 781 de 2017	1/01/2017	COL0086429	Grupo de Investigación en Psicología Aplicada 	1/12/2005	Caldas	Antioquia	Colombia	Eje Cafetero	5129	5A	Psicología	Ciencias sociales	C	2	12
-Convocatoria 781 de 2017	1/01/2017	COL0049444	"GRUPO DE INVESTIGACION EN CIENCIAS BIOLOGICAS ""MAJUMBA"""	1/06/2002	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	1F	Ciencias biológicas	Ciencias naturales	B	3	15
+Convocatoria 781 de 2017	1/01/2017	COL0049444	"GRUPO DE INVESTIGACION EN CIENCIAS BIOLOGICAS ""MAJUMBA"""	1/06/2002	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	1F	Ciencias biológicas	Ciencias naturales	B	3	15
 Convocatoria 781 de 2017	1/01/2017	COL0000111	ALFA:  Educación,  democracia, pedagogia y desarrollo local	1/02/1997	Manizales	Caldas	Colombia	Eje Cafetero	17001	5C	Ciencias de la educación	Ciencias sociales	A	4	20
 Convocatoria 781 de 2017	1/01/2017	COL0005369	Física y Tecnología del Plasma y Corrosión	1/05/1980	Bucaramanga	Santander	Colombia	Centro Oriente	68001	1C	Ciencias físicas	Ciencias naturales	B	3	37
 Convocatoria 781 de 2017	1/01/2017	COL0133323	POLÍTICAS EDUCATIVAS Y VIDA ESCOLAR	1/06/2011	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	6
@@ -4683,7 +4683,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0021659	Educación Matemática	1/01/1981	Bog
 Convocatoria 781 de 2017	1/01/2017	COL0002386	Centro para la Optimizacion y Probabilidad Aplicada (COPA)	1/01/2000	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A1	5	17
 Convocatoria 781 de 2017	1/01/2017	COL0022422	Alimentos, nutrición y salud	1/04/2004	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	13
 Convocatoria 781 de 2017	1/01/2017	COL0016461	Telecomunicaciones y Señales	1/08/1999	Barranquilla	Atlántico	Colombia	Caribe	8001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	A	4	18
-Convocatoria 781 de 2017	1/01/2017	COL0020589	Grupo de Tecnología Software en el Entorno Educativo y Organizacional -TESEEO	1/09/2002	Montería	Córdoba	Colombia	Caribe	23001	1B	Computación y ciencias de la información	Ciencias naturales	A1	5	15
+Convocatoria 781 de 2017	1/01/2017	COL0020589	Grupo de Tecnología Software en el Entorno Educativo y Organizacional -TESEEO	1/09/2002	Monteria	Córdoba	Colombia	Caribe	23001	1B	Computación y ciencias de la información	Ciencias naturales	A1	5	15
 Convocatoria 781 de 2017	1/01/2017	COL0017182	una empresa docente	1/01/1987	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	B	3	30
 Convocatoria 781 de 2017	1/01/2017	COL0017665	Grupo de Investigación para la Animación Cultural Muisuata	1/02/2001	Duitama	Boyacá	Colombia	Centro Oriente	15238	5A	Psicología	Ciencias sociales	C	2	16
 Convocatoria 781 de 2017	1/01/2017	COL0013281	GIDITIC: Grupo  I+D+I  en Tecnologias  de  la  Información y las  Comunicaciones	1/01/1987	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	A	4	30
@@ -4782,7 +4782,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0073388	ORGANIZACION Y GERENCIA	1/01/2001	
 Convocatoria 781 de 2017	1/01/2017	COL0134438	Diseño y Análisis de Métodos Numéricos  Robustos Avanzados  para Problemas Heterogéneos con Múltiple Escalas	1/08/2012	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1A	Matemática	Ciencias naturales	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0045285	Desarrollo social, Salud Publica y Derechos Humanos	1/07/2005	Neiva	Huila	Colombia	Centro Sur	41001	3B	Medicina clínica	Ciencias médicas y de la salud	A	4	12
 Convocatoria 781 de 2017	1/01/2017	COL0063274	Nación - Cultura - Memoria	1/06/2007	Cali	Valle del Cauca	Colombia	Pacífico	76001	6C	Otras historias	Humanidades	B	3	10
-Convocatoria 781 de 2017	1/01/2017	COL0105605	Matematicas Unicordoba	1/01/2005	Montería	Córdoba	Colombia	Caribe	23001	1A	Matemática	Ciencias naturales	C	2	12
+Convocatoria 781 de 2017	1/01/2017	COL0105605	Matematicas Unicordoba	1/01/2005	Monteria	Córdoba	Colombia	Caribe	23001	1A	Matemática	Ciencias naturales	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0129689	GRUPO DE SALUD ORAL Y CIRUGIA MAXILOFACIAL	1/01/2008	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	9
 Convocatoria 781 de 2017	1/01/2017	COL0007847	Grupo de Campos y Particulas	1/01/1987	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1C	Ciencias físicas	Ciencias naturales	B	3	30
 Convocatoria 781 de 2017	1/01/2017	COL0016559	Territorio	1/01/1999	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5G	Geografía social y económica	Ciencias sociales	B	3	18
@@ -4791,7 +4791,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0163037	ITI: Innovación en Tecnologías de 
 Convocatoria 781 de 2017	1/01/2017	COL0113017	GACIPE (Grupo de Investigacacion en Automatizacion,Comunicaciones Industriales , Pedagogia y Energias Alternativas) 	1/06/2010	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0022253	agroindustria usco	1/03/2002	Neiva	Huila	Colombia	Centro Sur	41001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0105982	Grupo de Estudios en Sistemática y Conservación	1/01/2009	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1F	Ciencias biológicas	Ciencias naturales	Reconocido	0	8
-Convocatoria 781 de 2017	1/01/2017	COL0024347	Investigación en Enfermedades Tropicales y Resistencia Bacteriana	1/02/2003	Montería	Córdoba	Colombia	Caribe	23001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	14
+Convocatoria 781 de 2017	1/01/2017	COL0024347	Investigación en Enfermedades Tropicales y Resistencia Bacteriana	1/02/2003	Monteria	Córdoba	Colombia	Caribe	23001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0132371	Teoría del Derecho y formación jurídica 	1/06/2011	Bucaramanga	Santander	Colombia	Centro Oriente	68001	5E	Derecho	Ciencias sociales	C	2	6
 Convocatoria 781 de 2017	1/01/2017	COL0028809	Grupo de Investigación Bio-Psiquismo y Sociedad	1/02/2002	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5A	Psicología	Ciencias sociales	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0002214	Centro de Investigaciones en Acueductos y Alcantarillados - CIACUA	1/01/1996	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2A	Ingeniería civil	Ingeniería y tecnología	B	3	21
@@ -4817,7 +4817,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0129769	Grupo de Investigacion en Ingenier
 Convocatoria 781 de 2017	1/01/2017	COL0038594	INNOVACION TECNOLOGICA Y SALUD	1/05/2001	Barranquilla	Atlántico	Colombia	Caribe	8001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	A	4	16
 Convocatoria 781 de 2017	1/01/2017	COL0071006	Grupo de Investigación en Materiales Semiconductores y Superiónicos	1/01/2006	Ibagué	Tolima	Colombia	Centro Sur	73001	1C	Ciencias físicas	Ciencias naturales	B	3	11
 Convocatoria 781 de 2017	1/01/2017	COL0081709	TENDENCIAS CONTABLES CONTEMPORÁNEAS: CONTROL, GESTIÓN Y GOBERNABILIDAD	1/01/2006	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5B	Economía y negocios	Ciencias sociales	C	2	11
-Convocatoria 781 de 2017	1/01/2017	COL0035387	Observatorio de Precios y Costos Agrarios de la Zona Noroccidental del Caribe Colombiano	1/02/2004	Montería	Córdoba	Colombia	Caribe	23001	5B	Economía y negocios	Ciencias sociales	C	2	13
+Convocatoria 781 de 2017	1/01/2017	COL0035387	Observatorio de Precios y Costos Agrarios de la Zona Noroccidental del Caribe Colombiano	1/02/2004	Monteria	Córdoba	Colombia	Caribe	23001	5B	Economía y negocios	Ciencias sociales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0113616	TEIN-ECCI	1/09/2010	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0050982	Células Stem Adultas	1/06/2007	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	10
 Convocatoria 781 de 2017	1/01/2017	COL0087113	Centro de Investigación y Estudios Odontológicos CIEO	1/10/2008	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3E	Otras ciencias médicas	Ciencias médicas y de la salud	B	3	9
@@ -4840,7 +4840,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0065475	Genética y evolución de organismos
 Convocatoria 781 de 2017	1/01/2017	COL0033954	Grupo de Investigacion en Temas de Arquitectura	1/03/2003	Tunja	Boyacá	Colombia	Centro Oriente	15001	5I	Otras ciencias sociales	Ciencias sociales	C	2	14
 Convocatoria 781 de 2017	1/01/2017	COL0059932	GRUPO DE INVESTIGACION EN DESARROLLOS TECNOLOGICOS(GIDET)	1/11/2004	Armenia	Quindío	Colombia	Eje Cafetero	63001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0037882	Etnohistoria y Estudios sobre Américas Negras	1/01/1999	Medellín	Antioquia	Colombia	Eje Cafetero	5001	6A	Historia y arqueología	Humanidades	A	4	18
-Convocatoria 781 de 2017	1/01/2017	COL0012097	Instituto de Investigaciones Biológicas del Tropico	1/09/2005	Montería	Córdoba	Colombia	Caribe	23001	3C	Ciencias de la salud	Ciencias médicas y de la salud	A1	5	12
+Convocatoria 781 de 2017	1/01/2017	COL0012097	Instituto de Investigaciones Biológicas del Tropico	1/09/2005	Monteria	Córdoba	Colombia	Caribe	23001	3C	Ciencias de la salud	Ciencias médicas y de la salud	A1	5	12
 Convocatoria 781 de 2017	1/01/2017	COL0151054	Intervenciones psicosociales y subjetividades en contextos de violencia	1/03/2014	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5A	Psicología	Ciencias sociales	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0103137	Estudios en educacion y experiencia corporal	1/06/2009	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	C	2	8
 Convocatoria 781 de 2017	1/01/2017	COL0012059	Ingeniería del Software 	1/12/2001	Manizales	Caldas	Colombia	Eje Cafetero	17001	2B	Ingenierías eléctrica, electrónica e informática	Ingeniería y tecnología	B	3	16
@@ -4915,9 +4915,9 @@ Convocatoria 781 de 2017	1/01/2017	COL0032759	Colombia: tradiciones de la palabr
 Convocatoria 781 de 2017	1/01/2017	COL0004747	Estudios sobre el desarrollo socio/moral	1/11/1997	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5A	Psicología	Ciencias sociales	B	3	20
 Convocatoria 781 de 2017	1/01/2017	COL0168605	ACTORES, PROCESOS E INSTITUCIONES POLÍTICAS - GIAPRIP	1/06/2015	Popayán	Cauca	Colombia	Pacífico	19001	5F	Ciencias políticas	Ciencias sociales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0013503	MUJER, GENERO Y CULTURA	1/01/1996	Barranquilla	Atlántico	Colombia	Caribe	8001	5D	Sociología	Ciencias sociales	B	3	21
-Convocatoria 781 de 2017	1/01/2017	COL0097343	GRINFESC	1/02/2009	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5I	Otras ciencias sociales	Ciencias sociales	C	2	8
-Convocatoria 781 de 2017	1/01/2017	COL0054489	Grupo de Investigación en Derecho Procesal	1/02/2006	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5E	Derecho	Ciencias sociales	B	3	11
-Convocatoria 781 de 2017	1/01/2017	COL0054687	Competitividad y Sostenibilidad para el Desarrollo	1/02/2005	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5G	Geografía social y económica	Ciencias sociales	B	3	12
+Convocatoria 781 de 2017	1/01/2017	COL0097343	GRINFESC	1/02/2009	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5I	Otras ciencias sociales	Ciencias sociales	C	2	8
+Convocatoria 781 de 2017	1/01/2017	COL0054489	Grupo de Investigación en Derecho Procesal	1/02/2006	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5E	Derecho	Ciencias sociales	B	3	11
+Convocatoria 781 de 2017	1/01/2017	COL0054687	Competitividad y Sostenibilidad para el Desarrollo	1/02/2005	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5G	Geografía social y económica	Ciencias sociales	B	3	12
 Convocatoria 781 de 2017	1/01/2017	COL0152669	Innovación en Sistemas Agrícolas y Forestales 	1/01/2014	Villavicencio	Meta	Colombia	Llano	50001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0014467	PROGRAMA DE INVESTIGACIÓN EN TRÁNSITO Y TRANSPORTE -PIT-	1/02/1972	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	2A	Ingeniería civil	Ingeniería y tecnología	C	2	45
 Convocatoria 781 de 2017	1/01/2017	COL0018644	DIDACTICA PARA LA ENSEÑANZA DE LA CIENCIA Y TECNOLOGÍA EN NIÑOS	1/02/2002	Duitama	Boyacá	Colombia	Centro Oriente	15238	5C	Ciencias de la educación	Ciencias sociales	C	2	15
@@ -4966,7 +4966,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0023395	Investigaciones en MÚSICA Y ARTES 
 Convocatoria 781 de 2017	1/01/2017	COL0037541	GRUPO DE INVESTIGACIÓN EN INSECTOS NEOTROPICALES	1/04/2004	Santa Marta	Magdalena	Colombia	Caribe	47001	1F	Ciencias biológicas	Ciencias naturales	C	2	13
 Convocatoria 781 de 2017	1/01/2017	COL0173249	GICRIM UMB	1/06/2015	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5I	Otras ciencias sociales	Ciencias sociales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0022502	 GRUPO INNOVACION ESREY	1/01/2008	Santa Rosa de Viterbo	Boyacá	Colombia	Centro Oriente	15693	5I	Otras ciencias sociales	Ciencias sociales	C	2	9
-Convocatoria 781 de 2017	1/01/2017	COL0047879	GNOCIX	1/03/2006	Montería	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A1	5	11
+Convocatoria 781 de 2017	1/01/2017	COL0047879	GNOCIX	1/03/2006	Monteria	Córdoba	Colombia	Caribe	23001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A1	5	11
 Convocatoria 781 de 2017	1/01/2017	COL0067148	PRODUCCION LIMPIA UNPA	1/02/2006	Buenaventura	Valle del Cauca	Colombia	Pacífico	76109	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	Reconocido	0	11
 Convocatoria 781 de 2017	1/01/2017	COL0145959	Comunidades imaginadas latinoamericanas: perspectivas multi e interdisciplinarias	1/02/2012	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	6E	Otras humanidades	Humanidades	C	2	5
 Convocatoria 781 de 2017	1/01/2017	COL0021185	Materiales Avanzados y Energía	1/12/2000	Medellín	Antioquia	Colombia	Eje Cafetero	5001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	A1	5	17
@@ -4989,7 +4989,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0045033	Micro y macroergonomía en producto
 Convocatoria 781 de 2017	1/01/2017	COL0058559	ATENCIÓN PRIMARIA Y POLITICAS PUBLICAS	1/01/2002	Cali	Valle del Cauca	Colombia	Pacífico	76001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0026726	EPIDEMIOLOGÍA SALUD Y VIOLENCIA	1/05/2004	Pereira	Risaralda	Colombia	Eje Cafetero	66001	3B	Medicina clínica	Ciencias médicas y de la salud	A	4	13
 Convocatoria 781 de 2017	1/01/2017	COL0003749	ECOSOL	1/02/1995	Medellín	Antioquia	Colombia	Eje Cafetero	5001	5B	Economía y negocios	Ciencias sociales	B	3	22
-Convocatoria 781 de 2017	1/01/2017	COL0177257	GRUPO DE INVESTIGACION EN GEOLOGIA, GEOTECNIA Y MINERIA -GEOENERGIA	1/10/2014	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	Reconocido	0	3
+Convocatoria 781 de 2017	1/01/2017	COL0177257	GRUPO DE INVESTIGACION EN GEOLOGIA, GEOTECNIA Y MINERIA -GEOENERGIA	1/10/2014	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	Reconocido	0	3
 Convocatoria 781 de 2017	1/01/2017	COL0015259	Violencia, Lenguaje y Estudios Culturales	1/07/2000	Bucaramanga	Santander	Colombia	Centro Oriente	68001	5A	Psicología	Ciencias sociales	C	2	17
 Convocatoria 781 de 2017	1/01/2017	COL0121592	GINVER	1/03/2010	Medellín	Antioquia	Colombia	Eje Cafetero	5001	4C	Ciencias veterinarias	Ciencias agrícolas	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0069115	Grupo de Investigación en Desarrollo Empresarial Competitivo - PORTER	1/12/2005	Bucaramanga	Santander	Colombia	Centro Oriente	68001	5B	Economía y negocios	Ciencias sociales	B	3	12
@@ -5046,14 +5046,14 @@ Convocatoria 781 de 2017	1/01/2017	COL0136933	SECC - Servicios Ecosistèmicos y C
 Convocatoria 781 de 2017	1/01/2017	COL0041188	Microbiología agrícola y ambiental	1/06/2003	Valledupar	Cesar	Colombia	Caribe	20001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	B	3	14
 Convocatoria 781 de 2017	1/01/2017	COL0165049	Creación Artística y Acción Cultural	1/01/2013	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	6D	Arte	Humanidades	Reconocido	0	4
 Convocatoria 781 de 2017	1/01/2017	COL0021569	Grupo de Investigación Secretaria de Salud de Bogotá	1/01/2013	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	3E	Otras ciencias médicas	Ciencias médicas y de la salud	C	2	4
-Convocatoria 781 de 2017	1/01/2017	COL0018715	ARQUNIDOS	1/01/2004	Montería	Córdoba	Colombia	Caribe	23001	6D	Arte	Humanidades	Reconocido	0	13
+Convocatoria 781 de 2017	1/01/2017	COL0018715	ARQUNIDOS	1/01/2004	Monteria	Córdoba	Colombia	Caribe	23001	6D	Arte	Humanidades	Reconocido	0	13
 Convocatoria 781 de 2017	1/01/2017	COL0040091	CRIMINALISTICA Y CIENCIAS FORENSES	1/12/2002	Cali	Valle del Cauca	Colombia	Pacífico	76001	5E	Derecho	Ciencias sociales	A	4	15
 Convocatoria 781 de 2017	1/01/2017	COL0083319	Sistema Estomatognático y Morfofisiología - SEMF	1/08/2003	Floridablanca	Santander	Colombia	Centro Oriente	68276	3B	Medicina clínica	Ciencias médicas y de la salud	A	4	14
 Convocatoria 781 de 2017	1/01/2017	COL0019211	IDEAS	1/12/2002	Cali	Valle del Cauca	Colombia	Pacífico	76001	2K	Otras ingenierías y tecnologías	Ingeniería y tecnología	C	2	15
 Convocatoria 781 de 2017	1/01/2017	COL0033936	INVESTIGACION EN ARROZ	1/08/2005	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	4A	Agricultura, silvicultura y pesca	Ciencias agrícolas	C	2	12
 Convocatoria 781 de 2017	1/01/2017	COL0134634	GRUPO DE INVESTIGACIONES INFECTOLOGIA PEDIATRICA	1/07/2011	Cartagena de Indias	Bolívar	Colombia	Caribe	13001	3B	Medicina clínica	Ciencias médicas y de la salud	C	2	6
 Convocatoria 781 de 2017	1/01/2017	COL0172223	Poliglosia-Grupo de investigación en lingüística aplicada a la enseñanza de las lenguas 	1/06/2015	Pereira	Risaralda	Colombia	Eje Cafetero	66001	6B	Idiomas y literatura	Humanidades	Reconocido	0	2
-Convocatoria 781 de 2017	1/01/2017	COL0122713	GRUPO DE INVESTIGACION EN EPIDEMIOLOGIA Y SALUD PUBLICA	1/01/2010	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	7
+Convocatoria 781 de 2017	1/01/2017	COL0122713	GRUPO DE INVESTIGACION EN EPIDEMIOLOGIA Y SALUD PUBLICA	1/01/2010	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	3C	Ciencias de la salud	Ciencias médicas y de la salud	C	2	7
 Convocatoria 781 de 2017	1/01/2017	COL0172063	PVG + Arquitectos	1/01/2014	Medellín	Antioquia	Colombia	Eje Cafetero	5001	6E	Otras humanidades	Humanidades	C	2	3
 Convocatoria 781 de 2017	1/01/2017	COL0063489	Grupo de Investigaciones Biomédicas UniRemington	1/12/2005	Medellín	Antioquia	Colombia	Eje Cafetero	5001	3C	Ciencias de la salud	Ciencias médicas y de la salud	B	3	12
 Convocatoria 781 de 2017	1/01/2017	COL0038889	GRUPO DE INVESTIGACION EN INFORMATICA,  ELECTRONICA  Y COMUNICACIONES - INFELCOM	1/04/2003	Tunja	Boyacá	Colombia	Centro Oriente	15001	1B	Computación y ciencias de la información	Ciencias naturales	C	2	14
@@ -5179,7 +5179,7 @@ Convocatoria 781 de 2017	1/01/2017	COL0065152	BIOPOLIMER	1/07/1998	Medellín	Anti
 Convocatoria 781 de 2017	1/01/2017	COL0118944	GESTION Y COMPETITIVIDAD DEL CARIBE	1/01/2011	Barranquilla	Atlántico	Colombia	Caribe	8001	5B	Economía y negocios	Ciencias sociales	Reconocido	0	6
 Convocatoria 781 de 2017	1/01/2017	COL0016416	TRHISCUD	1/05/1999	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	1B	Computación y ciencias de la información	Ciencias naturales	C	2	18
 Convocatoria 781 de 2017	1/01/2017	COL0088925	NEURORED	1/07/2008	Neiva	Huila	Colombia	Centro Sur	41001	3B	Medicina clínica	Ciencias médicas y de la salud	Reconocido	0	9
-Convocatoria 781 de 2017	1/01/2017	COL0186926	Grupo de Investigación en Logística, Competitividad y Negocios Internacionales GILOCNI	1/01/2015	Cúcuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	C	2	2
+Convocatoria 781 de 2017	1/01/2017	COL0186926	Grupo de Investigación en Logística, Competitividad y Negocios Internacionales GILOCNI	1/01/2015	Cucuta	Norte de Santander	Colombia	Centro Oriente	54001	5B	Economía y negocios	Ciencias sociales	C	2	2
 Convocatoria 781 de 2017	1/01/2017	COL0167869	Laboratorio de Investigación en Polímeros	1/10/2015	Medellín	Antioquia	Colombia	Eje Cafetero	5001	1D	Ciencias químicas	Ciencias naturales	Reconocido	0	2
 Convocatoria 781 de 2017	1/01/2017	COL0188395	Química, Aprendizaje, Saberes en Aplicaciones Reales. QUASAR.	1/01/2016	Bogotá, D.C.	Bogotá, D. C.	Colombia	Distrito Capital	11001	5C	Ciencias de la educación	Ciencias sociales	Reconocido	0	1
 Convocatoria 781 de 2017	1/01/2017	COL0153291	Grupo de investigación en Ciencias Agropecuarias ICATURS	1/06/2014	Pereira	Risaralda	Colombia	Eje Cafetero	66001	1G	Otras ciencias naturales	Ciencias naturales	Reconocido	0	3
