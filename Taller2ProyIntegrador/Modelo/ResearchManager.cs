@@ -5,6 +5,8 @@ using System.Linq;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
+using GMap;
+using GMap.NET.WindowsForms;
 
 namespace Modelo
 {
@@ -52,6 +54,35 @@ namespace Modelo
             return retorno;
         }
 
+
+        public bool RegisterResearchGroup(string grCode, string Date, string grName, string daneCode, string genResAre, string spResAre,
+           string categ, string cn, string sn, string rn, double lat, double lng)
+        {
+            bool retorno = false;
+
+            if (grCode != null && !grCode.Equals("") && Date != null && !Date.Equals("") && grName != null && !grName.Equals("") &&
+                daneCode != null && !daneCode.Equals("") && genResAre != null && !spResAre.Equals("") && categ != null && !categ.Equals("")
+                && cn != null && !cn.Equals("") && sn != null && !sn.Equals("") && rn != null && !rn.Equals(""))
+            {
+                try
+                {
+                    ResearchGroup gr = new ResearchGroup(grCode, Convert.ToDateTime(Date), grName, daneCode, genResAre, spResAre, categ, randomGenerator);
+                    gr.inicializateLocation(cn, rn, sn, lat, lng);
+                    researchGroups.Add(gr);
+                    retorno = true;
+
+                }
+                finally
+                {
+
+                }
+            }
+
+
+            return retorno;
+        }
+
+
         public bool LoadResearchGroup()
         {
             bool retorno = false;
@@ -84,7 +115,14 @@ namespace Modelo
                     string sn = cityData[6];
                     string rn = cityData[8];
 
-                    retorno = RegisterResearchGroup(grCode, Date, grName, daneCode, genResAre, spResArea, categ, cn, sn, rn);
+                    GMapControl gmap = new GMapControl();
+                    gmap.MapProvider = GMap.NET.MapProviders.GoogleMapProvider.Instance;
+                    GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerAndCache;
+
+                    double lat = gmap.Position.Lat;
+                    double lng = gmap.Position.Lng;
+
+                    retorno = RegisterResearchGroup(grCode, Date, grName, daneCode, genResAre, spResArea, categ, cn, sn, rn, lat, lng);
                 }
 
                 if (retorno)
