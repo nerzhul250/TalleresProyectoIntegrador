@@ -30,6 +30,7 @@
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabControlMap = new System.Windows.Forms.TabPage();
+            this.tabRegister = new System.Windows.Forms.TabPage();
             this.mapControl1 = new Taller2ProyIntegrador.MapControl();
             this.mapOptionsControl1 = new Taller2ProyIntegrador.MapOptionsControl();
             this.tabRegister = new System.Windows.Forms.TabPage();
@@ -60,6 +61,16 @@
             this.tabControlMap.TabIndex = 0;
             this.tabControlMap.Text = "ControlMap";
             this.tabControlMap.UseVisualStyleBackColor = true;
+            // 
+            // tabRegister
+            // 
+            this.tabRegister.Location = new System.Drawing.Point(4, 22);
+            this.tabRegister.Name = "tabRegister";
+            this.tabRegister.Padding = new System.Windows.Forms.Padding(3);
+            this.tabRegister.Size = new System.Drawing.Size(768, 412);
+            this.tabRegister.TabIndex = 1;
+            this.tabRegister.Text = "Register/Update";
+            this.tabRegister.UseVisualStyleBackColor = true;
             // 
             // mapControl1
             // 

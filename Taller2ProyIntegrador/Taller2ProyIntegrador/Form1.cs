@@ -36,7 +36,6 @@ namespace Taller2ProyIntegrador
             GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
             map.SetPositionByKeywords("Paris, France");
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             Manager = new ResearchManager();
