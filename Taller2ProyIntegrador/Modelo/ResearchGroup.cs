@@ -14,7 +14,7 @@ namespace Modelo
         public const String CAT_B = "B";
         public const String CAT_C = "C";
         public const String CAT_D = "D";
-        public const String CAT_X = "X";
+        public const String CAT_X = "Reconocido";
 
         private String groupCode;
         private DateTime dateFounded;
