@@ -16,5 +16,10 @@ namespace Taller2ProyIntegrador
         {
             InitializeComponent();
         }
+
+        private void Search_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

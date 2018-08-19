@@ -1,4 +1,7 @@
-﻿namespace Taller2ProyIntegrador
+﻿using GMap;
+using GMap.NET.WindowsForms;
+
+namespace Taller2ProyIntegrador
 {
     partial class MapControl
     {
@@ -43,7 +46,7 @@
             this.gMapControl1.MarkersEnabled = true;
             this.gMapControl1.MaxZoom = 20;
             this.gMapControl1.MinZoom = 2;
-            this.gMapControl1.MouseWheelZoomEnabled = true;
+            //this.gMapControl1.MouseWheelZoomEnabled = true;
             this.gMapControl1.MouseWheelZoomType = GMap.NET.MouseWheelZoomType.MousePositionAndCenter;
             this.gMapControl1.Name = "gMapControl1";
             this.gMapControl1.NegativeMode = false;

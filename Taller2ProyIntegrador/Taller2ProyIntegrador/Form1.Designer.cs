@@ -30,9 +30,9 @@
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabControlMap = new System.Windows.Forms.TabPage();
+            this.tabRegister = new System.Windows.Forms.TabPage();
             this.mapControl1 = new Taller2ProyIntegrador.MapControl();
             this.mapOptionsControl1 = new Taller2ProyIntegrador.MapOptionsControl();
-            this.tabRegister = new System.Windows.Forms.TabPage();
             this.tabControl1.SuspendLayout();
             this.tabControlMap.SuspendLayout();
             this.SuspendLayout();
@@ -59,6 +59,16 @@
             this.tabControlMap.Text = "ControlMap";
             this.tabControlMap.UseVisualStyleBackColor = true;
             // 
+            // tabRegister
+            // 
+            this.tabRegister.Location = new System.Drawing.Point(4, 22);
+            this.tabRegister.Name = "tabRegister";
+            this.tabRegister.Padding = new System.Windows.Forms.Padding(3);
+            this.tabRegister.Size = new System.Drawing.Size(768, 412);
+            this.tabRegister.TabIndex = 1;
+            this.tabRegister.Text = "Register/Update";
+            this.tabRegister.UseVisualStyleBackColor = true;
+            // 
             // mapControl1
             // 
             this.mapControl1.Location = new System.Drawing.Point(34, 6);
@@ -73,16 +83,7 @@
             this.mapOptionsControl1.Name = "mapOptionsControl1";
             this.mapOptionsControl1.Size = new System.Drawing.Size(159, 398);
             this.mapOptionsControl1.TabIndex = 0;
-            // 
-            // tabRegister
-            // 
-            this.tabRegister.Location = new System.Drawing.Point(4, 22);
-            this.tabRegister.Name = "tabRegister";
-            this.tabRegister.Padding = new System.Windows.Forms.Padding(3);
-            this.tabRegister.Size = new System.Drawing.Size(768, 412);
-            this.tabRegister.TabIndex = 1;
-            this.tabRegister.Text = "Register/Update";
-            this.tabRegister.UseVisualStyleBackColor = true;
+            this.mapOptionsControl1.Load += new System.EventHandler(this.mapOptionsControl1_Load);
             // 
             // Form1
             // 
