@@ -12,7 +12,6 @@ namespace Modelo
         private Statistic statistics;
         private List<ResearchGroup> researchGroups;
         private Random randomGenerator;
-        private GMap.NET map;
         public ResearchManager()
         {
             researchGroups = new List<ResearchGroup>();
