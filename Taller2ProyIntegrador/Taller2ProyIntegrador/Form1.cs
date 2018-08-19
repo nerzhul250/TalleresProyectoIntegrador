@@ -40,9 +40,10 @@ namespace Taller2ProyIntegrador
         private void Form1_Load(object sender, EventArgs e)
         {
             Manager = new ResearchManager();
+            updateNewControl1.Principal = this;
         }
 
-        private void UpdateGroup()
+        public void UpdateGroup()
         {
             string codToUpdate = updateNewControl1.GetGroupCode();
             string[] information = new string[9];
@@ -69,7 +70,7 @@ namespace Taller2ProyIntegrador
                     "seleccionados", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-        private void newGroup()
+        public void NewGroup()
         {
             
             string grCode = updateNewControl1.GetGroupCode();

@@ -12,6 +12,8 @@ namespace Taller2ProyIntegrador
 {
     public partial class UpdateNewControl : UserControl
     {
+        public Form1 Principal { get; set; }
+
         public UpdateNewControl()
         {
             InitializeComponent();
@@ -90,6 +92,16 @@ namespace Taller2ProyIntegrador
 
 
             return selected;
+        }
+
+        private void btUpdate_Click(object sender, EventArgs e)
+        {
+            Principal.UpdateGroup();
+        }
+
+        private void btNewGroup_Click(object sender, EventArgs e)
+        {
+            Principal.NewGroup();
         }
     }
 }
