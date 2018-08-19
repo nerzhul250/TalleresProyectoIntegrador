@@ -23,6 +23,7 @@ namespace Modelo
         public ResearchManager()
         {
             researchGroups = new ListSerialisable<ResearchGroup>();
+            statistics = new Statistic();
             randomGenerator = new Random();
             LoadResearchGroup();
 
@@ -262,6 +263,15 @@ namespace Modelo
             return refreshed;
         }
 
+        public void SaveGroups()
+        {
+            BinaryFormatter formateador = new BinaryFormatter();
+
+            Stream str = new FileStream(SERIALISABLE_PATH, FileMode.Create, FileAccess.Read, FileShare.None);
+            formateador.Serialize(str, researchGroups);
+
+            str.Close();
+        }
 
 
 
