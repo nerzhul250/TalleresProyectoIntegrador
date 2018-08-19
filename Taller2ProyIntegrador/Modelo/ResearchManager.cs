@@ -129,7 +129,7 @@ namespace Modelo
 
                 if (retorno)
                 {
-                    str = new FileStream(SERIALISABLE_PATH, FileMode.Create, FileAccess.Read, FileShare.None);
+                    str = new FileStream(SERIALISABLE_PATH, FileMode.Create, FileAccess.Write, FileShare.None);
                     formateador.Serialize(str, researchGroups);
                 }
                 fileStream.Close();
@@ -267,7 +267,7 @@ namespace Modelo
         {
             BinaryFormatter formateador = new BinaryFormatter();
 
-            Stream str = new FileStream(SERIALISABLE_PATH, FileMode.Create, FileAccess.Read, FileShare.None);
+            Stream str = new FileStream(SERIALISABLE_PATH, FileMode.Create, FileAccess.Write, FileShare.None);
             formateador.Serialize(str, researchGroups);
 
             str.Close();
