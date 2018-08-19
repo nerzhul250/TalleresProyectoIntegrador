@@ -131,6 +131,7 @@
             this.txtDate.Name = "txtDate";
             this.txtDate.Size = new System.Drawing.Size(100, 20);
             this.txtDate.TabIndex = 9;
+            this.txtDate.TextChanged += new System.EventHandler(this.txtDate_TextChanged);
             // 
             // txtName
             // 
