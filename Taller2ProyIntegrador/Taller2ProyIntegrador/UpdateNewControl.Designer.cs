@@ -262,7 +262,6 @@
             this.btUpdate.TabIndex = 15;
             this.btUpdate.Text = "Update Group";
             this.btUpdate.UseVisualStyleBackColor = true;
-            this.btUpdate.Click += new System.EventHandler(this.btUpdate_Click);
             // 
             // btNewGroup
             // 
@@ -272,7 +271,6 @@
             this.btNewGroup.TabIndex = 16;
             this.btNewGroup.Text = "New Group";
             this.btNewGroup.UseVisualStyleBackColor = true;
-            this.btNewGroup.Click += new System.EventHandler(this.btNewGroup_Click);
             // 
             // labCity
             // 
