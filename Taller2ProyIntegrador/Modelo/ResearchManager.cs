@@ -120,7 +120,7 @@ namespace Modelo
                     GMapControl gmap = new GMapControl();
                     gmap.MapProvider = GMap.NET.MapProviders.GoogleMapProvider.Instance;
                     GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
-                    gmap.SetPositionByKeywords(cn);
+                    gmap.SetPositionByKeywords(cn + ", " + sn);
 
                     double lat = gmap.Position.Lat;
                     double lng = gmap.Position.Lng;
@@ -170,7 +170,7 @@ namespace Modelo
          * [6] category
          * 
          * */
-        public bool RefreshGroup(String GroupCode, String[] atrToChange, bool[] toCompare)
+        public bool UpdateGroup(string GroupCode, string[] atrToChange, bool[] toCompare)
         {
             bool refreshed = true;
             string[] toSearch = new string[7];
@@ -180,26 +180,36 @@ namespace Modelo
             toCompare[0] = true;
 
             List<ResearchGroup> group = GetGroups(toSearch, toLook);
-            ResearchGroup toUpdate = group.ElementAt(0);
+            ResearchGroup toUpdate = null;
 
-            if (toCompare[0])
+            if (group.Count() == 0)
             {
-                if (atrToChange[0] != null && !atrToChange[0].Equals(""))
-                {
-                    toUpdate.GroupCode = atrToChange[0];
-                } else
-                {
-                    refreshed = false;
-                }
-            } 
-            if (refreshed && toCompare[1])
+                refreshed = false;
+            } else
+            {
+                 toUpdate = group.ElementAt(0);
+
+            }
+
+            if (refreshed && toCompare[0])
             {
                 try
                 {
-                    DateTime date = Convert.ToDateTime(toCompare[1]);
+                    DateTime date = Convert.ToDateTime(toCompare[0]);
                     toUpdate.DateFounded = date;
 
                 } catch
+                {
+                    refreshed = false;
+                }
+            }
+            if (refreshed && toCompare[1])
+            {
+                if (atrToChange[1] != null && !atrToChange[1].Equals(""))
+                {
+                    toUpdate.GroupName = atrToChange[1];
+                }
+                else
                 {
                     refreshed = false;
                 }
@@ -208,7 +218,7 @@ namespace Modelo
             {
                 if (atrToChange[2] != null && !atrToChange[2].Equals(""))
                 {
-                    toUpdate.GroupName = atrToChange[2];
+                    toUpdate.DaneCode = atrToChange[2];
                 }
                 else
                 {
@@ -219,7 +229,7 @@ namespace Modelo
             {
                 if (atrToChange[3] != null && !atrToChange[3].Equals(""))
                 {
-                    toUpdate.DaneCode = atrToChange[3];
+                    toUpdate.GeneralResearchArea = atrToChange[3];
                 }
                 else
                 {
@@ -230,7 +240,7 @@ namespace Modelo
             {
                 if (atrToChange[4] != null && !atrToChange[4].Equals(""))
                 {
-                    toUpdate.GeneralResearchArea = atrToChange[4];
+                    toUpdate.SpecificResearchArea = atrToChange[4];
                 }
                 else
                 {
@@ -241,20 +251,25 @@ namespace Modelo
             {
                 if (atrToChange[5] != null && !atrToChange[5].Equals(""))
                 {
-                    toUpdate.SpecificResearchArea = atrToChange[5];
+                    toUpdate.Category = atrToChange[5];
                 }
                 else
                 {
                     refreshed = false;
                 }
             }
-            if (refreshed && toCompare[6])
-            {
-                if (atrToChange[6] != null && !atrToChange[6].Equals(""))
+            if ( refreshed && toCompare[6]){
+                try
                 {
-                    toUpdate.Category = atrToChange[6];
-                }
-                else
+                    GMapControl gmap = new GMapControl();
+                    gmap.MapProvider = GMap.NET.MapProviders.GoogleMapProvider.Instance;
+                    GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
+                    gmap.SetPositionByKeywords(atrToChange[6] + ", " + atrToChange[7]);
+
+                    double lat = gmap.Position.Lat;
+                    double lng = gmap.Position.Lng;
+                    toUpdate.inicializateLocation(atrToChange[6], atrToChange[8], atrToChange[7], lat, lng);
+                } catch (Exception e)
                 {
                     refreshed = false;
                 }
