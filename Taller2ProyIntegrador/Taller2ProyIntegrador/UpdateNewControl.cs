@@ -26,5 +26,70 @@ namespace Taller2ProyIntegrador
         {
             cmbCategory.SelectedIndex = 0;
         }
+
+        public string GetGroupCode()
+        {
+            return txtGrCode.Text;
+        }
+
+        public DateTime GetFoundationDate()
+        {
+            return dateFoundation.Value;
+        }
+
+        public string GetGroupName()
+        {
+            return txtGrName.Text;
+        }
+
+        public string GetDaneCode()
+        {
+            return txtDaneCode.Text;
+        }
+
+        public string GetGeneralResearchArea()
+        {
+            return txtGralArea.Text;
+        }
+
+        public string GetSpecificResearchArea()
+        {
+            return txtSpecificArea.Text;
+        }
+
+        public string GetCategory()
+        {
+            return cmbCategory.SelectedItem.ToString();
+        }
+
+        public string GetCity()
+        {
+            return txtCity.Text;
+        }
+
+        public string GetState()
+        {
+            return txtState.Text;
+        }
+
+        public String GetRegion()
+        {
+            return txtRegion.Text;
+        }
+
+        public bool[] GetSelectedItems()
+        {
+            bool [] selected= new bool[7];
+            selected[0] = cbFoundDate.Checked;
+            selected[1] = cbGrName.Checked;
+            selected[2] = cbDaneCode.Checked;
+            selected[3] = cbGralArea.Checked;
+            selected[4] = cbSpcficArea.Checked;
+            selected[5] = cbCategory.Checked;
+            selected[6] = cbCity.Checked;
+
+
+            return selected;
+        }
     }
 }

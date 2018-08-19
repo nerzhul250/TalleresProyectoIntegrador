@@ -46,11 +46,18 @@
             this.cbCategory = new System.Windows.Forms.CheckBox();
             this.cbSpcficArea = new System.Windows.Forms.CheckBox();
             this.cbGralArea = new System.Windows.Forms.CheckBox();
-            this.cdDaneCode = new System.Windows.Forms.CheckBox();
+            this.cbDaneCode = new System.Windows.Forms.CheckBox();
             this.cbFoundDate = new System.Windows.Forms.CheckBox();
             this.cbGrName = new System.Windows.Forms.CheckBox();
             this.btUpdate = new System.Windows.Forms.Button();
             this.btNewGroup = new System.Windows.Forms.Button();
+            this.labCity = new System.Windows.Forms.Label();
+            this.txtCity = new System.Windows.Forms.TextBox();
+            this.labState = new System.Windows.Forms.Label();
+            this.txtState = new System.Windows.Forms.TextBox();
+            this.cbCity = new System.Windows.Forms.CheckBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtRegion = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -179,15 +186,16 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.cbCity);
             this.groupBox1.Controls.Add(this.cbCategory);
             this.groupBox1.Controls.Add(this.cbSpcficArea);
             this.groupBox1.Controls.Add(this.cbGralArea);
-            this.groupBox1.Controls.Add(this.cdDaneCode);
+            this.groupBox1.Controls.Add(this.cbDaneCode);
             this.groupBox1.Controls.Add(this.cbFoundDate);
             this.groupBox1.Controls.Add(this.cbGrName);
             this.groupBox1.Location = new System.Drawing.Point(391, 3);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(70, 309);
+            this.groupBox1.Size = new System.Drawing.Size(70, 447);
             this.groupBox1.TabIndex = 14;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Actualizar:";
@@ -219,14 +227,14 @@
             this.cbGralArea.TabIndex = 4;
             this.cbGralArea.UseVisualStyleBackColor = true;
             // 
-            // cdDaneCode
+            // cbDaneCode
             // 
-            this.cdDaneCode.AutoSize = true;
-            this.cdDaneCode.Location = new System.Drawing.Point(6, 148);
-            this.cdDaneCode.Name = "cdDaneCode";
-            this.cdDaneCode.Size = new System.Drawing.Size(15, 14);
-            this.cdDaneCode.TabIndex = 3;
-            this.cdDaneCode.UseVisualStyleBackColor = true;
+            this.cbDaneCode.AutoSize = true;
+            this.cbDaneCode.Location = new System.Drawing.Point(6, 148);
+            this.cbDaneCode.Name = "cbDaneCode";
+            this.cbDaneCode.Size = new System.Drawing.Size(15, 14);
+            this.cbDaneCode.TabIndex = 3;
+            this.cbDaneCode.UseVisualStyleBackColor = true;
             // 
             // cbFoundDate
             // 
@@ -264,10 +272,73 @@
             this.btNewGroup.Text = "New Group";
             this.btNewGroup.UseVisualStyleBackColor = true;
             // 
+            // labCity
+            // 
+            this.labCity.AutoSize = true;
+            this.labCity.Location = new System.Drawing.Point(3, 331);
+            this.labCity.Name = "labCity";
+            this.labCity.Size = new System.Drawing.Size(27, 13);
+            this.labCity.TabIndex = 17;
+            this.labCity.Text = "City:";
+            // 
+            // txtCity
+            // 
+            this.txtCity.Location = new System.Drawing.Point(163, 323);
+            this.txtCity.Name = "txtCity";
+            this.txtCity.Size = new System.Drawing.Size(124, 20);
+            this.txtCity.TabIndex = 18;
+            // 
+            // labState
+            // 
+            this.labState.AutoSize = true;
+            this.labState.Location = new System.Drawing.Point(3, 381);
+            this.labState.Name = "labState";
+            this.labState.Size = new System.Drawing.Size(35, 13);
+            this.labState.TabIndex = 19;
+            this.labState.Text = "State:";
+            // 
+            // txtState
+            // 
+            this.txtState.Location = new System.Drawing.Point(163, 374);
+            this.txtState.Name = "txtState";
+            this.txtState.Size = new System.Drawing.Size(124, 20);
+            this.txtState.TabIndex = 20;
+            // 
+            // cbCity
+            // 
+            this.cbCity.AutoSize = true;
+            this.cbCity.Location = new System.Drawing.Point(6, 395);
+            this.cbCity.Name = "cbCity";
+            this.cbCity.Size = new System.Drawing.Size(15, 14);
+            this.cbCity.TabIndex = 6;
+            this.cbCity.UseVisualStyleBackColor = true;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(3, 426);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(47, 13);
+            this.label2.TabIndex = 21;
+            this.label2.Text = "Region: ";
+            // 
+            // txtRegion
+            // 
+            this.txtRegion.Location = new System.Drawing.Point(163, 419);
+            this.txtRegion.Name = "txtRegion";
+            this.txtRegion.Size = new System.Drawing.Size(124, 20);
+            this.txtRegion.TabIndex = 22;
+            // 
             // UpdateNewControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.txtRegion);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.txtState);
+            this.Controls.Add(this.labState);
+            this.Controls.Add(this.txtCity);
+            this.Controls.Add(this.labCity);
             this.Controls.Add(this.btNewGroup);
             this.Controls.Add(this.btUpdate);
             this.Controls.Add(this.groupBox1);
@@ -286,7 +357,7 @@
             this.Controls.Add(this.txtGrCode);
             this.Controls.Add(this.labGrCode);
             this.Name = "UpdateNewControl";
-            this.Size = new System.Drawing.Size(664, 343);
+            this.Size = new System.Drawing.Size(664, 465);
             this.Load += new System.EventHandler(this.UpdateNewControl_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -315,10 +386,17 @@
         private System.Windows.Forms.CheckBox cbCategory;
         private System.Windows.Forms.CheckBox cbSpcficArea;
         private System.Windows.Forms.CheckBox cbGralArea;
-        private System.Windows.Forms.CheckBox cdDaneCode;
+        private System.Windows.Forms.CheckBox cbDaneCode;
         private System.Windows.Forms.CheckBox cbFoundDate;
         private System.Windows.Forms.CheckBox cbGrName;
         private System.Windows.Forms.Button btUpdate;
         private System.Windows.Forms.Button btNewGroup;
+        private System.Windows.Forms.Label labCity;
+        private System.Windows.Forms.TextBox txtCity;
+        private System.Windows.Forms.Label labState;
+        private System.Windows.Forms.TextBox txtState;
+        private System.Windows.Forms.CheckBox cbCity;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox txtRegion;
     }
 }
