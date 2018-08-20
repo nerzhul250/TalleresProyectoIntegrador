@@ -281,7 +281,10 @@ namespace Modelo
                 }
             }
 
-
+            if (refreshed)
+            {
+                SaveGroups();
+            }
 
 
             return refreshed;

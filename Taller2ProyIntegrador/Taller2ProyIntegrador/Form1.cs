@@ -120,6 +120,8 @@ namespace Taller2ProyIntegrador
             bool updated = Manager.UpdateGroup(codToUpdate, information, selected);
             if (updated)
             {
+                markers.Clear();
+                loadMarkers();
                 MessageBox.Show("Se ha actualizado el grupo con el código indicado", "Actualizado!", MessageBoxButtons.OK, MessageBoxIcon.Information);
             } else
             {
@@ -158,7 +160,7 @@ namespace Taller2ProyIntegrador
             {
                 markers.Clear();
                 loadMarkers();
-
+                Manager.SaveGroups();
                 MessageBox.Show("Se ha agregado correctamente el grupo de investigación", "Agregado!", MessageBoxButtons.OK, MessageBoxIcon.Information);
             } else
             {
