@@ -86,7 +86,7 @@
             this.mapOptionsControl1.Location = new System.Drawing.Point(603, 6);
             this.mapOptionsControl1.Name = "mapOptionsControl1";
             this.mapOptionsControl1.Principal = null;
-            this.mapOptionsControl1.Size = new System.Drawing.Size(159, 398);
+            this.mapOptionsControl1.Size = new System.Drawing.Size(159, 434);
             this.mapOptionsControl1.TabIndex = 0;
             this.mapOptionsControl1.TxtCategory = "";
             this.mapOptionsControl1.TxtCode = "";

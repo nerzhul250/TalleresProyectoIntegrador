@@ -43,6 +43,43 @@ namespace Taller2ProyIntegrador
     
 
         }
+
+        internal void FilterGroups()
+        {
+            String[] attributes = { null, mapOptionsControl1.TxtDate, mapOptionsControl1.TxtName,
+             mapOptionsControl1.TxtDane,mapOptionsControl1.TxtGeneral,mapOptionsControl1.TxtSpecific,
+            mapOptionsControl1.TxtCategory};
+            bool[] toCompare = new bool[7];
+            for (int i = 0; i < attributes.Length; i++)
+            {
+                if (!String.IsNullOrEmpty(attributes[i])) {
+                    toCompare[i] = true;
+                }
+            }
+            List<ResearchGroup> found = Manager.GetGroups(attributes, toCompare);
+            if (found==null||found.Count == 0)
+            {
+                MessageBox.Show("No group found");
+            }
+            else
+            {
+                markers.Clear();
+                foreach (var g in found)
+                {
+                    double[] coordinates = g.getLatLng();
+                    GMap.NET.WindowsForms.GMapMarker marker =
+        new GMap.NET.WindowsForms.Markers.GMarkerGoogle(
+            new GMap.NET.PointLatLng(coordinates[0], coordinates[1]),
+            GMap.NET.WindowsForms.Markers.GMarkerGoogleType.blue_pushpin);
+                    marker.ToolTipText = "Nombre:\n" + g.GroupName + "\nCode:\n" + g.GroupCode;
+                    marker.ToolTipMode = MarkerTooltipMode.OnMouseOver;
+
+                    markers.Markers.Add(marker);
+                }
+                map.Refresh();
+            }
+        }
+
         public void searchGroupByCode()
         {
             String code = mapOptionsControl1.TxtCode;
@@ -90,7 +127,6 @@ namespace Taller2ProyIntegrador
                     markers.Markers.Add(marker);
                 }
                 map.Refresh();
-
             }
         }
         private void Form1_Load(object sender, EventArgs e)

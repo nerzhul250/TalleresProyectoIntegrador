@@ -45,6 +45,7 @@ namespace Taller2ProyIntegrador
             this.txtGeneral = new System.Windows.Forms.TextBox();
             this.txtSpecific = new System.Windows.Forms.TextBox();
             this.txtCategory = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -170,10 +171,21 @@ namespace Taller2ProyIntegrador
             this.txtCategory.Size = new System.Drawing.Size(100, 20);
             this.txtCategory.TabIndex = 14;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(7, 404);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(97, 23);
+            this.button1.TabIndex = 15;
+            this.button1.Text = "Filter Groups";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // MapOptionsControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.txtCategory);
             this.Controls.Add(this.txtSpecific);
             this.Controls.Add(this.txtGeneral);
@@ -190,7 +202,7 @@ namespace Taller2ProyIntegrador
             this.Controls.Add(this.txtCode);
             this.Controls.Add(this.label1);
             this.Name = "MapOptionsControl";
-            this.Size = new System.Drawing.Size(153, 415);
+            this.Size = new System.Drawing.Size(153, 429);
             this.Load += new System.EventHandler(this.MapOptionsControl_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -214,6 +226,7 @@ namespace Taller2ProyIntegrador
         private System.Windows.Forms.TextBox txtGeneral;
         private System.Windows.Forms.TextBox txtSpecific;
         private System.Windows.Forms.TextBox txtCategory;
+        private Button button1;
 
         public String TxtCode { get => txtCode.Text; set => txtCode.Text = value; }
         public String TxtDate { get => txtDate.Text; set => txtDate.Text = value; }
