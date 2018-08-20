@@ -28,16 +28,13 @@ namespace Modelo
         public Statistic (List<ResearchGroup> groups)
         {
             attributeCounter = new Dictionary<string, List<ResearchGroup>>[7];
-
             attributeCounter[CATEGORY] = new Dictionary<string, List<ResearchGroup>>();
-            attributeCounter[CATEGORY].Add(ResearchGroup.CAT_A, groups.Where(x => x.Category.Equals(ResearchGroup.CAT_A)).ToList());
-            attributeCounter[CATEGORY].Add(ResearchGroup.CAT_A1, groups.Where(x => x.Category.Equals(ResearchGroup.CAT_A1)).ToList());
-            attributeCounter[CATEGORY].Add(ResearchGroup.CAT_B, groups.Where(x => x.Category.Equals(ResearchGroup.CAT_B)).ToList());
-            attributeCounter[CATEGORY].Add(ResearchGroup.CAT_C, groups.Where(x => x.Category.Equals(ResearchGroup.CAT_C)).ToList());
-            attributeCounter[CATEGORY].Add(ResearchGroup.CAT_D, groups.Where(x => x.Category.Equals(ResearchGroup.CAT_D)).ToList());
-            attributeCounter[CATEGORY].Add(ResearchGroup.CAT_X, groups.Where(x => x.Category.Equals(ResearchGroup.CAT_X)).ToList());
-
             attributeCounter[YEAR_FOUNDED] = new Dictionary<string, List<ResearchGroup>>();
+            attributeCounter[GEN_RES_AREA] = new Dictionary<string, List<ResearchGroup>>();
+            attributeCounter[SPCRES_AREA] = new Dictionary<string, List<ResearchGroup>>();
+            attributeCounter[CITY_NAME] = new Dictionary<string, List<ResearchGroup>>();
+            attributeCounter[STATE_NAME] = new Dictionary<string, List<ResearchGroup>>();
+            attributeCounter[REGION_NAME] = new Dictionary<string, List<ResearchGroup>>();
             foreach (ResearchGroup x in groups) {
                 if (attributeCounter[YEAR_FOUNDED].ContainsKey(x.DateFounded.Year.ToString()))
                 {
@@ -49,10 +46,7 @@ namespace Modelo
                     alv.Add(x);
                     attributeCounter[YEAR_FOUNDED].Add(x.DateFounded.Year.ToString(), alv);
                 }
-            }
-                attributeCounter[GEN_RES_AREA] = new Dictionary<string, List<ResearchGroup>>();
-            foreach (ResearchGroup x in groups)
-            {
+            
                 if (attributeCounter[GEN_RES_AREA].ContainsKey(x.GeneralResearchArea))
                 {
                     List<ResearchGroup> alv = attributeCounter[GEN_RES_AREA][x.GeneralResearchArea];
@@ -64,10 +58,7 @@ namespace Modelo
                     alv.Add(x);
                     attributeCounter[GEN_RES_AREA].Add(x.GeneralResearchArea, alv);
                 }
-            }
-            attributeCounter[SPCRES_AREA] = new Dictionary<string, List<ResearchGroup>>();
-            foreach (ResearchGroup x in groups)
-            {
+            
                 if (attributeCounter[SPCRES_AREA].ContainsKey(x.SpecificResearchArea))
                 {
                     List<ResearchGroup> alv = attributeCounter[SPCRES_AREA][x.SpecificResearchArea];
@@ -79,10 +70,7 @@ namespace Modelo
                     alv.Add(x);
                     attributeCounter[SPCRES_AREA].Add(x.SpecificResearchArea, alv);
                 }
-            }
-            attributeCounter[CITY_NAME] = new Dictionary<string, List<ResearchGroup>>();
-            foreach (ResearchGroup x in groups)
-            {
+            
                 if (attributeCounter[CITY_NAME].ContainsKey(x.Location.CityName))
                 {
                     List<ResearchGroup> alv = attributeCounter[CITY_NAME][x.Location.CityName];
@@ -94,10 +82,7 @@ namespace Modelo
                     alv.Add(x);
                     attributeCounter[CITY_NAME].Add(x.Location.CityName, alv);
                 }
-            }
-            attributeCounter[STATE_NAME] = new Dictionary<string, List<ResearchGroup>>();
-            foreach (ResearchGroup x in groups)
-            {
+            
                 if (attributeCounter[STATE_NAME].ContainsKey(x.Location.StateName))
                 {
                     List<ResearchGroup> alv = attributeCounter[STATE_NAME][x.Location.StateName];
@@ -109,10 +94,7 @@ namespace Modelo
                     alv.Add(x);
                     attributeCounter[STATE_NAME].Add(x.Location.StateName, alv);
                 }
-            }
-            attributeCounter[REGION_NAME] = new Dictionary<string, List<ResearchGroup>>();
-            foreach (ResearchGroup x in groups)
-            {
+           
                 if (attributeCounter[REGION_NAME].ContainsKey(x.Location.RegionName))
                 {
                     List<ResearchGroup> alv = attributeCounter[REGION_NAME][x.Location.RegionName];
@@ -123,6 +105,18 @@ namespace Modelo
                     List<ResearchGroup> alv = new List<ResearchGroup>();
                     alv.Add(x);
                     attributeCounter[REGION_NAME].Add(x.Location.RegionName, alv);
+                }
+
+                if (attributeCounter[CATEGORY].ContainsKey(x.Category))
+                {
+                    List<ResearchGroup> alv = attributeCounter[CATEGORY][x.Category];
+                    alv.Add(x);
+                }
+                else
+                {
+                    List<ResearchGroup> alv = new List<ResearchGroup>();
+                    alv.Add(x);
+                    attributeCounter[CATEGORY].Add(x.Category, alv);
                 }
             }
         }
@@ -161,6 +155,38 @@ namespace Modelo
             return  cases/attributeCounter[B][valB].Count;
         }
 
+        public int CountAGivenB (string valA, string valB, int A, int B)
+        {
+            int cases = 0;
+            switch (A)
+            {
+                case YEAR_FOUNDED:
+                    cases = attributeCounter[B][valB].Where(x => x.DateFounded.Year.Equals(valA)).ToList().Count;
+                    break;
+                case GEN_RES_AREA:
+                    cases = attributeCounter[B][valB].Where(x => x.GeneralResearchArea.Equals(valA)).ToList().Count;
+                    break;
+                case SPCRES_AREA:
+                    cases = attributeCounter[B][valB].Where(x => x.SpecificResearchArea.Equals(valA)).ToList().Count;
+                    break;
+                case CATEGORY:
+                    cases = attributeCounter[B][valB].Where(x => x.Category.Equals(valA)).ToList().Count;
+                    break;
+                case CITY_NAME:
+                    cases = attributeCounter[B][valB].Where(x => x.Location.CityName.Equals(valA)).ToList().Count;
+                    break;
+                case STATE_NAME:
+                    cases = attributeCounter[B][valB].Where(x => x.Location.StateName.Equals(valA)).ToList().Count;
+                    break;
+                case REGION_NAME:
+                    cases = attributeCounter[B][valB].Where(x => x.Location.RegionName.Equals(valA)).ToList().Count;
+                    break;
+                default:
+                    cases = 0;
+                    break;
+            }
+            return cases;
+        }
         //<pre>:C is well defined(0<=C<=6)
         public int CountGroupsHavingAInC (String A, int C)
         {
