@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Modelo
 {
     [Serializable]
-    class ListSerialisable <E> : List <E>
+    public class ListSerialisable <E> : List <E>
     {
         
     }

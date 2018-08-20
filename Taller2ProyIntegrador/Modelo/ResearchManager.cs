@@ -21,6 +21,8 @@ namespace Modelo
         private ListSerialisable<ResearchGroup> researchGroups;
         private Random randomGenerator;
 
+        
+
         public ResearchManager()
         {
             researchGroups = new ListSerialisable<ResearchGroup>();
@@ -29,7 +31,10 @@ namespace Modelo
             statistics = new Statistic(researchGroups);
 
         }
-
+        public ListSerialisable<ResearchGroup> getAllResearchGroup()
+        {
+            return researchGroups;
+        }
         public bool RegisterResearchGroup (string grCode, DateTime Date, string grName, string daneCode, string genResAre, string spResAre,
             string categ, string cn, string sn, string rn)
         {

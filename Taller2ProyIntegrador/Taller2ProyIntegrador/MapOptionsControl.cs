@@ -12,6 +12,10 @@ namespace Taller2ProyIntegrador
 {
     public partial class MapOptionsControl : UserControl
     {
+        private Form1 principal;
+
+        public Form1 Principal { get => principal; set => principal = value; }
+
         public MapOptionsControl()
         {
             InitializeComponent();
@@ -19,12 +23,17 @@ namespace Taller2ProyIntegrador
 
         private void Search_Click(object sender, EventArgs e)
         {
-
+            principal.searchGroupByCode();
         }
 
         private void txtDate_TextChanged(object sender, EventArgs e)
         {
          
+        }
+
+        private void MapOptionsControl_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
