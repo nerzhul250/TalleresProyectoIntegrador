@@ -28,14 +28,21 @@ namespace Modelo
         private Random randomGenerator;
 
 
- 
+        
         public string GroupCode { get => groupCode; set => groupCode = value; }
         public DateTime DateFounded { get => dateFounded; set => dateFounded = value; }
         public string GroupName { get => groupName; set => groupName = value; }
         public string DaneCode { get => daneCode; set => daneCode = value; }
         public string GeneralResearchArea { get => generalResearchArea; set => generalResearchArea = value; }
         public string SpecificResearchArea { get => specificResearchArea; set => specificResearchArea = value; }
-        internal Location Location { get => location; set => location = value; }
+       
+        public double[] getLatLng()
+        {
+            double[] coordinates = new double[2];
+            coordinates[0] = location.Latitude;
+            coordinates[1] = location.Longitude;
+            return coordinates;
+        }
         // can throws Exception
         public string Category {
             get { return category; }
@@ -53,6 +60,9 @@ namespace Modelo
                     
                         }  }
 
+        internal Location Location { get => location; set => location = value; }
+
+
 
 
         // can throws Exception
@@ -60,7 +70,7 @@ namespace Modelo
         {
             GroupCode = groupCode;
             DateFounded = dateFounded;
-            GroupCode = groupCode;
+            GroupName = groupName;
             DaneCode = daneCode;
             GeneralResearchArea = generalResearchArea;
             SpecificResearchArea = specificResearchArea;
@@ -105,11 +115,11 @@ namespace Modelo
 
         public void inicializateLocation(double groupLat,double groupLng,String city, String region, String state)
         {
-            location = location = new Location(city, state, region, groupLat, groupLng);
+            location = new Location(city, state, region, groupLat, groupLng);
         }
         public void inicializateLocation(String city, String region, String state)
         {
-            location = location = new Location(city, state, region, 0, 0);
+            location = new Location(city, state, region, 0, 0);
         }
         //can throws exception
         public void generateAndSetRandomCoordinates(double cityLat, double cityLng)

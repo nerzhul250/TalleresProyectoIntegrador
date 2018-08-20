@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Windows.Forms;
 
 namespace Taller2ProyIntegrador
 {
@@ -8,7 +9,6 @@ namespace Taller2ProyIntegrador
         /// Variable del diseñador necesaria.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-
         /// <summary> 
         /// Limpiar los recursos que se estén usando.
         /// </summary>
@@ -191,6 +191,7 @@ namespace Taller2ProyIntegrador
             this.Controls.Add(this.label1);
             this.Name = "MapOptionsControl";
             this.Size = new System.Drawing.Size(153, 415);
+            this.Load += new System.EventHandler(this.MapOptionsControl_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -213,5 +214,13 @@ namespace Taller2ProyIntegrador
         private System.Windows.Forms.TextBox txtGeneral;
         private System.Windows.Forms.TextBox txtSpecific;
         private System.Windows.Forms.TextBox txtCategory;
+
+        public String TxtCode { get => txtCode.Text; set => txtCode.Text = value; }
+        public String TxtDate { get => txtDate.Text; set => txtDate.Text = value; }
+        public String TxtName { get => txtName.Text; set => txtName.Text = value; }
+        public String TxtDane { get => txtDane.Text; set => txtDane.Text = value; }
+        public String TxtGeneral { get => txtGeneral.Text; set => txtGeneral.Text = value; }
+        public String TxtSpecific { get => txtSpecific.Text; set => txtSpecific.Text = value; }
+        public String TxtCategory { get => txtCategory.Text; set => txtCategory.Text = value; }
     }
 }
