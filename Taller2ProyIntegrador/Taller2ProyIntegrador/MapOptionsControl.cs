@@ -21,5 +21,10 @@ namespace Taller2ProyIntegrador
         {
 
         }
+
+        private void txtDate_TextChanged(object sender, EventArgs e)
+        {
+         
+        }
     }
 }

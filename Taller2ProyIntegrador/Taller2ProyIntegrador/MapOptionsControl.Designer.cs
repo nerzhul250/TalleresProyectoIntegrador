@@ -1,4 +1,6 @@
-﻿namespace Taller2ProyIntegrador
+﻿using System;
+
+namespace Taller2ProyIntegrador
 {
     partial class MapOptionsControl
     {

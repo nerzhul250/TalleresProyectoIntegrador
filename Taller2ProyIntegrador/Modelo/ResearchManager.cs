@@ -24,9 +24,9 @@ namespace Modelo
         public ResearchManager()
         {
             researchGroups = new ListSerialisable<ResearchGroup>();
-            statistics = new Statistic();
             randomGenerator = new Random();
             LoadResearchGroup();
+            statistics = new Statistic(researchGroups);
 
         }
 

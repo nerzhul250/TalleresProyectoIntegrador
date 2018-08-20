@@ -108,7 +108,7 @@ namespace Modelo
             {
                 if (attributeCounter[REGION_NAME].ContainsKey(x.Location.RegionName))
                 {
-                    List<ResearchGroup> alv = attributeCounter[STATE_NAME][x.Location.RegionName];
+                    List<ResearchGroup> alv = attributeCounter[REGION_NAME][x.Location.RegionName];
                     alv.Add(x);
                 }
                 else
