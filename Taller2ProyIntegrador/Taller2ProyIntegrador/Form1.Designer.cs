@@ -28,11 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabControlMap = new System.Windows.Forms.TabPage();
+            this.tabRegister = new System.Windows.Forms.TabPage();
             this.mapControl1 = new Taller2ProyIntegrador.MapControl();
             this.mapOptionsControl1 = new Taller2ProyIntegrador.MapOptionsControl();
-            this.tabRegister = new System.Windows.Forms.TabPage();
             this.updateNewControl1 = new Taller2ProyIntegrador.UpdateNewControl();
             this.tabControl1.SuspendLayout();
             this.tabControlMap.SuspendLayout();
@@ -61,6 +62,17 @@
             this.tabControlMap.Text = "ControlMap";
             this.tabControlMap.UseVisualStyleBackColor = true;
             // 
+            // tabRegister
+            // 
+            this.tabRegister.Controls.Add(this.updateNewControl1);
+            this.tabRegister.Location = new System.Drawing.Point(4, 22);
+            this.tabRegister.Name = "tabRegister";
+            this.tabRegister.Padding = new System.Windows.Forms.Padding(3);
+            this.tabRegister.Size = new System.Drawing.Size(768, 475);
+            this.tabRegister.TabIndex = 1;
+            this.tabRegister.Text = "Register/Update";
+            this.tabRegister.Click += new System.EventHandler(this.tabRegister_Click);
+            // 
             // mapControl1
             // 
             this.mapControl1.Location = new System.Drawing.Point(34, 6);
@@ -85,22 +97,10 @@
             this.mapOptionsControl1.TxtSpecific = "";
             this.mapOptionsControl1.Load += new System.EventHandler(this.mapOptionsControl1_Load);
             // 
-            // tabRegister
-            // 
-            this.tabRegister.Controls.Add(this.updateNewControl1);
-            this.tabRegister.Location = new System.Drawing.Point(4, 22);
-            this.tabRegister.Name = "tabRegister";
-            this.tabRegister.Padding = new System.Windows.Forms.Padding(3);
-            this.tabRegister.Size = new System.Drawing.Size(768, 475);
-            this.tabRegister.TabIndex = 1;
-            this.tabRegister.Text = "Register/Update";
-            this.tabRegister.Click += new System.EventHandler(this.tabRegister_Click);
-            // 
             // updateNewControl1
             // 
             this.updateNewControl1.Location = new System.Drawing.Point(61, 6);
             this.updateNewControl1.Name = "updateNewControl1";
-            this.updateNewControl1.Principal = null;
             this.updateNewControl1.Size = new System.Drawing.Size(672, 463);
             this.updateNewControl1.TabIndex = 0;
             // 
@@ -110,8 +110,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 506);
             this.Controls.Add(this.tabControl1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Research Groups Manager";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabControlMap.ResumeLayout(false);
