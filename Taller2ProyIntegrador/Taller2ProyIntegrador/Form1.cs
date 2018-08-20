@@ -97,7 +97,7 @@ namespace Taller2ProyIntegrador
         {
             Manager = new ResearchManager();
             loadMarkers();
-           
+            updateNewControl1.InitializeGUIRelation(this);
         }
 
         private void UpdateGroup()

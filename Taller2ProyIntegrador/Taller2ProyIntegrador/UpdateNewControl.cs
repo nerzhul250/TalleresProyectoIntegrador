@@ -12,6 +12,9 @@ namespace Taller2ProyIntegrador
 {
     public partial class UpdateNewControl : UserControl
     {
+
+        public Form1 IPrincipal;
+
         public UpdateNewControl()
         {
             InitializeComponent();
@@ -20,6 +23,11 @@ namespace Taller2ProyIntegrador
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
 
+        }
+
+        public void InitializeGUIRelation(Form1 principal)
+        {
+            IPrincipal = principal;
         }
 
         private void UpdateNewControl_Load(object sender, EventArgs e)
@@ -100,6 +108,13 @@ namespace Taller2ProyIntegrador
         private void btNewGroup_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 frm2 = new Form2();
+            frm2.IPrincipal = IPrincipal;
+            frm2.Show();
         }
     }
 }

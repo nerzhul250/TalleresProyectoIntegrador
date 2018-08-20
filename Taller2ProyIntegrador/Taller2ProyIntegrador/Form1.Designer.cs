@@ -73,8 +73,16 @@
             // 
             this.mapOptionsControl1.Location = new System.Drawing.Point(603, 6);
             this.mapOptionsControl1.Name = "mapOptionsControl1";
+            this.mapOptionsControl1.Principal = null;
             this.mapOptionsControl1.Size = new System.Drawing.Size(159, 398);
             this.mapOptionsControl1.TabIndex = 0;
+            this.mapOptionsControl1.TxtCategory = "";
+            this.mapOptionsControl1.TxtCode = "";
+            this.mapOptionsControl1.TxtDane = "";
+            this.mapOptionsControl1.TxtDate = "";
+            this.mapOptionsControl1.TxtGeneral = "";
+            this.mapOptionsControl1.TxtName = "";
+            this.mapOptionsControl1.TxtSpecific = "";
             this.mapOptionsControl1.Load += new System.EventHandler(this.mapOptionsControl1_Load);
             // 
             // tabRegister
@@ -85,7 +93,7 @@
             this.tabRegister.Padding = new System.Windows.Forms.Padding(3);
             this.tabRegister.Size = new System.Drawing.Size(768, 412);
             this.tabRegister.TabIndex = 1;
-            this.tabRegister.Text = "Register/Update";
+            this.tabRegister.Text = "Register/Update/Statistics";
             this.tabRegister.UseVisualStyleBackColor = true;
             // 
             // updateNewControl1
