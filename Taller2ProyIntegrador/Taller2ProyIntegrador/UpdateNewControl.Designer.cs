@@ -43,6 +43,7 @@
             this.txtSpecificArea = new System.Windows.Forms.TextBox();
             this.cmbCategory = new System.Windows.Forms.ComboBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.cbCity = new System.Windows.Forms.CheckBox();
             this.cbCategory = new System.Windows.Forms.CheckBox();
             this.cbSpcficArea = new System.Windows.Forms.CheckBox();
             this.cbGralArea = new System.Windows.Forms.CheckBox();
@@ -55,7 +56,6 @@
             this.txtCity = new System.Windows.Forms.TextBox();
             this.labState = new System.Windows.Forms.Label();
             this.txtState = new System.Windows.Forms.TextBox();
-            this.cbCity = new System.Windows.Forms.CheckBox();
             this.label2 = new System.Windows.Forms.Label();
             this.txtRegion = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
@@ -200,6 +200,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Actualizar:";
             // 
+            // cbCity
+            // 
+            this.cbCity.AutoSize = true;
+            this.cbCity.Location = new System.Drawing.Point(6, 395);
+            this.cbCity.Name = "cbCity";
+            this.cbCity.Size = new System.Drawing.Size(15, 14);
+            this.cbCity.TabIndex = 6;
+            this.cbCity.UseVisualStyleBackColor = true;
+            // 
             // cbCategory
             // 
             this.cbCategory.AutoSize = true;
@@ -262,6 +271,7 @@
             this.btUpdate.TabIndex = 15;
             this.btUpdate.Text = "Update Group";
             this.btUpdate.UseVisualStyleBackColor = true;
+            this.btUpdate.Click += new System.EventHandler(this.btUpdate_Click);
             // 
             // btNewGroup
             // 
@@ -271,6 +281,7 @@
             this.btNewGroup.TabIndex = 16;
             this.btNewGroup.Text = "New Group";
             this.btNewGroup.UseVisualStyleBackColor = true;
+            this.btNewGroup.Click += new System.EventHandler(this.btNewGroup_Click);
             // 
             // labCity
             // 
@@ -303,15 +314,6 @@
             this.txtState.Name = "txtState";
             this.txtState.Size = new System.Drawing.Size(124, 20);
             this.txtState.TabIndex = 20;
-            // 
-            // cbCity
-            // 
-            this.cbCity.AutoSize = true;
-            this.cbCity.Location = new System.Drawing.Point(6, 395);
-            this.cbCity.Name = "cbCity";
-            this.cbCity.Size = new System.Drawing.Size(15, 14);
-            this.cbCity.TabIndex = 6;
-            this.cbCity.UseVisualStyleBackColor = true;
             // 
             // label2
             // 

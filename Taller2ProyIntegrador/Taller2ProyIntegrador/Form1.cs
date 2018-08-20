@@ -20,8 +20,7 @@ namespace Taller2ProyIntegrador
         private GMap.NET.WindowsForms.GMapControl map;
         public Form1()
         {
-            InitializeComponent();
-            
+            InitializeComponent();   
         }
 
         private void gMapControl1_Load(object sender, EventArgs e)
