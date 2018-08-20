@@ -7,7 +7,7 @@ using System.IO;
 
 namespace Modelo
 {
-    class Statistic
+    public class Statistic
     {
 
         public const string ARTICLESROUTE = "../../../docs/articles.csv";

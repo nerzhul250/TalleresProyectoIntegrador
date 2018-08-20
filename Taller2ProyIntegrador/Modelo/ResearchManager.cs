@@ -21,7 +21,7 @@ namespace Modelo
         private ListSerialisable<ResearchGroup> researchGroups;
         private Random randomGenerator;
 
-        
+        public Statistic Statistics { get => statistics; set => statistics = value; }
 
         public ResearchManager()
         {

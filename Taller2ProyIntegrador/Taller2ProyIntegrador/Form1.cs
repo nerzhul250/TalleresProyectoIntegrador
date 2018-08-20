@@ -98,7 +98,6 @@ namespace Taller2ProyIntegrador
             Manager = new ResearchManager();
             loadMarkers();
             updateNewControl1.Principal = this;
-           
         }
 
         public void UpdateGroup()
