@@ -12,12 +12,7 @@ namespace Taller2ProyIntegrador
 {
     public partial class UpdateNewControl : UserControl
     {
-<<<<<<< HEAD
-        public Form1 Principal { get; set; }
-=======
-
         public Form1 Principal;
->>>>>>> da301540580a72a4efde9c38cebd97d89f66203b
 
         public UpdateNewControl()
         {
