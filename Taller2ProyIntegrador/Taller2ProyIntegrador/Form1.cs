@@ -93,7 +93,7 @@ namespace Taller2ProyIntegrador
             else
             {
             ResearchGroup r=found.First();
-            mapOptionsControl1.Name = r.GroupName;
+            mapOptionsControl1.TxtName = r.GroupName;
             mapOptionsControl1.TxtCode = r.GroupCode;
             mapOptionsControl1.TxtDane = r.DaneCode;
             mapOptionsControl1.TxtDate = r.DateFounded.ToString();
