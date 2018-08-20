@@ -276,7 +276,7 @@
             // 
             // btNewGroup
             // 
-            this.btNewGroup.Location = new System.Drawing.Point(501, 185);
+            this.btNewGroup.Location = new System.Drawing.Point(501, 210);
             this.btNewGroup.Name = "btNewGroup";
             this.btNewGroup.Size = new System.Drawing.Size(103, 23);
             this.btNewGroup.TabIndex = 16;
@@ -334,7 +334,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(501, 280);
+            this.button1.Location = new System.Drawing.Point(501, 362);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(103, 23);
             this.button1.TabIndex = 23;

@@ -13,7 +13,7 @@ namespace Taller2ProyIntegrador
     public partial class UpdateNewControl : UserControl
     {
 
-        public Form1 IPrincipal;
+        public Form1 Principal;
 
         public UpdateNewControl()
         {
@@ -27,7 +27,7 @@ namespace Taller2ProyIntegrador
 
         public void InitializeGUIRelation(Form1 principal)
         {
-            IPrincipal = principal;
+            Principal = principal;
         }
 
         private void UpdateNewControl_Load(object sender, EventArgs e)
@@ -113,7 +113,7 @@ namespace Taller2ProyIntegrador
         private void button1_Click(object sender, EventArgs e)
         {
             Form2 frm2 = new Form2();
-            frm2.IPrincipal = IPrincipal;
+            frm2.IPrincipal = Principal;
             frm2.Show();
         }
     }
