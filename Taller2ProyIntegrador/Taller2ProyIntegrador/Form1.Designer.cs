@@ -46,7 +46,7 @@
             this.tabControl1.Location = new System.Drawing.Point(12, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(776, 438);
+            this.tabControl1.Size = new System.Drawing.Size(776, 501);
             this.tabControl1.TabIndex = 0;
             // 
             // tabControlMap
@@ -56,7 +56,7 @@
             this.tabControlMap.Location = new System.Drawing.Point(4, 22);
             this.tabControlMap.Name = "tabControlMap";
             this.tabControlMap.Padding = new System.Windows.Forms.Padding(3);
-            this.tabControlMap.Size = new System.Drawing.Size(768, 412);
+            this.tabControlMap.Size = new System.Drawing.Size(768, 475);
             this.tabControlMap.TabIndex = 0;
             this.tabControlMap.Text = "ControlMap";
             this.tabControlMap.UseVisualStyleBackColor = true;
@@ -73,8 +73,16 @@
             // 
             this.mapOptionsControl1.Location = new System.Drawing.Point(603, 6);
             this.mapOptionsControl1.Name = "mapOptionsControl1";
+            this.mapOptionsControl1.Principal = null;
             this.mapOptionsControl1.Size = new System.Drawing.Size(159, 398);
             this.mapOptionsControl1.TabIndex = 0;
+            this.mapOptionsControl1.TxtCategory = "";
+            this.mapOptionsControl1.TxtCode = "";
+            this.mapOptionsControl1.TxtDane = "";
+            this.mapOptionsControl1.TxtDate = "";
+            this.mapOptionsControl1.TxtGeneral = "";
+            this.mapOptionsControl1.TxtName = "";
+            this.mapOptionsControl1.TxtSpecific = "";
             this.mapOptionsControl1.Load += new System.EventHandler(this.mapOptionsControl1_Load);
             // 
             // tabRegister
@@ -83,23 +91,24 @@
             this.tabRegister.Location = new System.Drawing.Point(4, 22);
             this.tabRegister.Name = "tabRegister";
             this.tabRegister.Padding = new System.Windows.Forms.Padding(3);
-            this.tabRegister.Size = new System.Drawing.Size(768, 412);
+            this.tabRegister.Size = new System.Drawing.Size(768, 475);
             this.tabRegister.TabIndex = 1;
             this.tabRegister.Text = "Register/Update";
-            this.tabRegister.UseVisualStyleBackColor = true;
+            this.tabRegister.Click += new System.EventHandler(this.tabRegister_Click);
             // 
             // updateNewControl1
             // 
-            this.updateNewControl1.Location = new System.Drawing.Point(54, 42);
+            this.updateNewControl1.Location = new System.Drawing.Point(61, 6);
             this.updateNewControl1.Name = "updateNewControl1";
-            this.updateNewControl1.Size = new System.Drawing.Size(672, 314);
+            this.updateNewControl1.Principal = null;
+            this.updateNewControl1.Size = new System.Drawing.Size(672, 463);
             this.updateNewControl1.TabIndex = 0;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 506);
             this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
             this.Text = "Form1";

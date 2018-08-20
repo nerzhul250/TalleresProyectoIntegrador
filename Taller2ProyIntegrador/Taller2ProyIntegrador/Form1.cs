@@ -97,10 +97,11 @@ namespace Taller2ProyIntegrador
         {
             Manager = new ResearchManager();
             loadMarkers();
+            updateNewControl1.Principal = this;
            
         }
 
-        private void UpdateGroup()
+        public void UpdateGroup()
         {
             string codToUpdate = updateNewControl1.GetGroupCode();
             string[] information = new string[9];
@@ -128,7 +129,7 @@ namespace Taller2ProyIntegrador
             }
         }
         
-        private void newGroup()
+        public void NewGroup()
         {
             
             string grCode = updateNewControl1.GetGroupCode();
@@ -169,6 +170,11 @@ namespace Taller2ProyIntegrador
         private void mapOptionsControl1_Load(object sender, EventArgs e)
         {
             mapOptionsControl1.Principal = this;
+        }
+
+        private void tabRegister_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -183,7 +183,7 @@ namespace Modelo
             bool[] toLook = new bool[7];
 
             toSearch[0] = GroupCode;
-            toCompare[0] = true;
+            toLook[0] = true;
 
             List<ResearchGroup> group = GetGroups(toSearch, toLook);
             ResearchGroup toUpdate = null;
