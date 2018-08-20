@@ -23,7 +23,6 @@ namespace Taller2ProyIntegrador
         {
             InitializeComponent();
             markers = new GMap.NET.WindowsForms.GMapOverlay("markers");
-
         }
 
         private void gMapControl1_Load(object sender, EventArgs e)

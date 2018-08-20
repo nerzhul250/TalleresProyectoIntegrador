@@ -91,5 +91,15 @@ namespace Taller2ProyIntegrador
 
             return selected;
         }
+
+        private void btUpdate_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btNewGroup_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

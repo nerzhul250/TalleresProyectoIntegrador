@@ -3,20 +3,27 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Modelo
 {
     class Statistic
     {
-        public static int YEAR_FOUNDED = 0;
-        public static int GEN_RES_AREA = 1;
-        public static int SPCRES_AREA = 2;
-        public static int CATEGORY = 3;
-        public static int CITY_NAME = 4;
-        public static int STATE_NAME = 5;
-        public static int REGION_NAME = 6;
+
+        public const string ARTICLESROUTE = "../../../docs/articles.csv";
+
+        public const int YEAR_FOUNDED = 0;
+        public const int GEN_RES_AREA = 1;
+        public const int SPCRES_AREA = 2;
+        public const int CATEGORY = 3;
+        public const int CITY_NAME = 4;
+        public const int STATE_NAME = 5;
+        public const int REGION_NAME = 6;
 
         private Dictionary<String, List<ResearchGroup>>[] attributeCounter;
+        private int[] articles;
+
+        public Dictionary<string, List<ResearchGroup>>[] AttributeCounter { get => attributeCounter; set => attributeCounter = value; }
 
         public Statistic (List<ResearchGroup> groups)
         {
@@ -120,20 +127,67 @@ namespace Modelo
             }
         }
 
+        //<pre>:A and B are well defined(0<=A,B<=6)
         public double ProbabilityOfAttAOccurringInB (int A, int B, String valA, String valB)
         {
-
-            return 0;
+            double cases = 0;
+            switch (A)
+            {
+                case YEAR_FOUNDED:
+                    cases=attributeCounter[B][valB].Where(x => x.DateFounded.Year.Equals(valA)).ToList().Count;
+                    break;
+                case GEN_RES_AREA:
+                    cases = attributeCounter[B][valB].Where(x => x.GeneralResearchArea.Equals(valA)).ToList().Count;
+                    break;
+                case SPCRES_AREA:
+                    cases = attributeCounter[B][valB].Where(x => x.SpecificResearchArea.Equals(valA)).ToList().Count;
+                    break;
+                case CATEGORY:
+                    cases = attributeCounter[B][valB].Where(x => x.Category.Equals(valA)).ToList().Count;
+                    break;
+                case CITY_NAME:
+                    cases = attributeCounter[B][valB].Where(x => x.Location.CityName.Equals(valA)).ToList().Count;
+                    break;
+                case STATE_NAME:
+                    cases = attributeCounter[B][valB].Where(x => x.Location.StateName.Equals(valA)).ToList().Count;
+                    break;
+                case REGION_NAME:
+                    cases = attributeCounter[B][valB].Where(x => x.Location.RegionName.Equals(valA)).ToList().Count;
+                    break;
+                default:
+                    cases = 0;
+                    break;
+            }
+            return  cases/attributeCounter[B][valB].Count;
         }
 
+        //<pre>:C is well defined(0<=C<=6)
         public int CountGroupsHavingAInC (String A, int C)
         {
-            return 0;
+            if (!attributeCounter[C].ContainsKey(A))
+            {
+                return 0;
+            }
+            else {
+                return attributeCounter[C][A].Count;
+            }
         }
 
-        public void LoadArticles ()
+        public void LoadArticles()
         {
-
+            articles = new int[100];
+            var fileStream = File.OpenRead(ARTICLESROUTE);
+            var streamReader = new StreamReader(fileStream, Encoding.UTF8, true);
+            string line = streamReader.ReadLine();
+            while ((line = streamReader.ReadLine()) != null && !line.Equals(""))
+            {
+                string[] pre = line.Trim().Split(' ');
+                pre[0] = pre[0].Split(':')[2];
+                for (int i = 0; i < pre.Length; i++)
+                {
+                    articles[Int32.Parse(pre[i])]++;
+                }
+            }
         }
     }
 }

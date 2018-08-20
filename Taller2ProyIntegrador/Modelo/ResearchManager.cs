@@ -29,6 +29,7 @@ namespace Modelo
             randomGenerator = new Random();
             LoadResearchGroup();
             statistics = new Statistic(researchGroups);
+            statistics.LoadArticles();
 
         }
         public ListSerialisable<ResearchGroup> getAllResearchGroup()
