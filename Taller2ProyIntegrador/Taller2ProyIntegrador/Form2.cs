@@ -25,10 +25,7 @@ namespace Taller2ProyIntegrador
         {
             BuildYearFoundedChart();
             BuildGen_Res_AreaChart();
-            
             BuildCategoryChart();
-            
-            BuildState_NameChart();
             BuildRegion_NameChart();
 
             BuildList_View();
@@ -36,8 +33,16 @@ namespace Taller2ProyIntegrador
 
         private void BuildList_View()
         {
-          
-
+            Statistic alv = IPrincipal.Manager.Statistics;
+            Dictionary<int,int>[] bests = alv.MostRepeated();
+            for(int i = 0; i < 10; i++)
+            {
+            ListViewItem lista = new ListViewItem(i+1+ "");
+                List<int> p = bests[i].Keys.ToList();
+                lista.SubItems.Add(p[0]+"");
+                lista.SubItems.Add(bests[i][p[0]]+"");
+            listView1.Items.Add(lista);
+            }
         }
 
         private void BuildRegion_NameChart()
@@ -51,23 +56,32 @@ namespace Taller2ProyIntegrador
                 int count = stt.CountGroupsHavingAInC(reg, Statistic.REGION_NAME);
                 chart7.Series["Series1"].Points.AddXY(reg, count);
             }
-            chart7.ChartAreas[0].AxisX.Title = "Regiones";
-            chart7.ChartAreas[0].AxisY.Title = "#Grupos de investigacion";
+            chart7.ChartAreas[0].AxisX.Title = "Regions";
+            chart7.ChartAreas[0].AxisY.Title = "# Research groups";
         }
 
-        private void BuildState_NameChart()
+        private void BuildState_NameChart(string entrada)
         {
+            chart6.Series["Series1"].Points.Clear();
             Statistic stt = IPrincipal.Manager.Statistics;
-            List<string> states = new List<string>(stt.AttributeCounter[Statistic.STATE_NAME].Keys);
-            states = states.OrderBy(x => x).ToList();
-            for (int i = 0; i < states.Count; i++)
+            try
             {
-                string reg = states[i];
-                int count = stt.CountGroupsHavingAInC(reg, Statistic.STATE_NAME);
-                chart6.Series["Series1"].Points.AddXY(reg, count);
+                List<string> departments = new List<string>(stt.AttributeCounter[Statistic.STATE_NAME].Keys);
+                departments = departments.OrderBy(x => x).ToList();
+                for (int i = 0; i < departments.Count; i++)
+                {
+                    string dep = departments[i];
+                    int count = stt.CountAGivenB(dep, entrada, Statistic.STATE_NAME, Statistic.REGION_NAME);
+                    if (count != 0)
+                        chart6.Series["Series1"].Points.AddXY(dep, count);
+                }
+                chart6.ChartAreas[0].AxisX.Title = "States from region of " + entrada;
+                chart6.ChartAreas[0].AxisY.Title = "# Research groups";
             }
-            chart6.ChartAreas[0].AxisX.Title = "Departamentos";
-            chart6.ChartAreas[0].AxisY.Title = "#Grupos de investigacion";
+            catch (Exception e)
+            {
+                MessageBox.Show("Region not found");
+            }
         }
 
         private void BuildCity_NameChart(string entrada)
@@ -85,12 +99,12 @@ namespace Taller2ProyIntegrador
                     if (count != 0)
                         chart5.Series["Series1"].Points.AddXY(muni, count);
                 }
-                chart5.ChartAreas[0].AxisX.Title = "Municipios del departamento de " + entrada;
-                chart5.ChartAreas[0].AxisY.Title = "#Grupos de investigacion";
+                chart5.ChartAreas[0].AxisX.Title = "Cities from state of " + entrada;
+                chart5.ChartAreas[0].AxisY.Title = "# Research groups";
             }
             catch (Exception e)
             {
-                MessageBox.Show("Gran Área no encontrada");
+                MessageBox.Show("State not found");
             }
         }
 
@@ -105,8 +119,8 @@ namespace Taller2ProyIntegrador
                 int count = stt.CountGroupsHavingAInC(cat, Statistic.CATEGORY);
                 chart4.Series["Series1"].Points.AddXY(cat, count);
             }
-            chart4.ChartAreas[0].AxisX.Title = "Categorías";
-            chart4.ChartAreas[0].AxisY.Title = "#Grupos de investigacion";
+            chart4.ChartAreas[0].AxisX.Title = "Category";
+            chart4.ChartAreas[0].AxisY.Title = "# Research groups";
         }
 
         private void BuildSpc_Res_AreaChart(string entrada)
@@ -124,12 +138,12 @@ namespace Taller2ProyIntegrador
                     if (count != 0)
                         chart3.Series["Series1"].Points.AddXY(area, count);
                 }
-            chart3.ChartAreas[0].AxisX.Title = "Áreas específicas de conocimiento de "+ entrada;
-            chart3.ChartAreas[0].AxisY.Title = "#Grupos de investigacion";
+            chart3.ChartAreas[0].AxisX.Title = "Specific areas of knowledge of "+ entrada;
+            chart3.ChartAreas[0].AxisY.Title = "# Research groups";
             }
             catch (Exception e)
             {
-                MessageBox.Show("Gran Área no encontrada");
+                MessageBox.Show("General area not found");
             }
         }
 
@@ -144,8 +158,8 @@ namespace Taller2ProyIntegrador
                 int count = stt.CountGroupsHavingAInC(area, Statistic.GEN_RES_AREA);
                 chart2.Series["Series1"].Points.AddXY(area, count);
             }
-            chart2.ChartAreas[0].AxisX.Title = "Gran área de conocimiento";
-            chart2.ChartAreas[0].AxisY.Title = "#Grupos de investigacion";
+            chart2.ChartAreas[0].AxisX.Title = "General area of knowledge";
+            chart2.ChartAreas[0].AxisY.Title = "# Research groups";
         }
 
         private void BuildYearFoundedChart() {
@@ -176,20 +190,33 @@ namespace Taller2ProyIntegrador
                 co += stt.CountGroupsHavingAInC("" + j, Statistic.YEAR_FOUNDED);
             }
             chart1.Series["Series1"].Points.AddXY(inte, co);
-            chart1.ChartAreas[0].AxisX.Title = "Años";
-            chart1.ChartAreas[0].AxisY.Title = "#Grupos de investigacion";
+            chart1.ChartAreas[0].AxisX.Title = "Years";
+            chart1.ChartAreas[0].AxisY.Title = "# Research groups";
         }
 
         private void chart3_Click(object sender, EventArgs e)
         {
-            String entrada = Interaction.InputBox("Escriba la gran área para mostrar sus áreas específicas", "Áreas específicas", "Ciencias naturales");
+            String entrada = Interaction.InputBox("Write the General area to show its specific areas", "Specific areas", "Ciencias naturales");
             BuildSpc_Res_AreaChart(entrada);
         }
 
         private void chart5_Click(object sender, EventArgs e)
         {
-            String entrada = Interaction.InputBox("Escriba el departamento al cual se le quiere ver sus municipios", "Municipios", "Cauca");
+            String entrada = Interaction.InputBox("Write the state which you want to see its cities", "Cities", "Cauca");
             BuildCity_NameChart(entrada);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Statistic alv = IPrincipal.Manager.Statistics;
+            double result = alv.ProbabilityOfAttAOccurringInB(comboBox1.SelectedIndex, comboBox2.SelectedIndex, textBox1.Text, textBox2.Text);
+            label4.Text = result * 100 + "%";
+        }
+
+        private void chart6_Click(object sender, EventArgs e)
+        {
+            String entrada = Interaction.InputBox("Write the region which you want to see its states", "States", "Eje Cafetero");
+            BuildState_NameChart(entrada);
         }
     }
 }

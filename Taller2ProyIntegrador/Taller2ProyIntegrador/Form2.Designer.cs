@@ -66,6 +66,8 @@
             this.tabPage7 = new System.Windows.Forms.TabPage();
             this.chart7 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.tabPage8 = new System.Windows.Forms.TabPage();
+            this.label5 = new System.Windows.Forms.Label();
+            this.listView1 = new System.Windows.Forms.ListView();
             this.tabPage9 = new System.Windows.Forms.TabPage();
             this.label4 = new System.Windows.Forms.Label();
             this.textBox2 = new System.Windows.Forms.TextBox();
@@ -73,8 +75,12 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.listView1 = new System.Windows.Forms.ListView();
-            this.label5 = new System.Windows.Forms.Label();
+            this.timesVisited = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.IPArticulo = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.button1 = new System.Windows.Forms.Button();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
@@ -287,6 +293,7 @@
             this.chart6.Size = new System.Drawing.Size(1437, 709);
             this.chart6.TabIndex = 0;
             this.chart6.Text = "chart6";
+            this.chart6.Click += new System.EventHandler(this.chart6_Click);
             // 
             // tabPage7
             // 
@@ -330,8 +337,33 @@
             this.tabPage8.Text = "Articles Cited";
             this.tabPage8.UseVisualStyleBackColor = true;
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(578, 115);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(239, 25);
+            this.label5.TabIndex = 1;
+            this.label5.Text = "Top 10 Artículos Visitados";
+            // 
+            // listView1
+            // 
+            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.timesVisited,
+            this.IPArticulo,
+            this.columnHeader1});
+            this.listView1.Location = new System.Drawing.Point(406, 229);
+            this.listView1.Name = "listView1";
+            this.listView1.Size = new System.Drawing.Size(637, 444);
+            this.listView1.TabIndex = 0;
+            this.listView1.UseCompatibleStateImageBehavior = false;
+            this.listView1.View = System.Windows.Forms.View.Details;
+            // 
             // tabPage9
             // 
+            this.tabPage9.Controls.Add(this.comboBox2);
+            this.tabPage9.Controls.Add(this.comboBox1);
+            this.tabPage9.Controls.Add(this.button1);
             this.tabPage9.Controls.Add(this.label4);
             this.tabPage9.Controls.Add(this.textBox2);
             this.tabPage9.Controls.Add(this.label3);
@@ -358,6 +390,7 @@
             this.label4.Size = new System.Drawing.Size(128, 69);
             this.label4.TabIndex = 5;
             this.label4.Text = "0%";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // textBox2
             // 
@@ -371,7 +404,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Modern No. 20", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(922, 114);
+            this.label3.Location = new System.Drawing.Point(938, 115);
             this.label3.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(203, 38);
@@ -409,22 +442,64 @@
     "n attribute A if one chooses\r\nfrom a pool of research groups all meeting an attr" +
     "ibute B\r\n";
             // 
-            // listView1
+            // timesVisited
             // 
-            this.listView1.Location = new System.Drawing.Point(412, 238);
-            this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(547, 444);
-            this.listView1.TabIndex = 0;
-            this.listView1.UseCompatibleStateImageBehavior = false;
+            this.timesVisited.Text = "Posición";
+            this.timesVisited.Width = 92;
             // 
-            // label5
+            // IPArticulo
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(578, 115);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(239, 25);
-            this.label5.TabIndex = 1;
-            this.label5.Text = "Top 10 Artículos Visitados";
+            this.IPArticulo.Text = "Dirección Artículo";
+            this.IPArticulo.Width = 162;
+            // 
+            // columnHeader1
+            // 
+            this.columnHeader1.Text = "Veces Consultado";
+            this.columnHeader1.Width = 172;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(639, 201);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(123, 43);
+            this.button1.TabIndex = 6;
+            this.button1.Text = "Calculate";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "YearFounded",
+            "General Research Area",
+            "Specific Research Area",
+            "Category",
+            "City",
+            "State",
+            "Region",
+            ""});
+            this.comboBox1.Location = new System.Drawing.Point(258, 156);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 32);
+            this.comboBox1.TabIndex = 7;
+            // 
+            // comboBox2
+            // 
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Items.AddRange(new object[] {
+            "YearFounded",
+            "General Research Area",
+            "Specific Research Area",
+            "Category",
+            "City",
+            "State",
+            "Region",
+            ""});
+            this.comboBox2.Location = new System.Drawing.Point(945, 156);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(121, 32);
+            this.comboBox2.TabIndex = 8;
             // 
             // Form2
             // 
@@ -487,5 +562,11 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.ColumnHeader timesVisited;
+        private System.Windows.Forms.ColumnHeader IPArticulo;
+        private System.Windows.Forms.ColumnHeader columnHeader1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox comboBox2;
     }
 }

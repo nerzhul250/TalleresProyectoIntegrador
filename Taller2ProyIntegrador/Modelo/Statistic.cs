@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.Collections;
 
 namespace Modelo
 {
@@ -24,6 +25,7 @@ namespace Modelo
         private int[] articles;
 
         public Dictionary<string, List<ResearchGroup>>[] AttributeCounter { get => attributeCounter; set => attributeCounter = value; }
+        public int[] Articles { get => articles; set => articles = value; }
 
         public Statistic (List<ResearchGroup> groups)
         {
@@ -119,6 +121,47 @@ namespace Modelo
                     attributeCounter[CATEGORY].Add(x.Category, alv);
                 }
             }
+            LoadArticles();
+        }
+
+        public Dictionary<int,int>[] MostRepeated()
+        {
+            Dictionary<int,int> a = new Dictionary<int,int>();
+            for(int i=0; i< articles.Length;i++)
+            {
+                    a.Add(i, articles[i]);
+            }
+            List<int> val = a.Values.OrderBy(x => x).ToList();
+            Dictionary<int,int>[] bestArticlesEvah = new Dictionary<int,int>[10];
+            for(int i = 0; i<10; i++)
+            {
+                bestArticlesEvah[i] = new Dictionary<int, int>();
+            }
+            List<int> keys = a.Keys.ToList();
+            foreach (int x in keys)
+            {
+                     if (a[x] == val[val.Count - 1]&& !bestArticlesEvah[0].Any())
+                    bestArticlesEvah[0].Add(x, a[x]);
+                else if (a[x] == val[val.Count - 2] && !bestArticlesEvah[1].Any())
+                    bestArticlesEvah[1].Add(x,a[x]);
+                else if (a[x] == val[val.Count - 3] && !bestArticlesEvah[2].Any())
+                    bestArticlesEvah[2].Add(x, a[x]);
+                else if (a[x] == val[val.Count - 4] && !bestArticlesEvah[3].Any())
+                    bestArticlesEvah[3].Add(x, a[x]);
+                else if (a[x] == val[val.Count - 5] && !bestArticlesEvah[4].Any())
+                    bestArticlesEvah[4].Add(x, a[x]);
+                else if (a[x] == val[val.Count - 6] && !bestArticlesEvah[5].Any())
+                    bestArticlesEvah[5].Add(x, a[x]);
+                else if (a[x] == val[val.Count - 7] && !bestArticlesEvah[6].Any())
+                    bestArticlesEvah[6].Add(x, a[x]);
+                else if (a[x] == val[val.Count - 8] && !bestArticlesEvah[7].Any())
+                    bestArticlesEvah[7].Add(x, a[x]);
+                else if (a[x] == val[val.Count - 9] && !bestArticlesEvah[8].Any())
+                    bestArticlesEvah[8].Add(x, a[x]);
+                else if (a[x] == val[val.Count - 10] && !bestArticlesEvah[9].Any())
+                    bestArticlesEvah[9].Add(x,a[x]);
+            }
+            return bestArticlesEvah;
         }
 
         //<pre>:A and B are well defined(0<=A,B<=6)
@@ -214,6 +257,26 @@ namespace Modelo
                     articles[Int32.Parse(pre[i])]++;
                 }
             }
+        }
+    }
+    //En proceso de mejora
+    internal class Comparator : IComparer
+    {
+
+        int IComparer.Compare(object x, object y)
+        {
+            char[] a = x.ToString().ToCharArray();
+            char[] b = y.ToString().ToCharArray();
+            int retorno = 0;
+            for(int i = 0; i<a.Length; i++)
+            {
+                if(a[i]<127 && a[i] > 31)
+                {
+                    if(a[i]!=b[i])
+                        retorno = -1;
+                }
+            }
+            return retorno;
         }
     }
 }
